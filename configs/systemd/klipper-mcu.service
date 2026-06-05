@@ -1,0 +1,18 @@
+[Unit]
+Description=Klipper Linux-process MCU (host MCU)
+Documentation=https://www.klipper3d.org/RPi_microcontroller.html
+After=network-online.target
+Before=klipper.service
+
+[Install]
+WantedBy=multi-user.target
+
+[Service]
+Type=simple
+User=klipper
+Group=klipper
+RemainAfterExit=yes
+ExecStart=/usr/local/bin/klipper-mcu -r -I /tmp/klipper_host_mcu
+AmbientCapabilities=CAP_SYS_NICE CAP_SYS_RESOURCE
+Restart=on-failure
+RestartSec=5

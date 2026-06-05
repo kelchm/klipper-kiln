@@ -1,0 +1,21 @@
+[Unit]
+Description=Klipper 3D Printer Firmware
+Documentation=https://www.klipper3d.org/
+After=network-online.target
+Wants=network-online.target
+StartLimitIntervalSec=600
+StartLimitBurst=3
+
+[Install]
+WantedBy=multi-user.target
+
+[Service]
+Type=simple
+User=klipper
+Group=klipper
+RemainAfterExit=yes
+WorkingDirectory=/home/klipper/klipper
+EnvironmentFile=/home/klipper/printer_data/systemd/klipper.env
+ExecStart=/home/klipper/klippy-env/bin/python $KLIPPER_ARGS
+Restart=on-failure
+RestartSec=10

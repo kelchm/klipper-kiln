@@ -1,0 +1,13 @@
+[Unit]
+Description=Pi power/thermal/load watchdog (persistent diagnostics)
+After=local-fs.target
+
+[Install]
+WantedBy=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/sbin/duncan-power-watchdog.sh
+Restart=always
+RestartSec=5
+Nice=10
