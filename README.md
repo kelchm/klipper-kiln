@@ -33,7 +33,7 @@ DIY electronic kiln controller built on Klipper firmware, treating the kiln as a
 ## Layout
 
 ```
-config/                          # Mirrors ~/printer_data/config/ on the Pi.
+config/                          # Mirrors ~/kiln_data/config/ on the Pi.
                                  #   Klipper main config + includes + Moonraker.
   kiln.cfg                       # Main entry. MCUs + base sections + includes.
   sensors.cfg                    # [temperature_sensor] blocks.
@@ -51,7 +51,7 @@ config/                          # Mirrors ~/printer_data/config/ on the Pi.
   programs/                      # One file per kiln firing program.
     test.cfg                     # Stub low-temp demo (~40s cycle).
 
-pi/                              # Pi host-side configs (everything outside printer_data).
+pi/                              # Pi host-side configs (everything outside kiln_data).
   boot/
     config.txt                   # → /boot/firmware/config.txt
   systemd/
@@ -95,7 +95,7 @@ tools/                           # Dev tooling.
    ssh kelchm@duncan0 'bash /tmp/install-base.sh'
    ```
 4. The MCUs ship with the v0.13.0 Klipper firmware we built; nothing to flash unless they're virgin chips. If they need flashing, see `firmware/` for the `.kconfig` and build steps.
-5. Drop the contents of this repo's `config/` directory into `/home/klipper/printer_data/config/` (or symlink it). Update the MCU USB serial numbers in `kiln.cfg` if you swap chips.
+5. Drop the contents of this repo's `config/` directory into `/home/klipper/kiln_data/config/` (or symlink it). Update the MCU USB serial numbers in `kiln.cfg` if you swap chips.
 6. `sudo systemctl restart klipper` — klippy should reach `state: ready`.
 
 ## Gotchas (collected the hard way)

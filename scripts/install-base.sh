@@ -58,11 +58,11 @@ as_klipper $KH/klippy-env/bin/pip install -r $KH/klipper/scripts/klippy-requirem
 log "Pre-build c_helper.so (prevents OOM on klipper start)"
 as_klipper bash -c "cd $KH/klipper/klippy/chelper && $KH/klippy-env/bin/python -c 'import sys; sys.path.insert(0, \"..\"); from chelper import get_ffi; get_ffi(); print(\"c_helper.so built OK\")'"
 
-log "printer_data directory layout"
-as_klipper mkdir -p $KH/printer_data/{config,logs,gcodes,comms,systemd,backup,database,certs}
+log "kiln_data directory layout"
+as_klipper mkdir -p $KH/kiln_data/{config,logs,gcodes,comms,systemd,backup,database,certs}
 
 log "Stub kiln.cfg (overwritten later when real configs are deployed)"
-as_klipper bash -c "[[ -f $KH/printer_data/config/kiln.cfg ]] || cat > $KH/printer_data/config/kiln.cfg" <<'CFG'
+as_klipper bash -c "[[ -f $KH/kiln_data/config/kiln.cfg ]] || cat > $KH/kiln_data/config/kiln.cfg" <<'CFG'
 # Kiln controller — base stub. Replace with the deployed config tree.
 [mcu]
 serial: /dev/null
@@ -71,7 +71,7 @@ kinematics: none
 max_velocity: 1
 max_accel: 1
 [virtual_sdcard]
-path: ~/printer_data/gcodes
+path: ~/kiln_data/gcodes
 [display_status]
 [pause_resume]
 CFG
@@ -81,10 +81,10 @@ CFG
 #======================================================================#
 
 log "klipper.service systemd unit"
-sudo tee $KH/printer_data/systemd/klipper.env >/dev/null <<ENV
-KLIPPER_ARGS="$KH/klipper/klippy/klippy.py $KH/printer_data/config/kiln.cfg -I $KH/printer_data/comms/klippy.serial -l $KH/printer_data/logs/klippy.log -a $KH/printer_data/comms/klippy.sock"
+sudo tee $KH/kiln_data/systemd/klipper.env >/dev/null <<ENV
+KLIPPER_ARGS="$KH/klipper/klippy/klippy.py $KH/kiln_data/config/kiln.cfg -I $KH/kiln_data/comms/klippy.serial -l $KH/kiln_data/logs/klippy.log -a $KH/kiln_data/comms/klippy.sock"
 ENV
-sudo chown $KU:$KU $KH/printer_data/systemd/klipper.env
+sudo chown $KU:$KU $KH/kiln_data/systemd/klipper.env
 
 sudo tee /etc/systemd/system/klipper.service >/dev/null <<UNIT
 [Unit]
@@ -104,7 +104,7 @@ User=$KU
 Group=$KU
 RemainAfterExit=yes
 WorkingDirectory=$KH/klipper
-EnvironmentFile=$KH/printer_data/systemd/klipper.env
+EnvironmentFile=$KH/kiln_data/systemd/klipper.env
 ExecStart=$KH/klippy-env/bin/python \$KLIPPER_ARGS
 Restart=on-failure
 RestartSec=10
@@ -129,9 +129,9 @@ log "Revoke temporary sudo grant"
 sudo rm -f /etc/sudoers.d/099-klipper-install
 
 log "Moonraker config: UDS path + authorization + update_manager"
-as_klipper sed -i "s|^klippy_uds_address:.*|klippy_uds_address: $KH/printer_data/comms/klippy.sock|" $KH/printer_data/config/moonraker.conf
-if ! sudo -u $KU grep -q '^\[authorization\]' $KH/printer_data/config/moonraker.conf; then
-    sudo -u $KU bash -c "cat >> $KH/printer_data/config/moonraker.conf" <<'MR'
+as_klipper sed -i "s|^klippy_uds_address:.*|klippy_uds_address: $KH/kiln_data/comms/klippy.sock|" $KH/kiln_data/config/moonraker.conf
+if ! sudo -u $KU grep -q '^\[authorization\]' $KH/kiln_data/config/moonraker.conf; then
+    sudo -u $KU bash -c "cat >> $KH/kiln_data/config/moonraker.conf" <<'MR'
 
 [authorization]
 force_logins: False
