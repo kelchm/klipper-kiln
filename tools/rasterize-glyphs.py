@@ -20,7 +20,7 @@ import sys
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 TTF_PATH = SCRIPT_DIR / "JetBrainsMono-Bold.ttf"
-OUT_PATH = SCRIPT_DIR.parent / "configs" / "pi" / "big-digits.cfg"
+OUT_PATH = SCRIPT_DIR.parent / "configs" / "pi" / "big-digits.generated.cfg"
 
 CELL_W = 16          # width of each [display_glyph]
 CELL_H = 16          # height of each [display_glyph] (Klipper-fixed)
