@@ -58,6 +58,16 @@ as_klipper $KH/klippy-env/bin/pip install -r $KH/klipper/scripts/klippy-requirem
 log "Pre-build c_helper.so (prevents OOM on klipper start)"
 as_klipper bash -c "cd $KH/klipper/klippy/chelper && $KH/klippy-env/bin/python -c 'import sys; sys.path.insert(0, \"..\"); from chelper import get_ffi; get_ffi(); print(\"c_helper.so built OK\")'"
 
+log "Install gcode_shell_command extension (used by network.cfg for WiFi toggle)"
+as_klipper curl -sSfL -o $KH/klipper/klippy/extras/gcode_shell_command.py \
+    https://raw.githubusercontent.com/DangerKlippers/danger-klipper/master/klippy/extras/gcode_shell_command.py
+
+# Note: /etc/sudoers.d/099-klipper-nmcli must be created manually after install
+# with the actual home-WiFi connection name. Example:
+#   echo "klipper ALL=(ALL) NOPASSWD: /usr/bin/nmcli connection up kiln-ap, /usr/bin/nmcli connection up <HOME_WIFI_NAME>" \
+#     | sudo tee /etc/sudoers.d/099-klipper-nmcli
+#   sudo chmod 440 /etc/sudoers.d/099-klipper-nmcli
+
 log "kiln_data directory layout"
 as_klipper mkdir -p $KH/kiln_data/{config,logs,gcodes,comms,systemd,backup,database,certs}
 
