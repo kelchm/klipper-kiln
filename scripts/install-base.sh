@@ -243,6 +243,14 @@ if ! grep -q '^dtoverlay=dwc2' /boot/firmware/config.txt; then
     echo 'dtoverlay=dwc2,dr_mode=host' | sudo tee -a /boot/firmware/config.txt >/dev/null
 fi
 
+log "Disable WiFi power-save (Pi Zero 2 W brcmfmac default is ON → 50-100ms SSH typing latency)"
+WIFI_CONN=$(nmcli -t -f NAME,TYPE connection show --active | awk -F: '$2=="802-11-wireless"{print $1; exit}')
+if [[ -n "$WIFI_CONN" ]]; then
+    sudo nmcli connection modify "$WIFI_CONN" 802-11-wireless.powersave 2
+    sudo nmcli connection up "$WIFI_CONN" >/dev/null 2>&1 || true
+    echo "powersave disabled on: $WIFI_CONN"
+fi
+
 #======================================================================#
 # 7) Start klipper LAST                                                 #
 #======================================================================#

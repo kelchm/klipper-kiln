@@ -9,20 +9,21 @@ CONFIG_USBSERIAL=y
 CONFIG_USB_VENDOR_ID=0x1d50
 CONFIG_USB_DEVICE_ID=0x614e
 CONFIG_USB_SERIAL_NUMBER_CHIPID=y
-# WANT_* disables required to fit Klipper into the F042F6's 32 KB flash.
-# Default config overflows by ~5 KB on v0.13.0 stable.
-CONFIG_WANT_ADC=n
+
+# Trim Klipper to fit the F042F6P6's 32 KB flash. The default v0.13.0 build
+# overflows by ~5 KB; the WANT_*=n lines below disable real features and bring
+# the binary to ~27.5 KB.
+#
+# Symbols intentionally NOT listed here: WANT_ADC, WANT_I2C, WANT_TMCUART,
+# WANT_PULSE_COUNTER, WANT_ST7920, WANT_HD44780, WANT_BMI160. None of these
+# exist in v0.13.0 Klipper, so `make olddefconfig` silently drops them. ADC
+# support on STM32F0 is unconditionally compiled in via the `HAVE_GPIO_ADC`
+# auto-select in src/stm32/Kconfig — there is no flag to disable it.
 CONFIG_WANT_SOFTWARE_SPI=n
-CONFIG_WANT_I2C=n
 CONFIG_WANT_SOFTWARE_I2C=n
-CONFIG_WANT_TMCUART=n
-CONFIG_WANT_PULSE_COUNTER=n
-CONFIG_WANT_ST7920=n
-CONFIG_WANT_HD44780=n
+CONFIG_WANT_THERMOCOUPLE=n
 CONFIG_WANT_ADXL345=n
 CONFIG_WANT_LIS2DW=n
-CONFIG_WANT_BMI160=n
 CONFIG_WANT_MPU9250=n
 CONFIG_WANT_ICM20948=n
-CONFIG_WANT_THERMOCOUPLE=n
 CONFIG_WANT_HX71X=n
