@@ -61,9 +61,9 @@ as_klipper bash -c "cd $KH/klipper/klippy/chelper && $KH/klippy-env/bin/python -
 log "printer_data directory layout"
 as_klipper mkdir -p $KH/printer_data/{config,logs,gcodes,comms,systemd,backup,database,certs}
 
-log "Stub printer.cfg (overwritten later when MCUs are wired up)"
-as_klipper bash -c "[[ -f $KH/printer_data/config/printer.cfg ]] || cat > $KH/printer_data/config/printer.cfg" <<'CFG'
-# Kiln controller — base stub. Replace with real MCU + heater config.
+log "Stub kiln.cfg (overwritten later when real configs are deployed)"
+as_klipper bash -c "[[ -f $KH/printer_data/config/kiln.cfg ]] || cat > $KH/printer_data/config/kiln.cfg" <<'CFG'
+# Kiln controller — base stub. Replace with the deployed config tree.
 [mcu]
 serial: /dev/null
 [printer]
@@ -82,7 +82,7 @@ CFG
 
 log "klipper.service systemd unit"
 sudo tee $KH/printer_data/systemd/klipper.env >/dev/null <<ENV
-KLIPPER_ARGS="$KH/klipper/klippy/klippy.py $KH/printer_data/config/printer.cfg -I $KH/printer_data/comms/klippy.serial -l $KH/printer_data/logs/klippy.log -a $KH/printer_data/comms/klippy.sock"
+KLIPPER_ARGS="$KH/klipper/klippy/klippy.py $KH/printer_data/config/kiln.cfg -I $KH/printer_data/comms/klippy.serial -l $KH/printer_data/logs/klippy.log -a $KH/printer_data/comms/klippy.sock"
 ENV
 sudo chown $KU:$KU $KH/printer_data/systemd/klipper.env
 
