@@ -1,0 +1,1005 @@
+1781496329 klippy=ready state=firing step=1/4 chamber=137.9 target=137.6 sp=137.6 pow=0.00 hs=34.8 peak=137.9 coil=1.0
+1781496339 klippy=ready state=firing step=1/4 chamber=138.5 target=138.4 sp=138.4 pow=0.00 hs=34.5 peak=138.5 coil=1.0
+1781496350 klippy=ready state=firing step=1/4 chamber=139.2 target=139.2 sp=139.2 pow=0.00 hs=34.4 peak=139.1 coil=1.0
+1781496360 klippy=ready state=firing step=1/4 chamber=139.5 target=140.1 sp=140.1 pow=1.00 hs=34.3 peak=139.5 coil=1.0
+1781496370 klippy=ready state=firing step=1/4 chamber=140.1 target=141.0 sp=141.0 pow=1.00 hs=34.4 peak=140.1 coil=1.0
+1781496380 klippy=ready state=firing step=1/4 chamber=140.9 target=141.8 sp=141.8 pow=1.00 hs=34.8 peak=140.9 coil=1.0
+1781496390 klippy=ready state=firing step=1/4 chamber=142.0 target=142.7 sp=142.7 pow=1.00 hs=35.2 peak=142.0 coil=1.0
+1781496400 klippy=ready state=firing step=1/4 chamber=143.4 target=143.5 sp=143.5 pow=1.00 hs=35.7 peak=143.4 coil=1.0
+1781496410 klippy=ready state=firing step=1/4 chamber=145.0 target=144.3 sp=144.3 pow=0.00 hs=36.2 peak=144.9 coil=1.0
+1781496420 klippy=ready state=firing step=1/4 chamber=146.0 target=145.2 sp=145.2 pow=0.00 hs=36.4 peak=145.9 coil=1.0
+1781496431 klippy=ready state=firing step=1/4 chamber=146.8 target=146.0 sp=146.0 pow=0.00 hs=36.2 peak=146.8 coil=1.0
+1781496441 klippy=ready state=firing step=1/4 chamber=147.7 target=146.9 sp=146.9 pow=0.00 hs=36.0 peak=147.7 coil=1.0
+1781496451 klippy=ready state=firing step=1/4 chamber=148.5 target=147.7 sp=147.7 pow=0.00 hs=35.8 peak=148.5 coil=1.0
+1781496461 klippy=ready state=firing step=1/4 chamber=149.2 target=148.6 sp=148.6 pow=0.00 hs=35.7 peak=149.2 coil=1.0
+1781496472 klippy=ready state=firing step=1/4 chamber=149.9 target=149.4 sp=149.4 pow=0.00 hs=35.6 peak=149.9 coil=1.0
+1781496482 klippy=ready state=firing step=1/4 chamber=150.5 target=150.3 sp=150.3 pow=0.00 hs=35.4 peak=150.5 coil=1.0
+1781496492 klippy=ready state=firing step=1/4 chamber=151.1 target=151.2 sp=151.2 pow=0.00 hs=35.2 peak=151.1 coil=1.0
+1781496502 klippy=ready state=firing step=1/4 chamber=151.6 target=152.0 sp=152.0 pow=0.00 hs=35.0 peak=151.6 coil=1.0
+1781496513 klippy=ready state=firing step=1/4 chamber=152.1 target=152.8 sp=152.8 pow=1.00 hs=35.0 peak=152.1 coil=1.0
+1781496523 klippy=ready state=firing step=1/4 chamber=153.0 target=153.8 sp=153.8 pow=1.00 hs=35.2 peak=152.9 coil=1.0
+1781496533 klippy=ready state=firing step=1/4 chamber=154.0 target=154.6 sp=154.6 pow=1.00 hs=35.8 peak=154.0 coil=1.0
+1781496543 klippy=ready state=firing step=1/4 chamber=155.4 target=155.4 sp=155.4 pow=1.00 hs=36.2 peak=155.3 coil=1.0
+1781496553 klippy=ready state=firing step=1/4 chamber=156.9 target=156.3 sp=156.3 pow=0.00 hs=36.8 peak=156.9 coil=1.0
+1781496564 klippy=ready state=firing step=1/4 chamber=157.9 target=157.1 sp=157.1 pow=0.00 hs=37.0 peak=157.9 coil=1.0
+1781496574 klippy=ready state=firing step=1/4 chamber=158.8 target=157.9 sp=157.9 pow=0.00 hs=36.8 peak=158.8 coil=1.0
+1781496584 klippy=ready state=firing step=1/4 chamber=159.6 target=158.8 sp=158.8 pow=0.00 hs=36.6 peak=159.5 coil=1.0
+1781496594 klippy=ready state=firing step=1/4 chamber=160.3 target=159.6 sp=159.6 pow=0.00 hs=36.5 peak=160.2 coil=1.0
+1781496604 klippy=ready state=firing step=1/4 chamber=161.0 target=160.5 sp=160.5 pow=0.00 hs=36.3 peak=161.0 coil=1.0
+1781496614 klippy=ready state=firing step=1/4 chamber=161.7 target=161.3 sp=161.3 pow=0.00 hs=36.2 peak=161.7 coil=1.0
+1781496625 klippy=ready state=firing step=1/4 chamber=162.2 target=162.2 sp=162.2 pow=0.00 hs=35.9 peak=162.2 coil=1.0
+1781496635 klippy=ready state=firing step=1/4 chamber=162.8 target=163.0 sp=163.0 pow=0.00 hs=35.8 peak=162.8 coil=1.0
+1781496645 klippy=ready state=firing step=1/4 chamber=163.3 target=163.9 sp=163.9 pow=1.00 hs=35.7 peak=163.3 coil=1.0
+1781496655 klippy=ready state=firing step=1/4 chamber=163.9 target=164.8 sp=164.8 pow=1.00 hs=35.8 peak=163.9 coil=1.0
+1781496666 klippy=ready state=firing step=1/4 chamber=164.7 target=165.6 sp=165.6 pow=1.00 hs=36.1 peak=164.7 coil=1.0
+1781496676 klippy=ready state=firing step=1/4 chamber=165.9 target=166.4 sp=166.4 pow=1.00 hs=36.5 peak=165.8 coil=1.0
+1781496686 klippy=ready state=firing step=1/4 chamber=167.4 target=167.4 sp=167.4 pow=1.00 hs=37.1 peak=167.4 coil=1.0
+1781496697 klippy=ready state=firing step=1/4 chamber=168.9 target=168.2 sp=168.2 pow=0.00 hs=37.4 peak=168.9 coil=1.0
+1781496707 klippy=ready state=firing step=1/4 chamber=169.9 target=169.0 sp=169.0 pow=0.00 hs=37.5 peak=169.9 coil=1.0
+1781496717 klippy=ready state=firing step=1/4 chamber=170.8 target=169.9 sp=169.9 pow=0.00 hs=37.4 peak=170.7 coil=1.0
+1781496727 klippy=ready state=firing step=1/4 chamber=171.5 target=170.7 sp=170.7 pow=0.00 hs=37.2 peak=171.4 coil=1.0
+1781496737 klippy=ready state=firing step=1/4 chamber=172.2 target=171.6 sp=171.6 pow=0.00 hs=37.1 peak=172.2 coil=1.0
+1781496748 klippy=ready state=firing step=1/4 chamber=172.9 target=172.4 sp=172.4 pow=0.00 hs=36.9 peak=172.9 coil=1.0
+1781496758 klippy=ready state=firing step=1/4 chamber=173.6 target=173.3 sp=173.3 pow=0.00 hs=36.7 peak=173.6 coil=1.0
+1781496768 klippy=ready state=firing step=1/4 chamber=174.2 target=174.1 sp=174.1 pow=0.00 hs=36.5 peak=174.2 coil=1.0
+1781496778 klippy=ready state=firing step=1/4 chamber=174.6 target=174.9 sp=174.9 pow=0.00 hs=36.4 peak=174.6 coil=1.0
+1781496789 klippy=ready state=firing step=1/4 chamber=175.2 target=175.9 sp=175.9 pow=1.00 hs=36.2 peak=175.1 coil=1.0
+1781496799 klippy=ready state=firing step=1/4 chamber=175.8 target=176.7 sp=176.7 pow=1.00 hs=36.4 peak=175.8 coil=1.0
+1781496809 klippy=ready state=firing step=1/4 chamber=176.8 target=177.5 sp=177.5 pow=1.00 hs=36.7 peak=176.7 coil=1.0
+1781496819 klippy=ready state=firing step=1/4 chamber=178.3 target=178.4 sp=178.4 pow=1.00 hs=37.2 peak=178.1 coil=1.0
+1781496829 klippy=ready state=firing step=1/4 chamber=179.8 target=179.3 sp=179.3 pow=0.00 hs=37.8 peak=179.8 coil=1.0
+1781496840 klippy=ready state=firing step=1/4 chamber=181.0 target=180.1 sp=180.1 pow=0.00 hs=37.8 peak=180.9 coil=1.0
+1781496850 klippy=ready state=firing step=1/4 chamber=181.8 target=181.0 sp=181.0 pow=0.00 hs=37.9 peak=181.7 coil=1.0
+1781496860 klippy=ready state=firing step=1/4 chamber=182.5 target=181.8 sp=181.8 pow=0.00 hs=37.6 peak=182.4 coil=1.0
+1781496870 klippy=ready state=firing step=1/4 chamber=183.2 target=182.7 sp=182.7 pow=0.00 hs=37.4 peak=183.2 coil=1.0
+1781496881 klippy=ready state=firing step=1/4 chamber=183.8 target=183.5 sp=183.5 pow=0.00 hs=37.3 peak=183.8 coil=1.0
+1781496891 klippy=ready state=firing step=1/4 chamber=184.4 target=184.4 sp=184.4 pow=0.00 hs=37.1 peak=184.4 coil=1.0
+1781496901 klippy=ready state=firing step=1/4 chamber=185.0 target=185.2 sp=185.2 pow=0.00 hs=37.0 peak=184.9 coil=1.0
+1781496912 klippy=ready state=firing step=1/4 chamber=185.4 target=186.1 sp=186.1 pow=1.00 hs=36.6 peak=185.4 coil=1.0
+1781496922 klippy=ready state=firing step=1/4 chamber=186.1 target=187.0 sp=187.0 pow=1.00 hs=36.8 peak=186.1 coil=1.0
+1781496932 klippy=ready state=firing step=1/4 chamber=187.2 target=187.8 sp=187.8 pow=1.00 hs=37.3 peak=187.1 coil=1.0
+1781496942 klippy=ready state=firing step=1/4 chamber=188.6 target=188.6 sp=188.6 pow=1.00 hs=37.8 peak=188.5 coil=1.0
+1781496953 klippy=ready state=firing step=1/4 chamber=190.2 target=189.6 sp=189.6 pow=0.00 hs=38.2 peak=190.2 coil=1.0
+1781496963 klippy=ready state=firing step=1/4 chamber=191.2 target=190.4 sp=190.4 pow=0.00 hs=38.2 peak=191.2 coil=1.0
+1781496973 klippy=ready state=firing step=1/4 chamber=192.0 target=191.2 sp=191.2 pow=0.00 hs=38.1 peak=192.0 coil=1.0
+1781496983 klippy=ready state=firing step=1/4 chamber=192.7 target=192.1 sp=192.1 pow=0.00 hs=37.9 peak=192.6 coil=1.0
+1781496993 klippy=ready state=firing step=1/4 chamber=193.4 target=192.9 sp=192.9 pow=0.00 hs=37.8 peak=193.4 coil=1.0
+1781497004 klippy=ready state=firing step=1/4 chamber=194.1 target=193.7 sp=193.7 pow=0.00 hs=37.6 peak=194.0 coil=1.0
+1781497014 klippy=ready state=firing step=1/4 chamber=194.6 target=194.6 sp=194.6 pow=0.00 hs=37.4 peak=194.6 coil=1.0
+1781497024 klippy=ready state=firing step=1/4 chamber=195.1 target=195.5 sp=195.5 pow=0.00 hs=37.3 peak=195.1 coil=1.0
+1781497034 klippy=ready state=firing step=1/4 chamber=195.6 target=196.3 sp=196.3 pow=1.00 hs=37.1 peak=195.6 coil=1.0
+1781497044 klippy=ready state=firing step=1/4 chamber=196.5 target=197.1 sp=197.1 pow=1.00 hs=37.5 peak=196.4 coil=1.0
+1781497055 klippy=ready state=firing step=1/4 chamber=197.7 target=198.1 sp=198.1 pow=1.00 hs=37.9 peak=197.7 coil=1.0
+1781497065 klippy=ready state=firing step=1/4 chamber=199.2 target=198.9 sp=198.9 pow=1.00 hs=38.4 peak=199.1 coil=1.0
+1781497075 klippy=ready state=firing step=1/4 chamber=200.7 target=199.7 sp=199.7 pow=0.00 hs=38.6 peak=200.6 coil=1.0
+1781497086 klippy=ready state=firing step=1/4 chamber=201.6 target=200.6 sp=200.6 pow=0.00 hs=38.7 peak=201.4 coil=1.0
+1781497096 klippy=ready state=firing step=1/4 chamber=202.1 target=201.4 sp=201.4 pow=0.00 hs=38.5 peak=202.1 coil=1.0
+1781497106 klippy=ready state=firing step=1/4 chamber=202.8 target=202.3 sp=202.3 pow=0.00 hs=38.3 peak=202.8 coil=1.0
+1781497116 klippy=ready state=firing step=1/4 chamber=203.4 target=203.2 sp=203.2 pow=0.00 hs=38.0 peak=203.4 coil=1.0
+1781497126 klippy=ready state=firing step=1/4 chamber=204.1 target=204.0 sp=204.0 pow=0.00 hs=37.9 peak=204.0 coil=1.0
+1781497136 klippy=ready state=firing step=1/4 chamber=204.4 target=204.8 sp=204.8 pow=0.00 hs=37.7 peak=204.4 coil=1.0
+1781497147 klippy=ready state=firing step=1/4 chamber=204.8 target=205.7 sp=205.7 pow=1.00 hs=37.5 peak=204.8 coil=1.0
+1781497157 klippy=ready state=firing step=1/4 chamber=205.6 target=206.6 sp=206.6 pow=1.00 hs=37.8 peak=205.5 coil=1.0
+1781497167 klippy=ready state=firing step=1/4 chamber=206.8 target=207.4 sp=207.4 pow=1.00 hs=38.3 peak=206.7 coil=1.0
+1781497178 klippy=ready state=firing step=1/4 chamber=208.4 target=208.2 sp=208.2 pow=1.00 hs=38.7 peak=208.2 coil=1.0
+1781497188 klippy=ready state=firing step=1/4 chamber=209.9 target=209.1 sp=209.1 pow=0.00 hs=39.1 peak=209.8 coil=1.0
+1781497198 klippy=ready state=firing step=1/4 chamber=210.8 target=210.0 sp=210.0 pow=0.00 hs=39.2 peak=210.8 coil=1.0
+1781497208 klippy=ready state=firing step=1/4 chamber=211.7 target=210.8 sp=210.8 pow=0.00 hs=38.9 peak=211.6 coil=1.0
+1781497218 klippy=ready state=firing step=1/4 chamber=212.3 target=211.7 sp=211.7 pow=0.00 hs=38.8 peak=212.2 coil=1.0
+1781497229 klippy=ready state=firing step=1/4 chamber=213.0 target=212.5 sp=212.5 pow=0.00 hs=38.5 peak=212.9 coil=1.0
+1781497239 klippy=ready state=firing step=1/4 chamber=213.5 target=213.3 sp=213.3 pow=0.00 hs=38.3 peak=213.6 coil=1.0
+1781497718 klippy=ready state=firing step=1/4 chamber=253.8 target=253.3 sp=253.3 pow=0.00 hs=40.7 peak=253.8 coil=1.0
+1781497728 klippy=ready state=firing step=1/4 chamber=254.3 target=254.1 sp=254.1 pow=0.00 hs=40.4 peak=254.3 coil=1.0
+1781497739 klippy=ready state=firing step=1/4 chamber=254.7 target=255.0 sp=255.0 pow=0.00 hs=40.2 peak=254.7 coil=1.0
+1781497749 klippy=ready state=firing step=1/4 chamber=255.2 target=255.9 sp=255.9 pow=1.00 hs=40.0 peak=255.2 coil=1.0
+1781497759 klippy=ready state=firing step=1/4 chamber=255.9 target=256.7 sp=256.7 pow=1.00 hs=40.2 peak=255.8 coil=1.0
+1781497770 klippy=ready state=firing step=1/4 chamber=257.0 target=257.5 sp=257.5 pow=1.00 hs=40.4 peak=256.9 coil=1.0
+1781497780 klippy=ready state=firing step=1/4 chamber=258.5 target=258.5 sp=258.5 pow=1.00 hs=40.8 peak=258.4 coil=1.0
+1781497790 klippy=ready state=firing step=1/4 chamber=260.1 target=259.3 sp=259.3 pow=0.00 hs=41.2 peak=260.0 coil=1.0
+1781497800 klippy=ready state=firing step=1/4 chamber=261.0 target=260.1 sp=260.1 pow=0.00 hs=41.2 peak=260.9 coil=1.0
+1781497811 klippy=ready state=firing step=1/4 chamber=259.3 target=261.0 sp=261.0 pow=1.00 hs=41.1 peak=261.3 coil=1.0
+1781497821 klippy=ready state=firing step=1/4 chamber=260.6 target=261.9 sp=261.9 pow=1.00 hs=41.1 peak=261.3 coil=1.0
+1781497831 klippy=ready state=firing step=1/4 chamber=262.4 target=262.7 sp=262.7 pow=1.00 hs=41.5 peak=262.3 coil=1.0
+1781497841 klippy=ready state=firing step=1/4 chamber=264.4 target=263.5 sp=263.5 pow=0.00 hs=41.8 peak=264.3 coil=1.0
+1781497851 klippy=ready state=firing step=1/4 chamber=265.5 target=264.4 sp=264.4 pow=0.00 hs=42.0 peak=265.4 coil=1.0
+1781497862 klippy=ready state=firing step=1/4 chamber=266.4 target=265.3 sp=265.3 pow=0.00 hs=41.8 peak=266.4 coil=1.0
+1781497872 klippy=ready state=firing step=1/4 chamber=267.1 target=266.1 sp=266.1 pow=0.00 hs=41.6 peak=267.1 coil=1.0
+1781497882 klippy=ready state=firing step=1/4 chamber=267.8 target=267.0 sp=267.0 pow=0.00 hs=41.3 peak=267.7 coil=1.0
+1781497893 klippy=ready state=firing step=1/4 chamber=268.3 target=267.8 sp=267.8 pow=0.00 hs=41.0 peak=268.3 coil=1.0
+1781497903 klippy=ready state=firing step=1/4 chamber=268.8 target=268.7 sp=268.7 pow=0.00 hs=40.8 peak=268.8 coil=1.0
+1781497913 klippy=ready state=firing step=1/4 chamber=269.1 target=269.5 sp=269.5 pow=0.00 hs=40.7 peak=269.1 coil=1.0
+1781497923 klippy=ready state=firing step=1/4 chamber=269.4 target=270.4 sp=270.4 pow=1.00 hs=40.5 peak=269.3 coil=1.0
+1781497934 klippy=ready state=firing step=1/4 chamber=270.2 target=271.2 sp=271.2 pow=1.00 hs=40.7 peak=270.1 coil=1.0
+1781497944 klippy=ready state=firing step=1/4 chamber=271.4 target=272.0 sp=272.0 pow=1.00 hs=41.1 peak=271.2 coil=1.0
+1781497954 klippy=ready state=firing step=1/4 chamber=273.1 target=273.0 sp=273.0 pow=1.00 hs=41.5 peak=273.1 coil=1.0
+1781497964 klippy=ready state=firing step=1/4 chamber=274.7 target=273.8 sp=273.8 pow=0.00 hs=41.8 peak=274.6 coil=1.0
+1781497975 klippy=ready state=firing step=1/4 chamber=275.5 target=274.6 sp=274.6 pow=0.00 hs=41.8 peak=275.4 coil=1.0
+1781497985 klippy=ready state=firing step=1/4 chamber=276.0 target=275.5 sp=275.5 pow=0.00 hs=41.5 peak=276.0 coil=1.0
+1781497995 klippy=ready state=firing step=1/4 chamber=276.6 target=276.4 sp=276.4 pow=0.00 hs=41.3 peak=276.6 coil=1.0
+1781498005 klippy=ready state=firing step=1/4 chamber=276.9 target=277.2 sp=277.2 pow=0.00 hs=41.1 peak=276.9 coil=1.0
+1781498015 klippy=ready state=firing step=1/4 chamber=277.3 target=278.0 sp=278.0 pow=1.00 hs=40.9 peak=277.3 coil=1.0
+1781498025 klippy=ready state=firing step=1/4 chamber=278.2 target=278.9 sp=278.9 pow=1.00 hs=41.0 peak=278.1 coil=1.0
+1781498035 klippy=ready state=firing step=1/4 chamber=279.5 target=279.7 sp=279.7 pow=1.00 hs=41.4 peak=279.4 coil=1.0
+1781498046 klippy=ready state=firing step=1/4 chamber=281.2 target=280.5 sp=280.5 pow=0.00 hs=41.8 peak=281.0 coil=1.0
+1781498056 klippy=ready state=firing step=1/4 chamber=282.2 target=281.4 sp=281.4 pow=0.00 hs=42.0 peak=282.2 coil=1.0
+1781498066 klippy=ready state=firing step=1/4 chamber=282.8 target=282.3 sp=282.3 pow=0.00 hs=41.8 peak=282.8 coil=1.0
+1781498076 klippy=ready state=firing step=1/4 chamber=283.3 target=283.1 sp=283.1 pow=0.00 hs=41.6 peak=283.3 coil=1.0
+1781498087 klippy=ready state=firing step=1/4 chamber=283.6 target=284.0 sp=284.0 pow=0.00 hs=41.3 peak=283.6 coil=1.0
+1781498097 klippy=ready state=firing step=1/4 chamber=284.1 target=284.8 sp=284.8 pow=1.00 hs=41.1 peak=284.0 coil=1.0
+1781498107 klippy=ready state=firing step=1/4 chamber=285.1 target=285.7 sp=285.7 pow=1.00 hs=41.4 peak=285.1 coil=1.0
+1781498117 klippy=ready state=firing step=1/4 chamber=286.4 target=286.6 sp=286.6 pow=1.00 hs=41.6 peak=286.3 coil=1.0
+1781498128 klippy=ready state=firing step=1/4 chamber=288.1 target=287.4 sp=287.4 pow=0.00 hs=42.1 peak=288.0 coil=1.0
+1781498138 klippy=ready state=firing step=1/4 chamber=289.1 target=288.3 sp=288.3 pow=0.00 hs=42.2 peak=289.1 coil=1.0
+1781498148 klippy=ready state=firing step=1/4 chamber=289.7 target=289.1 sp=289.1 pow=0.00 hs=42.0 peak=289.7 coil=1.0
+1781498158 klippy=ready state=firing step=1/4 chamber=290.2 target=290.0 sp=290.0 pow=0.00 hs=41.8 peak=290.2 coil=1.0
+1781498169 klippy=ready state=firing step=1/4 chamber=290.6 target=290.8 sp=290.8 pow=0.00 hs=41.5 peak=290.6 coil=1.0
+1781498179 klippy=ready state=firing step=1/4 chamber=290.9 target=291.6 sp=291.6 pow=1.00 hs=41.2 peak=290.9 coil=1.0
+1781498189 klippy=ready state=idle step=0/0 chamber=291.7 target=1220.0 sp=0.0 pow=1.00 hs=41.3 peak=0.0 coil=0.0
+1781498376 klippy=ready state=idle step=0/0 chamber=322.4 target=1220.0 sp=0.0 pow=1.00 hs=45.0 peak=0.0 coil=1.0
+1781498387 klippy=ready state=idle step=0/0 chamber=325.7 target=1220.0 sp=0.0 pow=1.00 hs=45.3 peak=0.0 coil=1.0
+1781498397 klippy=ready state=idle step=0/0 chamber=329.2 target=1220.0 sp=0.0 pow=1.00 hs=45.5 peak=0.0 coil=1.0
+1781498407 klippy=ready state=firing step=0/0 chamber=332.5 target=1220.0 sp=1220.0 pow=1.00 hs=45.8 peak=0.0 coil=1.0
+1781498452 klippy=ready state=firing step=0/0 chamber=347.8 target=1220.0 sp=1220.0 pow=1.00 hs=47.0 peak=0.0 coil=1.0
+1781498463 klippy=ready state=firing step=0/0 chamber=351.5 target=1220.0 sp=1220.0 pow=1.00 hs=47.2 peak=0.0 coil=1.0
+1781498473 klippy=ready state=firing step=0/0 chamber=355.2 target=1220.0 sp=1220.0 pow=1.00 hs=47.4 peak=0.0 coil=1.0
+1781498483 klippy=ready state=firing step=0/0 chamber=358.7 target=1220.0 sp=1220.0 pow=1.00 hs=47.6 peak=0.0 coil=1.0
+1781498493 klippy=ready state=firing step=0/0 chamber=362.1 target=1220.0 sp=1220.0 pow=1.00 hs=47.8 peak=0.0 coil=1.0
+1781498504 klippy=ready state=firing step=0/0 chamber=365.7 target=1220.0 sp=1220.0 pow=1.00 hs=48.0 peak=0.0 coil=1.0
+1781498514 klippy=ready state=firing step=0/0 chamber=369.2 target=1220.0 sp=1220.0 pow=1.00 hs=48.3 peak=0.0 coil=1.0
+1781498524 klippy=ready state=firing step=0/0 chamber=372.4 target=1220.0 sp=1220.0 pow=1.00 hs=48.5 peak=0.0 coil=1.0
+1781498534 klippy=ready state=firing step=0/0 chamber=375.5 target=1220.0 sp=1220.0 pow=1.00 hs=48.7 peak=0.0 coil=1.0
+1781498544 klippy=ready state=firing step=0/0 chamber=378.9 target=1220.0 sp=1220.0 pow=1.00 hs=48.8 peak=0.0 coil=1.0
+1781498554 klippy=ready state=firing step=0/0 chamber=382.1 target=1220.0 sp=1220.0 pow=1.00 hs=49.0 peak=0.0 coil=1.0
+1781498564 klippy=ready state=firing step=0/0 chamber=385.3 target=1220.0 sp=1220.0 pow=1.00 hs=49.2 peak=0.0 coil=1.0
+1781498574 klippy=ready state=firing step=0/0 chamber=388.7 target=1220.0 sp=1220.0 pow=1.00 hs=49.4 peak=0.0 coil=1.0
+1781498585 klippy=ready state=firing step=0/0 chamber=392.0 target=1220.0 sp=1220.0 pow=1.00 hs=49.6 peak=0.0 coil=1.0
+1781498595 klippy=ready state=firing step=0/0 chamber=395.1 target=1220.0 sp=1220.0 pow=1.00 hs=49.8 peak=0.0 coil=1.0
+1781498605 klippy=ready state=firing step=0/0 chamber=398.3 target=1220.0 sp=1220.0 pow=1.00 hs=50.0 peak=0.0 coil=1.0
+1781498615 klippy=ready state=firing step=0/0 chamber=401.5 target=1220.0 sp=1220.0 pow=1.00 hs=50.1 peak=0.0 coil=1.0
+1781498626 klippy=ready state=firing step=0/0 chamber=404.7 target=1220.0 sp=1220.0 pow=1.00 hs=50.3 peak=0.0 coil=1.0
+1781498636 klippy=ready state=firing step=0/0 chamber=407.8 target=1220.0 sp=1220.0 pow=1.00 hs=50.4 peak=0.0 coil=1.0
+1781498646 klippy=ready state=firing step=0/0 chamber=410.8 target=1220.0 sp=1220.0 pow=1.00 hs=50.6 peak=0.0 coil=1.0
+1781498656 klippy=ready state=firing step=0/0 chamber=414.0 target=1220.0 sp=1220.0 pow=1.00 hs=50.9 peak=0.0 coil=1.0
+1781498666 klippy=ready state=firing step=0/0 chamber=417.0 target=1220.0 sp=1220.0 pow=1.00 hs=51.0 peak=0.0 coil=1.0
+1781498676 klippy=ready state=firing step=0/0 chamber=419.9 target=1220.0 sp=1220.0 pow=1.00 hs=51.1 peak=0.0 coil=1.0
+1781498686 klippy=ready state=firing step=0/0 chamber=422.8 target=1220.0 sp=1220.0 pow=1.00 hs=51.3 peak=0.0 coil=1.0
+1781498696 klippy=ready state=firing step=0/0 chamber=425.7 target=1220.0 sp=1220.0 pow=1.00 hs=51.5 peak=0.0 coil=1.0
+1781498706 klippy=ready state=firing step=0/0 chamber=428.6 target=1220.0 sp=1220.0 pow=1.00 hs=51.6 peak=0.0 coil=1.0
+1781498717 klippy=ready state=firing step=0/0 chamber=431.5 target=1220.0 sp=1220.0 pow=1.00 hs=51.8 peak=0.0 coil=1.0
+1781498727 klippy=ready state=firing step=0/0 chamber=434.3 target=1220.0 sp=1220.0 pow=1.00 hs=51.9 peak=0.0 coil=1.0
+1781498737 klippy=ready state=firing step=0/0 chamber=437.1 target=1220.0 sp=1220.0 pow=1.00 hs=52.0 peak=0.0 coil=1.0
+1781498747 klippy=ready state=firing step=0/0 chamber=439.9 target=1220.0 sp=1220.0 pow=1.00 hs=52.2 peak=0.0 coil=1.0
+1781498758 klippy=ready state=firing step=0/0 chamber=442.6 target=1220.0 sp=1220.0 pow=1.00 hs=52.3 peak=0.0 coil=1.0
+1781498768 klippy=ready state=firing step=0/0 chamber=445.1 target=1220.0 sp=1220.0 pow=1.00 hs=52.5 peak=0.0 coil=1.0
+1781498778 klippy=ready state=firing step=0/0 chamber=447.8 target=1220.0 sp=1220.0 pow=1.00 hs=52.6 peak=0.0 coil=1.0
+1781498788 klippy=ready state=firing step=0/0 chamber=450.6 target=1220.0 sp=1220.0 pow=1.00 hs=52.7 peak=0.0 coil=1.0
+1781498799 klippy=ready state=firing step=0/0 chamber=453.3 target=1220.0 sp=1220.0 pow=1.00 hs=52.8 peak=0.0 coil=1.0
+1781498809 klippy=ready state=firing step=0/0 chamber=456.1 target=1220.0 sp=1220.0 pow=1.00 hs=52.9 peak=0.0 coil=1.0
+1781498819 klippy=ready state=firing step=0/0 chamber=458.6 target=1220.0 sp=1220.0 pow=1.00 hs=53.0 peak=0.0 coil=1.0
+1781498829 klippy=ready state=firing step=0/0 chamber=461.0 target=1220.0 sp=1220.0 pow=1.00 hs=53.1 peak=0.0 coil=1.0
+1781498839 klippy=ready state=firing step=0/0 chamber=463.6 target=1220.0 sp=1220.0 pow=1.00 hs=53.2 peak=0.0 coil=1.0
+1781498850 klippy=ready state=firing step=0/0 chamber=466.2 target=1220.0 sp=1220.0 pow=1.00 hs=53.4 peak=0.0 coil=1.0
+1781498860 klippy=ready state=firing step=0/0 chamber=468.9 target=1220.0 sp=1220.0 pow=1.00 hs=53.5 peak=0.0 coil=1.0
+1781498870 klippy=ready state=firing step=0/0 chamber=471.3 target=1220.0 sp=1220.0 pow=1.00 hs=53.6 peak=0.0 coil=1.0
+1781498881 klippy=ready state=firing step=0/0 chamber=473.6 target=1220.0 sp=1220.0 pow=1.00 hs=53.6 peak=0.0 coil=1.0
+1781498891 klippy=ready state=firing step=0/0 chamber=475.8 target=1220.0 sp=1220.0 pow=1.00 hs=53.8 peak=0.0 coil=1.0
+1781498901 klippy=ready state=firing step=0/0 chamber=478.2 target=1220.0 sp=1220.0 pow=1.00 hs=54.0 peak=0.0 coil=1.0
+1781498911 klippy=ready state=firing step=0/0 chamber=480.5 target=1220.0 sp=1220.0 pow=1.00 hs=54.0 peak=0.0 coil=1.0
+1781498921 klippy=ready state=firing step=0/0 chamber=482.8 target=1220.0 sp=1220.0 pow=1.00 hs=54.1 peak=0.0 coil=1.0
+1781498931 klippy=ready state=firing step=0/0 chamber=485.1 target=1220.0 sp=1220.0 pow=1.00 hs=54.2 peak=0.0 coil=1.0
+1781498942 klippy=ready state=firing step=0/0 chamber=487.3 target=1220.0 sp=1220.0 pow=1.00 hs=54.3 peak=0.0 coil=1.0
+1781498952 klippy=ready state=firing step=0/0 chamber=489.6 target=1220.0 sp=1220.0 pow=1.00 hs=54.4 peak=0.0 coil=1.0
+1781498962 klippy=ready state=firing step=0/0 chamber=491.9 target=1220.0 sp=1220.0 pow=1.00 hs=54.6 peak=0.0 coil=1.0
+1781498972 klippy=ready state=firing step=0/0 chamber=494.1 target=1220.0 sp=1220.0 pow=1.00 hs=54.7 peak=0.0 coil=1.0
+1781498982 klippy=ready state=firing step=0/0 chamber=496.3 target=1220.0 sp=1220.0 pow=1.00 hs=54.8 peak=0.0 coil=1.0
+1781498993 klippy=ready state=firing step=0/0 chamber=498.5 target=1220.0 sp=1220.0 pow=1.00 hs=54.9 peak=0.0 coil=1.0
+1781499003 klippy=ready state=firing step=0/0 chamber=500.7 target=1220.0 sp=1220.0 pow=1.00 hs=55.0 peak=0.0 coil=1.0
+1781499013 klippy=ready state=firing step=0/0 chamber=501.8 target=0.0 sp=1220.0 pow=0.00 hs=55.0 peak=0.0 coil=1.0
+1781499023 klippy=ready state=firing step=0/0 chamber=501.0 target=0.0 sp=1220.0 pow=0.00 hs=54.6 peak=0.0 coil=1.0
+1781499034 klippy=ready state=firing step=0/0 chamber=499.8 target=0.0 sp=1220.0 pow=0.00 hs=54.2 peak=0.0 coil=1.0
+1781499044 klippy=ready state=firing step=0/0 chamber=498.3 target=0.0 sp=1220.0 pow=0.00 hs=53.7 peak=0.0 coil=1.0
+1781499054 klippy=ready state=firing step=0/0 chamber=496.6 target=0.0 sp=1220.0 pow=0.00 hs=53.2 peak=0.0 coil=1.0
+1781499391 klippy=ready state=firing step=0/0 chamber=498.6 target=1220.0 sp=1220.0 pow=1.00 hs=52.1 peak=0.0 coil=1.0
+1781499401 klippy=ready state=firing step=0/0 chamber=501.6 target=1220.0 sp=1220.0 pow=1.00 hs=52.3 peak=0.0 coil=1.0
+1781499412 klippy=ready state=firing step=0/0 chamber=504.6 target=1220.0 sp=1220.0 pow=1.00 hs=52.5 peak=0.0 coil=1.0
+1781499422 klippy=ready state=firing step=0/0 chamber=507.4 target=1220.0 sp=1220.0 pow=1.00 hs=52.6 peak=0.0 coil=1.0
+1781499432 klippy=ready state=firing step=0/0 chamber=510.3 target=1220.0 sp=1220.0 pow=1.00 hs=52.8 peak=0.0 coil=1.0
+1781499442 klippy=ready state=firing step=0/0 chamber=513.1 target=1220.0 sp=1220.0 pow=1.00 hs=53.0 peak=0.0 coil=1.0
+1781499452 klippy=ready state=firing step=0/0 chamber=515.9 target=1220.0 sp=1220.0 pow=1.00 hs=53.1 peak=0.0 coil=1.0
+1781499462 klippy=ready state=firing step=0/0 chamber=518.7 target=1220.0 sp=1220.0 pow=1.00 hs=53.2 peak=0.0 coil=1.0
+1781499473 klippy=ready state=firing step=0/0 chamber=521.4 target=1220.0 sp=1220.0 pow=1.00 hs=53.4 peak=0.0 coil=1.0
+1781499483 klippy=ready state=firing step=0/0 chamber=524.0 target=1220.0 sp=1220.0 pow=1.00 hs=53.5 peak=0.0 coil=1.0
+1781499493 klippy=ready state=firing step=0/0 chamber=526.8 target=1220.0 sp=1220.0 pow=1.00 hs=53.7 peak=0.0 coil=1.0
+1781499503 klippy=ready state=firing step=0/0 chamber=529.4 target=1220.0 sp=1220.0 pow=1.00 hs=53.8 peak=0.0 coil=1.0
+1781499513 klippy=ready state=firing step=0/0 chamber=531.9 target=1220.0 sp=1220.0 pow=1.00 hs=54.0 peak=0.0 coil=1.0
+1781499523 klippy=ready state=firing step=0/0 chamber=534.3 target=1220.0 sp=1220.0 pow=1.00 hs=54.2 peak=0.0 coil=1.0
+1781499533 klippy=ready state=firing step=0/0 chamber=536.8 target=1220.0 sp=1220.0 pow=1.00 hs=54.3 peak=0.0 coil=1.0
+1781499544 klippy=ready state=firing step=0/0 chamber=539.2 target=1220.0 sp=1220.0 pow=1.00 hs=54.3 peak=0.0 coil=1.0
+1781499554 klippy=ready state=firing step=0/0 chamber=541.8 target=1220.0 sp=1220.0 pow=1.00 hs=54.5 peak=0.0 coil=1.0
+1781499564 klippy=ready state=firing step=0/0 chamber=544.4 target=1220.0 sp=1220.0 pow=1.00 hs=54.6 peak=0.0 coil=1.0
+1781499575 klippy=ready state=firing step=0/0 chamber=546.7 target=1220.0 sp=1220.0 pow=1.00 hs=54.7 peak=0.0 coil=1.0
+1781499585 klippy=ready state=firing step=0/0 chamber=549.0 target=1220.0 sp=1220.0 pow=1.00 hs=54.9 peak=0.0 coil=1.0
+1781499595 klippy=ready state=firing step=0/0 chamber=551.4 target=1220.0 sp=1220.0 pow=1.00 hs=55.0 peak=0.0 coil=1.0
+1781499605 klippy=ready state=firing step=0/0 chamber=553.7 target=1220.0 sp=1220.0 pow=1.00 hs=55.0 peak=0.0 coil=1.0
+1781499616 klippy=ready state=firing step=0/0 chamber=555.9 target=1220.0 sp=1220.0 pow=1.00 hs=55.1 peak=0.0 coil=1.0
+1781499626 klippy=ready state=firing step=0/0 chamber=558.2 target=1220.0 sp=1220.0 pow=1.00 hs=55.3 peak=0.0 coil=1.0
+1781499636 klippy=ready state=firing step=0/0 chamber=560.4 target=1220.0 sp=1220.0 pow=1.00 hs=55.4 peak=0.0 coil=1.0
+1781499646 klippy=ready state=firing step=0/0 chamber=562.7 target=1220.0 sp=1220.0 pow=1.00 hs=55.5 peak=0.0 coil=1.0
+1781499657 klippy=ready state=firing step=0/0 chamber=564.8 target=1220.0 sp=1220.0 pow=1.00 hs=55.5 peak=0.0 coil=1.0
+1781499667 klippy=ready state=firing step=0/0 chamber=567.0 target=1220.0 sp=1220.0 pow=1.00 hs=55.6 peak=0.0 coil=1.0
+1781499677 klippy=ready state=firing step=0/0 chamber=569.2 target=1220.0 sp=1220.0 pow=1.00 hs=55.7 peak=0.0 coil=1.0
+1781499688 klippy=ready state=firing step=0/0 chamber=571.4 target=1220.0 sp=1220.0 pow=1.00 hs=55.8 peak=0.0 coil=1.0
+1781499698 klippy=ready state=firing step=0/0 chamber=573.5 target=1220.0 sp=1220.0 pow=1.00 hs=55.9 peak=0.0 coil=1.0
+1781499708 klippy=ready state=firing step=0/0 chamber=575.8 target=1220.0 sp=1220.0 pow=1.00 hs=56.0 peak=0.0 coil=1.0
+1781499718 klippy=ready state=firing step=0/0 chamber=577.8 target=1220.0 sp=1220.0 pow=1.00 hs=56.0 peak=0.0 coil=1.0
+1781499728 klippy=ready state=firing step=0/0 chamber=579.9 target=1220.0 sp=1220.0 pow=1.00 hs=56.1 peak=0.0 coil=1.0
+1781499738 klippy=ready state=firing step=0/0 chamber=582.1 target=1220.0 sp=1220.0 pow=1.00 hs=56.2 peak=0.0 coil=1.0
+1781499749 klippy=ready state=firing step=0/0 chamber=584.1 target=1220.0 sp=1220.0 pow=1.00 hs=56.3 peak=0.0 coil=1.0
+1781499759 klippy=ready state=firing step=0/0 chamber=585.9 target=1220.0 sp=1220.0 pow=1.00 hs=56.5 peak=0.0 coil=1.0
+1781499769 klippy=ready state=firing step=0/0 chamber=587.7 target=1220.0 sp=1220.0 pow=1.00 hs=56.5 peak=0.0 coil=1.0
+1781499780 klippy=ready state=firing step=0/0 chamber=589.9 target=1220.0 sp=1220.0 pow=1.00 hs=56.6 peak=0.0 coil=1.0
+1781499790 klippy=ready state=firing step=0/0 chamber=591.8 target=1220.0 sp=1220.0 pow=1.00 hs=56.7 peak=0.0 coil=1.0
+1781499800 klippy=ready state=firing step=0/0 chamber=593.6 target=1220.0 sp=1220.0 pow=1.00 hs=56.7 peak=0.0 coil=1.0
+1781499810 klippy=ready state=firing step=0/0 chamber=595.5 target=1220.0 sp=1220.0 pow=1.00 hs=56.8 peak=0.0 coil=1.0
+1781499820 klippy=ready state=firing step=0/0 chamber=597.5 target=1220.0 sp=1220.0 pow=1.00 hs=56.8 peak=0.0 coil=1.0
+1781499831 klippy=ready state=firing step=0/0 chamber=599.2 target=1220.0 sp=1220.0 pow=1.00 hs=57.0 peak=0.0 coil=1.0
+1781499841 klippy=ready state=firing step=0/0 chamber=601.1 target=1220.0 sp=1220.0 pow=1.00 hs=57.1 peak=0.0 coil=1.0
+1781499851 klippy=ready state=firing step=0/0 chamber=603.2 target=1220.0 sp=1220.0 pow=1.00 hs=57.1 peak=0.0 coil=1.0
+1781499862 klippy=ready state=firing step=0/0 chamber=605.0 target=1220.0 sp=1220.0 pow=1.00 hs=57.3 peak=0.0 coil=1.0
+1781499872 klippy=ready state=firing step=0/0 chamber=606.6 target=1220.0 sp=1220.0 pow=1.00 hs=57.3 peak=0.0 coil=1.0
+1781499882 klippy=ready state=firing step=0/0 chamber=608.4 target=1220.0 sp=1220.0 pow=1.00 hs=57.3 peak=0.0 coil=1.0
+1781499892 klippy=ready state=firing step=0/0 chamber=610.1 target=1220.0 sp=1220.0 pow=1.00 hs=57.4 peak=0.0 coil=1.0
+1781499903 klippy=ready state=firing step=0/0 chamber=612.1 target=1220.0 sp=1220.0 pow=1.00 hs=57.5 peak=0.0 coil=1.0
+1781499913 klippy=ready state=firing step=0/0 chamber=614.0 target=1220.0 sp=1220.0 pow=1.00 hs=57.6 peak=0.0 coil=1.0
+1781499923 klippy=ready state=firing step=0/0 chamber=615.7 target=1220.0 sp=1220.0 pow=1.00 hs=57.7 peak=0.0 coil=1.0
+1781499933 klippy=ready state=firing step=0/0 chamber=617.6 target=0.0 sp=1220.0 pow=0.00 hs=57.8 peak=0.0 coil=1.0
+1781499944 klippy=ready state=firing step=0/0 chamber=617.6 target=0.0 sp=1220.0 pow=0.00 hs=57.7 peak=0.0 coil=1.0
+1781499954 klippy=ready state=firing step=0/0 chamber=615.6 target=0.0 sp=1220.0 pow=0.00 hs=57.4 peak=0.0 coil=1.0
+1781499964 klippy=ready state=firing step=0/0 chamber=613.3 target=0.0 sp=1220.0 pow=0.00 hs=57.0 peak=0.0 coil=1.0
+1781499974 klippy=ready state=firing step=0/0 chamber=610.8 target=0.0 sp=1220.0 pow=0.00 hs=56.5 peak=0.0 coil=1.0
+1781499984 klippy=ready state=firing step=0/0 chamber=608.2 target=0.0 sp=1220.0 pow=0.00 hs=56.0 peak=0.0 coil=1.0
+1781499995 klippy=ready state=firing step=0/0 chamber=605.3 target=0.0 sp=1220.0 pow=0.00 hs=55.5 peak=0.0 coil=1.0
+1781500720 klippy=ready state=firing step=0/0 chamber=483.6 target=1220.0 sp=1220.0 pow=1.00 hs=40.2 peak=0.0 coil=1.0
+1781500730 klippy=ready state=firing step=0/0 chamber=484.5 target=1220.0 sp=1220.0 pow=1.00 hs=40.6 peak=0.0 coil=1.0
+1781500740 klippy=ready state=firing step=0/0 chamber=486.1 target=1220.0 sp=1220.0 pow=1.00 hs=41.0 peak=0.0 coil=1.0
+1781500750 klippy=ready state=firing step=0/0 chamber=488.2 target=1220.0 sp=1220.0 pow=1.00 hs=41.5 peak=0.0 coil=1.0
+1781500760 klippy=ready state=firing step=0/0 chamber=490.8 target=1220.0 sp=1220.0 pow=1.00 hs=42.1 peak=0.0 coil=1.0
+1781500770 klippy=ready state=firing step=0/0 chamber=493.4 target=1220.0 sp=1220.0 pow=1.00 hs=42.5 peak=0.0 coil=1.0
+1781500780 klippy=ready state=firing step=0/0 chamber=496.5 target=1220.0 sp=1220.0 pow=1.00 hs=42.9 peak=0.0 coil=1.0
+1781500790 klippy=ready state=firing step=0/0 chamber=499.6 target=1220.0 sp=1220.0 pow=1.00 hs=43.3 peak=0.0 coil=1.0
+1781500800 klippy=ready state=firing step=0/0 chamber=503.1 target=1220.0 sp=1220.0 pow=1.00 hs=43.7 peak=0.0 coil=1.0
+1781500811 klippy=ready state=firing step=0/0 chamber=506.6 target=1220.0 sp=1220.0 pow=1.00 hs=44.1 peak=0.0 coil=1.0
+1781500821 klippy=ready state=firing step=0/0 chamber=510.1 target=1220.0 sp=1220.0 pow=1.00 hs=44.5 peak=0.0 coil=1.0
+1781500831 klippy=ready state=firing step=0/0 chamber=513.7 target=1220.0 sp=1220.0 pow=1.00 hs=45.0 peak=0.0 coil=1.0
+1781500841 klippy=ready state=firing step=0/0 chamber=517.1 target=1220.0 sp=1220.0 pow=1.00 hs=45.2 peak=0.0 coil=1.0
+1781500851 klippy=ready state=firing step=0/0 chamber=520.4 target=1220.0 sp=1220.0 pow=1.00 hs=45.5 peak=0.0 coil=1.0
+1781500861 klippy=ready state=firing step=0/0 chamber=524.0 target=1220.0 sp=1220.0 pow=1.00 hs=45.9 peak=0.0 coil=1.0
+1781500871 klippy=ready state=firing step=0/0 chamber=527.3 target=1220.0 sp=1220.0 pow=1.00 hs=46.2 peak=0.0 coil=1.0
+1781500882 klippy=ready state=firing step=0/0 chamber=531.0 target=1220.0 sp=1220.0 pow=1.00 hs=46.5 peak=0.0 coil=1.0
+1781500892 klippy=ready state=firing step=0/0 chamber=534.7 target=1220.0 sp=1220.0 pow=1.00 hs=46.8 peak=0.0 coil=1.0
+1781500902 klippy=ready state=firing step=0/0 chamber=538.2 target=1220.0 sp=1220.0 pow=1.00 hs=47.1 peak=0.0 coil=1.0
+1781500913 klippy=ready state=firing step=0/0 chamber=541.8 target=1220.0 sp=1220.0 pow=1.00 hs=47.5 peak=0.0 coil=1.0
+1781500923 klippy=ready state=firing step=0/0 chamber=545.3 target=1220.0 sp=1220.0 pow=1.00 hs=47.8 peak=0.0 coil=1.0
+1781500933 klippy=ready state=firing step=0/0 chamber=548.8 target=1220.0 sp=1220.0 pow=1.00 hs=48.1 peak=0.0 coil=1.0
+1781500943 klippy=ready state=firing step=0/0 chamber=552.1 target=1220.0 sp=1220.0 pow=1.00 hs=48.4 peak=0.0 coil=1.0
+1781500953 klippy=ready state=firing step=0/0 chamber=555.3 target=1220.0 sp=1220.0 pow=1.00 hs=48.6 peak=0.0 coil=1.0
+1781500963 klippy=ready state=firing step=0/0 chamber=558.5 target=1220.0 sp=1220.0 pow=1.00 hs=48.9 peak=0.0 coil=1.0
+1781500973 klippy=ready state=firing step=0/0 chamber=561.4 target=1220.0 sp=1220.0 pow=1.00 hs=49.2 peak=0.0 coil=1.0
+1781500984 klippy=ready state=firing step=0/0 chamber=564.4 target=1220.0 sp=1220.0 pow=1.00 hs=49.5 peak=0.0 coil=1.0
+1781500994 klippy=ready state=firing step=0/0 chamber=567.4 target=1220.0 sp=1220.0 pow=1.00 hs=49.7 peak=0.0 coil=1.0
+1781501004 klippy=ready state=firing step=0/0 chamber=570.4 target=1220.0 sp=1220.0 pow=1.00 hs=49.9 peak=0.0 coil=1.0
+1781501015 klippy=ready state=firing step=0/0 chamber=573.2 target=1220.0 sp=1220.0 pow=1.00 hs=50.2 peak=0.0 coil=1.0
+1781501025 klippy=ready state=firing step=0/0 chamber=576.1 target=1220.0 sp=1220.0 pow=1.00 hs=50.4 peak=0.0 coil=1.0
+1781501035 klippy=ready state=firing step=0/0 chamber=578.7 target=1220.0 sp=1220.0 pow=1.00 hs=50.6 peak=0.0 coil=1.0
+1781501045 klippy=ready state=firing step=0/0 chamber=581.6 target=1220.0 sp=1220.0 pow=1.00 hs=50.9 peak=0.0 coil=1.0
+1781501056 klippy=ready state=firing step=0/0 chamber=584.4 target=1220.0 sp=1220.0 pow=1.00 hs=51.1 peak=0.0 coil=1.0
+1781501066 klippy=ready state=firing step=0/0 chamber=587.2 target=1220.0 sp=1220.0 pow=1.00 hs=51.3 peak=0.0 coil=1.0
+1781501076 klippy=ready state=firing step=0/0 chamber=589.5 target=1220.0 sp=1220.0 pow=1.00 hs=51.5 peak=0.0 coil=1.0
+1781501086 klippy=ready state=firing step=0/0 chamber=592.0 target=1220.0 sp=1220.0 pow=1.00 hs=51.7 peak=0.0 coil=1.0
+1781501096 klippy=ready state=firing step=0/0 chamber=594.6 target=1220.0 sp=1220.0 pow=1.00 hs=51.9 peak=0.0 coil=1.0
+1781501107 klippy=ready state=firing step=0/0 chamber=597.2 target=1220.0 sp=1220.0 pow=1.00 hs=52.0 peak=0.0 coil=1.0
+1781501117 klippy=ready state=firing step=0/0 chamber=599.5 target=1220.0 sp=1220.0 pow=1.00 hs=52.3 peak=0.0 coil=1.0
+1781501127 klippy=ready state=firing step=0/0 chamber=602.1 target=1220.0 sp=1220.0 pow=1.00 hs=52.5 peak=0.0 coil=1.0
+1781501137 klippy=ready state=firing step=0/0 chamber=604.5 target=1220.0 sp=1220.0 pow=1.00 hs=52.7 peak=0.0 coil=1.0
+1781501147 klippy=ready state=firing step=0/0 chamber=606.8 target=1220.0 sp=1220.0 pow=1.00 hs=52.9 peak=0.0 coil=1.0
+1781501158 klippy=ready state=firing step=0/0 chamber=609.1 target=1220.0 sp=1220.0 pow=1.00 hs=53.1 peak=0.0 coil=1.0
+1781501168 klippy=ready state=firing step=0/0 chamber=611.6 target=1220.0 sp=1220.0 pow=1.00 hs=53.2 peak=0.0 coil=1.0
+1781501178 klippy=ready state=firing step=0/0 chamber=614.1 target=1220.0 sp=1220.0 pow=1.00 hs=53.4 peak=0.0 coil=1.0
+1781501188 klippy=ready state=firing step=0/0 chamber=616.3 target=1220.0 sp=1220.0 pow=1.00 hs=53.6 peak=0.0 coil=1.0
+1781501199 klippy=ready state=firing step=0/0 chamber=618.8 target=1220.0 sp=1220.0 pow=1.00 hs=53.7 peak=0.0 coil=1.0
+1781501209 klippy=ready state=firing step=0/0 chamber=621.0 target=1220.0 sp=1220.0 pow=1.00 hs=53.9 peak=0.0 coil=1.0
+1781501219 klippy=ready state=firing step=0/0 chamber=622.8 target=1220.0 sp=1220.0 pow=1.00 hs=54.1 peak=0.0 coil=1.0
+1781501229 klippy=ready state=firing step=0/0 chamber=624.9 target=1220.0 sp=1220.0 pow=1.00 hs=54.3 peak=0.0 coil=1.0
+1781501240 klippy=ready state=firing step=0/0 chamber=626.9 target=1220.0 sp=1220.0 pow=1.00 hs=54.5 peak=0.0 coil=1.0
+1781501250 klippy=ready state=firing step=0/0 chamber=629.0 target=1220.0 sp=1220.0 pow=1.00 hs=54.6 peak=0.0 coil=1.0
+1781501260 klippy=ready state=firing step=0/0 chamber=631.1 target=1220.0 sp=1220.0 pow=1.00 hs=54.8 peak=0.0 coil=1.0
+1781501270 klippy=ready state=firing step=0/0 chamber=633.2 target=1220.0 sp=1220.0 pow=1.00 hs=54.9 peak=0.0 coil=1.0
+1781501281 klippy=ready state=firing step=0/0 chamber=635.2 target=1220.0 sp=1220.0 pow=1.00 hs=55.1 peak=0.0 coil=1.0
+1781501291 klippy=ready state=firing step=0/0 chamber=637.1 target=1220.0 sp=1220.0 pow=1.00 hs=55.2 peak=0.0 coil=1.0
+1781501301 klippy=ready state=firing step=0/0 chamber=639.1 target=1220.0 sp=1220.0 pow=1.00 hs=55.4 peak=0.0 coil=1.0
+1781501311 klippy=ready state=firing step=0/0 chamber=641.2 target=1220.0 sp=1220.0 pow=1.00 hs=55.5 peak=0.0 coil=1.0
+1781501321 klippy=ready state=firing step=0/0 chamber=643.1 target=1220.0 sp=1220.0 pow=1.00 hs=55.6 peak=0.0 coil=1.0
+1781501955 klippy=ready idle=Ready state=firing step=0/0 chamber=740.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=52.6 mcuexp=50.4 mcumenu=37.9 peak=0.0 coil=1.0
+1781501957 klippy=ready idle=Ready state=firing step=0/0 chamber=740.7 target=1220.0 sp=1220.0 pow=1.00 hs=60.9 picpu=51.5 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781501959 klippy=ready idle=Ready state=firing step=0/0 chamber=741.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=51.0 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781501962 klippy=ready idle=Ready state=firing step=0/0 chamber=741.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=51.0 mcuexp=50.4 mcumenu=37.8 peak=0.0 coil=1.0
+1781501964 klippy=ready idle=Ready state=firing step=0/0 chamber=741.5 target=1220.0 sp=1220.0 pow=1.00 hs=60.9 picpu=51.0 mcuexp=50.4 mcumenu=37.9 peak=0.0 coil=1.0
+1781501966 klippy=ready idle=Ready state=firing step=0/0 chamber=741.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=51.0 mcuexp=50.4 mcumenu=38.0 peak=0.0 coil=1.0
+1781501968 klippy=ready idle=Ready state=firing step=0/0 chamber=742.1 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=51.0 mcuexp=50.3 mcumenu=38.0 peak=0.0 coil=1.0
+1781501971 klippy=ready idle=Ready state=firing step=0/0 chamber=742.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=50.5 mcuexp=50.4 mcumenu=38.2 peak=0.0 coil=1.0
+1781501973 klippy=ready idle=Ready state=firing step=0/0 chamber=742.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=51.5 mcuexp=50.3 mcumenu=37.8 peak=0.0 coil=1.0
+1781501975 klippy=ready idle=Ready state=firing step=0/0 chamber=742.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=50.5 mcuexp=50.4 mcumenu=37.9 peak=0.0 coil=1.0
+1781501977 klippy=ready idle=Ready state=firing step=0/0 chamber=743.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=50.5 mcuexp=50.4 mcumenu=37.9 peak=0.0 coil=1.0
+1781501980 klippy=ready idle=Ready state=firing step=0/0 chamber=743.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.1 picpu=50.5 mcuexp=50.4 mcumenu=38.0 peak=0.0 coil=1.0
+1781501982 klippy=ready idle=Ready state=firing step=0/0 chamber=744.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.1 picpu=50.5 mcuexp=50.4 mcumenu=38.0 peak=0.0 coil=1.0
+1781501984 klippy=ready idle=Ready state=firing step=0/0 chamber=744.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.1 picpu=51.5 mcuexp=50.4 mcumenu=37.8 peak=0.0 coil=1.0
+1781501986 klippy=ready idle=Ready state=firing step=0/0 chamber=744.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.1 picpu=51.0 mcuexp=50.4 mcumenu=38.0 peak=0.0 coil=1.0
+1781501989 klippy=ready idle=Ready state=firing step=0/0 chamber=745.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.1 picpu=50.5 mcuexp=50.3 mcumenu=37.9 peak=0.0 coil=1.0
+1781501991 klippy=ready idle=Ready state=firing step=0/0 chamber=745.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.1 picpu=51.0 mcuexp=50.4 mcumenu=37.8 peak=0.0 coil=1.0
+1781501993 klippy=ready idle=Ready state=firing step=0/0 chamber=745.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.1 picpu=50.5 mcuexp=50.4 mcumenu=37.8 peak=0.0 coil=1.0
+1781501995 klippy=ready idle=Ready state=firing step=0/0 chamber=745.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.2 picpu=50.5 mcuexp=50.4 mcumenu=38.2 peak=0.0 coil=1.0
+1781501998 klippy=ready idle=Ready state=firing step=0/0 chamber=746.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.2 picpu=51.5 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781502000 klippy=ready idle=Ready state=firing step=0/0 chamber=746.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.2 picpu=50.5 mcuexp=50.4 mcumenu=38.1 peak=0.0 coil=1.0
+1781502002 klippy=ready idle=Ready state=firing step=0/0 chamber=746.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.2 picpu=50.5 mcuexp=50.3 mcumenu=37.6 peak=0.0 coil=1.0
+1781502004 klippy=ready idle=Ready state=firing step=0/0 chamber=746.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=51.0 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781502007 klippy=ready idle=Ready state=firing step=0/0 chamber=747.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=50.5 mcuexp=50.5 mcumenu=38.0 peak=0.0 coil=1.0
+1781502009 klippy=ready idle=Ready state=firing step=0/0 chamber=747.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=51.0 mcuexp=50.5 mcumenu=37.6 peak=0.0 coil=1.0
+1781502011 klippy=ready idle=Ready state=firing step=0/0 chamber=747.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.2 picpu=50.5 mcuexp=50.4 mcumenu=38.1 peak=0.0 coil=1.0
+1781502013 klippy=ready idle=Ready state=firing step=0/0 chamber=747.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.2 picpu=49.9 mcuexp=50.5 mcumenu=38.0 peak=0.0 coil=1.0
+1781502016 klippy=ready idle=Ready state=firing step=0/0 chamber=748.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=50.5 mcuexp=50.5 mcumenu=37.9 peak=0.0 coil=1.0
+1781502018 klippy=ready idle=Ready state=firing step=0/0 chamber=748.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.4 mcumenu=38.0 peak=0.0 coil=1.0
+1781502020 klippy=ready idle=Ready state=firing step=0/0 chamber=748.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=50.5 mcuexp=50.5 mcumenu=38.0 peak=0.0 coil=1.0
+1781502022 klippy=ready idle=Ready state=firing step=0/0 chamber=748.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=50.5 mcuexp=50.4 mcumenu=37.8 peak=0.0 coil=1.0
+1781502025 klippy=ready idle=Ready state=firing step=0/0 chamber=749.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=50.5 mcuexp=50.5 mcumenu=38.0 peak=0.0 coil=1.0
+1781502027 klippy=ready idle=Ready state=firing step=0/0 chamber=749.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=50.5 mcuexp=50.5 mcumenu=38.0 peak=0.0 coil=1.0
+1781502029 klippy=ready idle=Ready state=firing step=0/0 chamber=749.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=50.5 mcuexp=50.4 mcumenu=37.9 peak=0.0 coil=1.0
+1781502031 klippy=ready idle=Ready state=firing step=0/0 chamber=749.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=50.5 mcuexp=50.5 mcumenu=37.7 peak=0.0 coil=1.0
+1781502034 klippy=ready idle=Ready state=firing step=0/0 chamber=750.1 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.4 mcumenu=38.0 peak=0.0 coil=1.0
+1781502036 klippy=ready idle=Ready state=firing step=0/0 chamber=750.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.6 mcumenu=38.0 peak=0.0 coil=1.0
+1781502038 klippy=ready idle=Ready state=firing step=0/0 chamber=750.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.4 mcumenu=37.9 peak=0.0 coil=1.0
+1781502040 klippy=ready idle=Ready state=firing step=0/0 chamber=750.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=51.0 mcuexp=50.4 mcumenu=37.9 peak=0.0 coil=1.0
+1781502043 klippy=ready idle=Ready state=firing step=0/0 chamber=751.1 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781502045 klippy=ready idle=Ready state=firing step=0/0 chamber=751.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.6 mcumenu=37.8 peak=0.0 coil=1.0
+1781502047 klippy=ready idle=Ready state=firing step=0/0 chamber=751.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781502050 klippy=ready idle=Ready state=firing step=0/0 chamber=751.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.5 mcumenu=37.9 peak=0.0 coil=1.0
+1781502052 klippy=ready idle=Ready state=firing step=0/0 chamber=752.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.5 mcumenu=37.9 peak=0.0 coil=1.0
+1781502054 klippy=ready idle=Ready state=firing step=0/0 chamber=752.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=51.0 mcuexp=50.5 mcumenu=38.2 peak=0.0 coil=1.0
+1781502056 klippy=ready idle=Ready state=firing step=0/0 chamber=752.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=50.5 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781502059 klippy=ready idle=Ready state=firing step=0/0 chamber=752.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.4 mcumenu=38.0 peak=0.0 coil=1.0
+1781502061 klippy=ready idle=Ready state=firing step=0/0 chamber=753.1 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.6 mcumenu=37.8 peak=0.0 coil=1.0
+1781502063 klippy=ready idle=Ready state=firing step=0/0 chamber=753.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=51.0 mcuexp=50.5 mcumenu=37.8 peak=0.0 coil=1.0
+1781502065 klippy=ready idle=Ready state=firing step=0/0 chamber=753.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.5 mcumenu=38.2 peak=0.0 coil=1.0
+1781502068 klippy=ready idle=Ready state=firing step=0/0 chamber=754.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=51.5 mcuexp=50.5 mcumenu=37.9 peak=0.0 coil=1.0
+1781502070 klippy=ready idle=Ready state=firing step=0/0 chamber=754.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.6 mcumenu=37.8 peak=0.0 coil=1.0
+1781502072 klippy=ready idle=Ready state=firing step=0/0 chamber=754.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=51.5 mcuexp=50.6 mcumenu=38.2 peak=0.0 coil=1.0
+1781502074 klippy=ready idle=Ready state=firing step=0/0 chamber=754.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.5 mcumenu=37.9 peak=0.0 coil=1.0
+1781502077 klippy=ready idle=Ready state=firing step=0/0 chamber=755.1 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.5 mcumenu=37.7 peak=0.0 coil=1.0
+1781502079 klippy=ready idle=Ready state=firing step=0/0 chamber=755.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.5 mcumenu=37.9 peak=0.0 coil=1.0
+1781502081 klippy=ready idle=Ready state=firing step=0/0 chamber=755.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=50.5 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781502083 klippy=ready idle=Ready state=firing step=0/0 chamber=756.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.5 mcumenu=37.9 peak=0.0 coil=1.0
+1781502086 klippy=ready idle=Ready state=firing step=0/0 chamber=756.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=51.0 mcuexp=50.6 mcumenu=38.3 peak=0.0 coil=1.0
+1781502088 klippy=ready idle=Ready state=firing step=0/0 chamber=756.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.7 mcumenu=38.1 peak=0.0 coil=1.0
+1781502090 klippy=ready idle=Ready state=firing step=0/0 chamber=756.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=49.9 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781502092 klippy=ready idle=Ready state=firing step=0/0 chamber=757.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=51.5 mcuexp=50.6 mcumenu=38.2 peak=0.0 coil=1.0
+1781502095 klippy=ready idle=Ready state=firing step=0/0 chamber=757.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=51.5 mcuexp=50.6 mcumenu=38.0 peak=0.0 coil=1.0
+1781502097 klippy=ready idle=Ready state=firing step=0/0 chamber=757.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=50.5 mcuexp=50.5 mcumenu=38.0 peak=0.0 coil=1.0
+1781502099 klippy=ready idle=Ready state=firing step=0/0 chamber=757.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=51.0 mcuexp=50.6 mcumenu=37.8 peak=0.0 coil=1.0
+1781502101 klippy=ready idle=Ready state=firing step=0/0 chamber=758.1 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=50.5 mcuexp=50.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781502104 klippy=ready idle=Ready state=firing step=0/0 chamber=758.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=51.0 mcuexp=50.6 mcumenu=37.9 peak=0.0 coil=1.0
+1781502106 klippy=ready idle=Ready state=firing step=0/0 chamber=758.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.6 mcumenu=37.9 peak=0.0 coil=1.0
+1781502108 klippy=ready idle=Ready state=firing step=0/0 chamber=758.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=51.0 mcuexp=50.5 mcumenu=37.8 peak=0.0 coil=1.0
+1781502110 klippy=ready idle=Ready state=firing step=0/0 chamber=759.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=50.5 mcuexp=50.5 mcumenu=37.9 peak=0.0 coil=1.0
+1781502113 klippy=ready idle=Ready state=firing step=0/0 chamber=759.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=50.5 mcuexp=50.7 mcumenu=38.1 peak=0.0 coil=1.0
+1781502115 klippy=ready idle=Ready state=firing step=0/0 chamber=759.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.6 mcumenu=38.0 peak=0.0 coil=1.0
+1781502117 klippy=ready idle=Ready state=firing step=0/0 chamber=760.1 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=50.5 mcuexp=50.6 mcumenu=37.8 peak=0.0 coil=1.0
+1781502119 klippy=ready idle=Ready state=firing step=0/0 chamber=760.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=51.0 mcuexp=50.6 mcumenu=37.9 peak=0.0 coil=1.0
+1781502122 klippy=ready idle=Ready state=firing step=0/0 chamber=760.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=51.0 mcuexp=50.6 mcumenu=38.2 peak=0.0 coil=1.0
+1781502124 klippy=ready idle=Ready state=firing step=0/0 chamber=760.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.7 mcumenu=38.3 peak=0.0 coil=1.0
+1781502126 klippy=ready idle=Ready state=firing step=0/0 chamber=761.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.6 mcumenu=38.0 peak=0.0 coil=1.0
+1781502128 klippy=ready idle=Ready state=firing step=0/0 chamber=761.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.7 mcumenu=37.8 peak=0.0 coil=1.0
+1781502131 klippy=ready idle=Ready state=firing step=0/0 chamber=761.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.7 mcumenu=38.4 peak=0.0 coil=1.0
+1781502133 klippy=ready idle=Ready state=firing step=0/0 chamber=761.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=51.0 mcuexp=50.7 mcumenu=38.1 peak=0.0 coil=1.0
+1781502135 klippy=ready idle=Ready state=firing step=0/0 chamber=762.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.8 mcumenu=37.9 peak=0.0 coil=1.0
+1781502138 klippy=ready idle=Ready state=firing step=0/0 chamber=762.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.7 mcumenu=37.9 peak=0.0 coil=1.0
+1781502140 klippy=ready idle=Ready state=firing step=0/0 chamber=762.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.6 mcumenu=38.0 peak=0.0 coil=1.0
+1781502142 klippy=ready idle=Ready state=firing step=0/0 chamber=763.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.7 mcumenu=38.2 peak=0.0 coil=1.0
+1781502144 klippy=ready idle=Ready state=firing step=0/0 chamber=763.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.8 mcumenu=37.9 peak=0.0 coil=1.0
+1781502147 klippy=ready idle=Ready state=firing step=0/0 chamber=763.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.8 mcumenu=37.6 peak=0.0 coil=1.0
+1781502149 klippy=ready idle=Ready state=firing step=0/0 chamber=763.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.8 mcumenu=37.9 peak=0.0 coil=1.0
+1781502151 klippy=ready idle=Ready state=firing step=0/0 chamber=764.1 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.6 mcumenu=37.9 peak=0.0 coil=1.0
+1781502153 klippy=ready idle=Ready state=firing step=0/0 chamber=764.3 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.6 mcumenu=38.2 peak=0.0 coil=1.0
+1781502156 klippy=ready idle=Ready state=firing step=0/0 chamber=764.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=51.0 mcuexp=50.7 mcumenu=37.9 peak=0.0 coil=1.0
+1781502158 klippy=ready idle=Ready state=firing step=0/0 chamber=764.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.8 mcumenu=38.1 peak=0.0 coil=1.0
+1781502160 klippy=ready idle=Ready state=firing step=0/0 chamber=765.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.8 mcumenu=37.7 peak=0.0 coil=1.0
+1781502162 klippy=ready idle=Ready state=firing step=0/0 chamber=765.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=50.5 mcuexp=50.7 mcumenu=38.0 peak=0.0 coil=1.0
+1781502165 klippy=ready idle=Ready state=firing step=0/0 chamber=765.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=50.5 mcuexp=50.7 mcumenu=37.8 peak=0.0 coil=1.0
+1781502167 klippy=ready idle=Ready state=firing step=0/0 chamber=765.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=50.5 mcuexp=50.7 mcumenu=38.1 peak=0.0 coil=1.0
+1781502169 klippy=ready idle=Ready state=firing step=0/0 chamber=766.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=50.5 mcuexp=50.6 mcumenu=38.0 peak=0.0 coil=1.0
+1781502171 klippy=ready idle=Ready state=firing step=0/0 chamber=766.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=51.0 mcuexp=50.7 mcumenu=37.7 peak=0.0 coil=1.0
+1781502174 klippy=ready idle=Ready state=firing step=0/0 chamber=766.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=51.0 mcuexp=50.7 mcumenu=38.3 peak=0.0 coil=1.0
+1781502176 klippy=ready idle=Ready state=firing step=0/0 chamber=767.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=50.5 mcuexp=50.7 mcumenu=37.9 peak=0.0 coil=1.0
+1781502178 klippy=ready idle=Ready state=firing step=0/0 chamber=767.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=50.5 mcuexp=50.9 mcumenu=37.8 peak=0.0 coil=1.0
+1781502180 klippy=ready idle=Ready state=firing step=0/0 chamber=767.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=50.5 mcuexp=50.7 mcumenu=38.3 peak=0.0 coil=1.0
+1781502183 klippy=ready idle=Ready state=firing step=0/0 chamber=767.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=50.5 mcuexp=50.7 mcumenu=37.9 peak=0.0 coil=1.0
+1781502185 klippy=ready idle=Ready state=firing step=0/0 chamber=768.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=51.0 mcuexp=50.9 mcumenu=37.8 peak=0.0 coil=1.0
+1781502187 klippy=ready idle=Ready state=firing step=0/0 chamber=768.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=50.5 mcuexp=50.9 mcumenu=37.9 peak=0.0 coil=1.0
+1781502189 klippy=ready idle=Ready state=firing step=0/0 chamber=768.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=50.5 mcuexp=50.8 mcumenu=37.9 peak=0.0 coil=1.0
+1781502192 klippy=ready idle=Ready state=firing step=0/0 chamber=769.1 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=50.5 mcuexp=50.8 mcumenu=38.0 peak=0.0 coil=1.0
+1781502194 klippy=ready idle=Ready state=firing step=0/0 chamber=769.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=50.5 mcuexp=50.8 mcumenu=38.1 peak=0.0 coil=1.0
+1781502196 klippy=ready idle=Ready state=firing step=0/0 chamber=769.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=51.0 mcuexp=50.8 mcumenu=38.0 peak=0.0 coil=1.0
+1781502198 klippy=ready idle=Ready state=firing step=0/0 chamber=770.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=50.5 mcuexp=50.8 mcumenu=37.8 peak=0.0 coil=1.0
+1781502201 klippy=ready idle=Ready state=firing step=0/0 chamber=770.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=50.5 mcuexp=50.9 mcumenu=38.3 peak=0.0 coil=1.0
+1781502203 klippy=ready idle=Ready state=firing step=0/0 chamber=770.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=50.5 mcuexp=50.8 mcumenu=38.1 peak=0.0 coil=1.0
+1781502205 klippy=ready idle=Ready state=firing step=0/0 chamber=770.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=50.5 mcuexp=50.8 mcumenu=38.0 peak=0.0 coil=1.0
+1781502207 klippy=ready idle=Ready state=firing step=0/0 chamber=770.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=51.0 mcuexp=51.0 mcumenu=38.2 peak=0.0 coil=1.0
+1781502210 klippy=ready idle=Ready state=firing step=0/0 chamber=771.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=50.5 mcuexp=50.9 mcumenu=38.1 peak=0.0 coil=1.0
+1781502212 klippy=ready idle=Ready state=firing step=0/0 chamber=771.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=50.5 mcuexp=50.8 mcumenu=38.3 peak=0.0 coil=1.0
+1781502214 klippy=ready idle=Ready state=firing step=0/0 chamber=771.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=50.5 mcuexp=50.9 mcumenu=38.1 peak=0.0 coil=1.0
+1781502216 klippy=ready idle=Ready state=firing step=0/0 chamber=771.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=51.0 mcuexp=50.9 mcumenu=37.9 peak=0.0 coil=1.0
+1781502219 klippy=ready idle=Ready state=firing step=0/0 chamber=772.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=50.5 mcuexp=50.9 mcumenu=38.0 peak=0.0 coil=1.0
+1781502221 klippy=ready idle=Ready state=firing step=0/0 chamber=772.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=50.5 mcuexp=50.8 mcumenu=37.9 peak=0.0 coil=1.0
+1781502223 klippy=ready idle=Ready state=firing step=0/0 chamber=772.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=50.5 mcuexp=50.9 mcumenu=38.2 peak=0.0 coil=1.0
+1781502226 klippy=ready idle=Ready state=firing step=0/0 chamber=772.9 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=51.0 mcuexp=50.8 mcumenu=37.9 peak=0.0 coil=1.0
+1781502228 klippy=ready idle=Ready state=firing step=0/0 chamber=773.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=51.0 mcuexp=51.0 mcumenu=38.1 peak=0.0 coil=1.0
+1781502230 klippy=ready idle=Ready state=firing step=0/0 chamber=773.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=51.0 mcuexp=50.9 mcumenu=38.0 peak=0.0 coil=1.0
+1781502232 klippy=ready idle=Ready state=firing step=0/0 chamber=773.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=51.0 mcuexp=50.8 mcumenu=38.0 peak=0.0 coil=1.0
+1781502235 klippy=ready idle=Ready state=firing step=0/0 chamber=774.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=51.0 mcuexp=50.9 mcumenu=37.9 peak=0.0 coil=1.0
+1781502237 klippy=ready idle=Ready state=firing step=0/0 chamber=774.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=50.5 mcuexp=50.8 mcumenu=38.1 peak=0.0 coil=1.0
+1781502239 klippy=ready idle=Ready state=firing step=0/0 chamber=774.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=50.5 mcuexp=50.8 mcumenu=37.9 peak=0.0 coil=1.0
+1781502241 klippy=ready idle=Ready state=firing step=0/0 chamber=775.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.0 picpu=51.0 mcuexp=50.8 mcumenu=38.4 peak=0.0 coil=1.0
+1781502244 klippy=ready idle=Ready state=firing step=0/0 chamber=775.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.1 picpu=50.5 mcuexp=50.9 mcumenu=38.2 peak=0.0 coil=1.0
+1781502246 klippy=ready idle=Ready state=firing step=0/0 chamber=775.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.1 picpu=50.5 mcuexp=51.0 mcumenu=37.7 peak=0.0 coil=1.0
+1781502248 klippy=ready idle=Ready state=firing step=0/0 chamber=775.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.1 picpu=51.0 mcuexp=50.9 mcumenu=37.9 peak=0.0 coil=1.0
+1781502250 klippy=ready idle=Ready state=firing step=0/0 chamber=776.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.1 picpu=51.0 mcuexp=50.9 mcumenu=38.0 peak=0.0 coil=1.0
+1781502253 klippy=ready idle=Ready state=firing step=0/0 chamber=776.2 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=51.0 mcuexp=50.9 mcumenu=38.1 peak=0.0 coil=1.0
+1781502255 klippy=ready idle=Ready state=firing step=0/0 chamber=776.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.1 picpu=50.5 mcuexp=50.9 mcumenu=38.0 peak=0.0 coil=1.0
+1781502257 klippy=ready idle=Ready state=firing step=0/0 chamber=776.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=51.0 mcuexp=50.8 mcumenu=38.3 peak=0.0 coil=1.0
+1781502259 klippy=ready idle=Ready state=firing step=0/0 chamber=777.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.1 picpu=50.5 mcuexp=50.9 mcumenu=37.7 peak=0.0 coil=1.0
+1781502262 klippy=ready idle=Ready state=firing step=0/0 chamber=777.2 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=50.5 mcuexp=50.9 mcumenu=37.9 peak=0.0 coil=1.0
+1781502264 klippy=ready idle=Ready state=firing step=0/0 chamber=777.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=50.5 mcuexp=51.0 mcumenu=37.7 peak=0.0 coil=1.0
+1781502266 klippy=ready idle=Ready state=firing step=0/0 chamber=777.7 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=50.5 mcuexp=50.9 mcumenu=38.1 peak=0.0 coil=1.0
+1781502268 klippy=ready idle=Ready state=firing step=0/0 chamber=777.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=51.0 mcuexp=50.9 mcumenu=38.0 peak=0.0 coil=1.0
+1781502271 klippy=ready idle=Ready state=firing step=0/0 chamber=778.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=51.0 mcuexp=50.9 mcumenu=38.1 peak=0.0 coil=1.0
+1781502273 klippy=ready idle=Ready state=firing step=0/0 chamber=778.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=51.0 mcuexp=50.9 mcumenu=38.0 peak=0.0 coil=1.0
+1781502275 klippy=ready idle=Ready state=firing step=0/0 chamber=778.7 target=1220.0 sp=1220.0 pow=1.00 hs=62.1 picpu=51.0 mcuexp=51.0 mcumenu=37.9 peak=0.0 coil=1.0
+1781502277 klippy=ready idle=Ready state=firing step=0/0 chamber=778.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=50.5 mcuexp=51.0 mcumenu=38.0 peak=0.0 coil=1.0
+1781502280 klippy=ready idle=Ready state=firing step=0/0 chamber=779.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=51.5 mcuexp=51.0 mcumenu=38.0 peak=0.0 coil=1.0
+1781502282 klippy=ready idle=Ready state=firing step=0/0 chamber=779.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=50.5 mcuexp=51.1 mcumenu=38.2 peak=0.0 coil=1.0
+1781502284 klippy=ready idle=Ready state=firing step=0/0 chamber=779.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=50.5 mcuexp=50.9 mcumenu=38.1 peak=0.0 coil=1.0
+1781502286 klippy=ready idle=Ready state=firing step=0/0 chamber=779.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=51.0 mcuexp=50.8 mcumenu=38.1 peak=0.0 coil=1.0
+1781502289 klippy=ready idle=Ready state=firing step=0/0 chamber=780.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=50.5 mcuexp=50.9 mcumenu=38.2 peak=0.0 coil=1.0
+1781502291 klippy=ready idle=Ready state=firing step=0/0 chamber=780.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=50.5 mcuexp=50.9 mcumenu=37.8 peak=0.0 coil=1.0
+1781502293 klippy=ready idle=Ready state=firing step=0/0 chamber=780.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=51.5 mcuexp=50.9 mcumenu=38.2 peak=0.0 coil=1.0
+1781502295 klippy=ready idle=Ready state=firing step=0/0 chamber=780.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=51.5 mcuexp=50.9 mcumenu=37.9 peak=0.0 coil=1.0
+1781502298 klippy=ready idle=Ready state=firing step=0/0 chamber=781.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.2 picpu=51.0 mcuexp=50.9 mcumenu=38.3 peak=0.0 coil=1.0
+1781502300 klippy=ready idle=Ready state=firing step=0/0 chamber=781.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=50.5 mcuexp=50.9 mcumenu=38.3 peak=0.0 coil=1.0
+1781502302 klippy=ready idle=Ready state=firing step=0/0 chamber=781.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=50.5 mcuexp=51.0 mcumenu=38.0 peak=0.0 coil=1.0
+1781502305 klippy=ready idle=Ready state=firing step=0/0 chamber=781.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=50.5 mcuexp=51.0 mcumenu=38.0 peak=0.0 coil=1.0
+1781502307 klippy=ready idle=Ready state=firing step=0/0 chamber=782.2 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=50.5 mcuexp=51.0 mcumenu=37.9 peak=0.0 coil=1.0
+1781502309 klippy=ready idle=Ready state=firing step=0/0 chamber=782.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=51.0 mcuexp=51.0 mcumenu=38.1 peak=0.0 coil=1.0
+1781502311 klippy=ready idle=Ready state=firing step=0/0 chamber=782.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=50.5 mcuexp=51.0 mcumenu=38.0 peak=0.0 coil=1.0
+1781502314 klippy=ready idle=Ready state=firing step=0/0 chamber=782.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=50.5 mcuexp=50.9 mcumenu=38.0 peak=0.0 coil=1.0
+1781502316 klippy=ready idle=Ready state=firing step=0/0 chamber=783.2 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=51.0 mcuexp=51.1 mcumenu=38.2 peak=0.0 coil=1.0
+1781502318 klippy=ready idle=Ready state=firing step=0/0 chamber=783.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=50.5 mcuexp=51.0 mcumenu=38.6 peak=0.0 coil=1.0
+1781502320 klippy=ready idle=Ready state=firing step=0/0 chamber=783.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.3 picpu=51.0 mcuexp=51.0 mcumenu=38.1 peak=0.0 coil=1.0
+1781502323 klippy=ready idle=Ready state=firing step=0/0 chamber=784.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.4 picpu=50.5 mcuexp=51.0 mcumenu=37.9 peak=0.0 coil=1.0
+1781502325 klippy=ready idle=Ready state=firing step=0/0 chamber=784.2 target=1220.0 sp=1220.0 pow=1.00 hs=62.4 picpu=51.5 mcuexp=51.0 mcumenu=37.4 peak=0.0 coil=1.0
+1781502327 klippy=ready idle=Ready state=firing step=0/0 chamber=784.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.4 picpu=50.5 mcuexp=51.0 mcumenu=38.0 peak=0.0 coil=1.0
+1781502329 klippy=ready idle=Ready state=firing step=0/0 chamber=784.7 target=1220.0 sp=1220.0 pow=1.00 hs=62.4 picpu=51.5 mcuexp=50.9 mcumenu=37.9 peak=0.0 coil=1.0
+1781502332 klippy=ready idle=Ready state=firing step=0/0 chamber=784.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.4 picpu=51.0 mcuexp=51.1 mcumenu=38.3 peak=0.0 coil=1.0
+1781502334 klippy=ready idle=Ready state=firing step=0/0 chamber=785.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.4 picpu=50.5 mcuexp=51.0 mcumenu=37.7 peak=0.0 coil=1.0
+1781502336 klippy=ready idle=Ready state=firing step=0/0 chamber=785.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=50.5 mcuexp=50.9 mcumenu=38.1 peak=0.0 coil=1.0
+1781502338 klippy=ready idle=Ready state=firing step=0/0 chamber=785.7 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=51.0 mcuexp=51.1 mcumenu=38.3 peak=0.0 coil=1.0
+1781502341 klippy=ready idle=Ready state=firing step=0/0 chamber=785.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=50.5 mcuexp=51.1 mcumenu=38.4 peak=0.0 coil=1.0
+1781502343 klippy=ready idle=Ready state=firing step=0/0 chamber=786.2 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=50.5 mcuexp=51.1 mcumenu=38.1 peak=0.0 coil=1.0
+1781502345 klippy=ready idle=Ready state=firing step=0/0 chamber=786.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=50.5 mcuexp=51.0 mcumenu=38.5 peak=0.0 coil=1.0
+1781502347 klippy=ready idle=Ready state=firing step=0/0 chamber=786.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=50.5 mcuexp=51.2 mcumenu=38.1 peak=0.0 coil=1.0
+1781502350 klippy=ready idle=Ready state=firing step=0/0 chamber=787.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=51.5 mcuexp=51.0 mcumenu=38.1 peak=0.0 coil=1.0
+1781502352 klippy=ready idle=Ready state=firing step=0/0 chamber=787.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=50.5 mcuexp=51.1 mcumenu=38.2 peak=0.0 coil=1.0
+1781502354 klippy=ready idle=Ready state=firing step=0/0 chamber=787.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=50.5 mcuexp=51.0 mcumenu=38.0 peak=0.0 coil=1.0
+1781502356 klippy=ready idle=Ready state=firing step=0/0 chamber=787.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=50.5 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502359 klippy=ready idle=Ready state=firing step=0/0 chamber=788.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=50.5 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502361 klippy=ready idle=Ready state=firing step=0/0 chamber=788.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=50.5 mcuexp=51.0 mcumenu=38.3 peak=0.0 coil=1.0
+1781502363 klippy=ready idle=Ready state=firing step=0/0 chamber=788.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=51.0 mcuexp=51.0 mcumenu=38.3 peak=0.0 coil=1.0
+1781502365 klippy=ready idle=Ready state=firing step=0/0 chamber=788.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.5 picpu=51.0 mcuexp=51.0 mcumenu=38.1 peak=0.0 coil=1.0
+1781502368 klippy=ready idle=Ready state=firing step=0/0 chamber=789.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=51.0 mcuexp=51.0 mcumenu=37.9 peak=0.0 coil=1.0
+1781502370 klippy=ready idle=Ready state=firing step=0/0 chamber=789.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=51.0 mcuexp=51.0 mcumenu=37.9 peak=0.0 coil=1.0
+1781502372 klippy=ready idle=Ready state=firing step=0/0 chamber=789.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=51.0 mcuexp=51.0 mcumenu=38.4 peak=0.0 coil=1.0
+1781502374 klippy=ready idle=Ready state=firing step=0/0 chamber=789.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=51.0 mcuexp=51.1 mcumenu=38.3 peak=0.0 coil=1.0
+1781502377 klippy=ready idle=Ready state=firing step=0/0 chamber=789.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=50.5 mcuexp=51.0 mcumenu=38.0 peak=0.0 coil=1.0
+1781502379 klippy=ready idle=Ready state=firing step=0/0 chamber=790.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=50.5 mcuexp=51.2 mcumenu=37.9 peak=0.0 coil=1.0
+1781502381 klippy=ready idle=Ready state=firing step=0/0 chamber=790.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=51.5 mcuexp=51.0 mcumenu=38.1 peak=0.0 coil=1.0
+1781502383 klippy=ready idle=Ready state=firing step=0/0 chamber=790.7 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=50.5 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502386 klippy=ready idle=Ready state=firing step=0/0 chamber=790.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=50.5 mcuexp=51.0 mcumenu=38.3 peak=0.0 coil=1.0
+1781502388 klippy=ready idle=Ready state=firing step=0/0 chamber=791.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=51.0 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502390 klippy=ready idle=Ready state=firing step=0/0 chamber=791.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=50.5 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502392 klippy=ready idle=Ready state=firing step=0/0 chamber=791.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.6 picpu=50.5 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502395 klippy=ready idle=Ready state=firing step=0/0 chamber=791.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=51.0 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502397 klippy=ready idle=Ready state=firing step=0/0 chamber=792.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=51.0 mcuexp=51.1 mcumenu=38.2 peak=0.0 coil=1.0
+1781502399 klippy=ready idle=Ready state=firing step=0/0 chamber=792.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=51.0 mcuexp=51.0 mcumenu=38.1 peak=0.0 coil=1.0
+1781502402 klippy=ready idle=Ready state=firing step=0/0 chamber=792.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=51.0 mcuexp=51.0 mcumenu=38.2 peak=0.0 coil=1.0
+1781502404 klippy=ready idle=Ready state=firing step=0/0 chamber=792.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=51.5 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502406 klippy=ready idle=Ready state=firing step=0/0 chamber=793.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=50.5 mcuexp=51.1 mcumenu=38.3 peak=0.0 coil=1.0
+1781502408 klippy=ready idle=Ready state=firing step=0/0 chamber=793.2 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=51.0 mcuexp=51.3 mcumenu=38.1 peak=0.0 coil=1.0
+1781502411 klippy=ready idle=Ready state=firing step=0/0 chamber=793.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=51.5 mcuexp=51.2 mcumenu=38.2 peak=0.0 coil=1.0
+1781502413 klippy=ready idle=Ready state=firing step=0/0 chamber=793.7 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=51.0 mcuexp=51.2 mcumenu=37.8 peak=0.0 coil=1.0
+1781502415 klippy=ready idle=Ready state=firing step=0/0 chamber=793.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=51.5 mcuexp=51.1 mcumenu=38.4 peak=0.0 coil=1.0
+1781502417 klippy=ready idle=Ready state=firing step=0/0 chamber=794.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.7 picpu=51.0 mcuexp=51.1 mcumenu=37.9 peak=0.0 coil=1.0
+1781502420 klippy=ready idle=Ready state=firing step=0/0 chamber=794.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=51.0 mcuexp=51.1 mcumenu=38.1 peak=0.0 coil=1.0
+1781502422 klippy=ready idle=Ready state=firing step=0/0 chamber=794.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=51.0 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502424 klippy=ready idle=Ready state=firing step=0/0 chamber=794.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=51.0 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502426 klippy=ready idle=Ready state=firing step=0/0 chamber=795.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=51.0 mcuexp=51.1 mcumenu=38.4 peak=0.0 coil=1.0
+1781502429 klippy=ready idle=Ready state=firing step=0/0 chamber=795.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=51.5 mcuexp=51.2 mcumenu=38.1 peak=0.0 coil=1.0
+1781502431 klippy=ready idle=Ready state=firing step=0/0 chamber=795.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=51.0 mcuexp=51.1 mcumenu=38.3 peak=0.0 coil=1.0
+1781502433 klippy=ready idle=Ready state=firing step=0/0 chamber=795.7 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=51.0 mcuexp=51.1 mcumenu=38.1 peak=0.0 coil=1.0
+1781502435 klippy=ready idle=Ready state=firing step=0/0 chamber=795.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=50.5 mcuexp=51.2 mcumenu=37.9 peak=0.0 coil=1.0
+1781502438 klippy=ready idle=Ready state=firing step=0/0 chamber=796.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.8 picpu=50.5 mcuexp=51.1 mcumenu=38.4 peak=0.0 coil=1.0
+1781502440 klippy=ready idle=Ready state=firing step=0/0 chamber=796.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=50.5 mcuexp=51.1 mcumenu=37.9 peak=0.0 coil=1.0
+1781502442 klippy=ready idle=Ready state=firing step=0/0 chamber=796.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=50.5 mcuexp=51.1 mcumenu=38.1 peak=0.0 coil=1.0
+1781502444 klippy=ready idle=Ready state=firing step=0/0 chamber=796.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=51.0 mcuexp=51.0 mcumenu=38.1 peak=0.0 coil=1.0
+1781502447 klippy=ready idle=Ready state=firing step=0/0 chamber=797.2 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=51.5 mcuexp=51.2 mcumenu=38.0 peak=0.0 coil=1.0
+1781502449 klippy=ready idle=Ready state=firing step=0/0 chamber=797.4 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=51.5 mcuexp=51.1 mcumenu=38.2 peak=0.0 coil=1.0
+1781502451 klippy=ready idle=Ready state=firing step=0/0 chamber=797.6 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=51.5 mcuexp=51.2 mcumenu=38.4 peak=0.0 coil=1.0
+1781502453 klippy=ready idle=Ready state=firing step=0/0 chamber=797.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=49.9 mcuexp=51.3 mcumenu=38.0 peak=0.0 coil=1.0
+1781502456 klippy=ready idle=Ready state=firing step=0/0 chamber=798.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=50.5 mcuexp=51.1 mcumenu=38.0 peak=0.0 coil=1.0
+1781502458 klippy=ready idle=Ready state=firing step=0/0 chamber=798.3 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=51.0 mcuexp=51.2 mcumenu=38.1 peak=0.0 coil=1.0
+1781502460 klippy=ready idle=Ready state=firing step=0/0 chamber=798.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=51.5 mcuexp=51.3 mcumenu=38.0 peak=0.0 coil=1.0
+1781502462 klippy=ready idle=Ready state=firing step=0/0 chamber=798.6 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=51.0 mcuexp=51.3 mcumenu=38.0 peak=0.0 coil=1.0
+1781502465 klippy=ready idle=Ready state=firing step=0/0 chamber=798.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=50.5 mcuexp=51.1 mcumenu=38.2 peak=0.0 coil=1.0
+1781502467 klippy=ready idle=Ready state=firing step=0/0 chamber=799.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=51.5 mcuexp=51.2 mcumenu=38.1 peak=0.0 coil=1.0
+1781502469 klippy=ready idle=Ready state=firing step=0/0 chamber=799.2 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=50.5 mcuexp=51.1 mcumenu=38.2 peak=0.0 coil=1.0
+1781502471 klippy=ready idle=Ready state=firing step=0/0 chamber=799.5 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=51.0 mcuexp=51.2 mcumenu=38.2 peak=0.0 coil=1.0
+1781502474 klippy=ready idle=Ready state=firing step=0/0 chamber=799.7 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=50.5 mcuexp=51.1 mcumenu=38.3 peak=0.0 coil=1.0
+1781502476 klippy=ready idle=Ready state=firing step=0/0 chamber=799.9 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=50.5 mcuexp=51.2 mcumenu=38.2 peak=0.0 coil=1.0
+1781502478 klippy=ready idle=Ready state=firing step=0/0 chamber=800.1 target=1220.0 sp=1220.0 pow=1.00 hs=62.9 picpu=51.5 mcuexp=51.1 mcumenu=38.4 peak=0.0 coil=1.0
+1781502481 klippy=ready idle=Ready state=firing step=0/0 chamber=800.4 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=51.0 mcuexp=51.4 mcumenu=38.6 peak=0.0 coil=1.0
+1781502483 klippy=ready idle=Ready state=firing step=0/0 chamber=800.6 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=50.5 mcuexp=51.3 mcumenu=37.8 peak=0.0 coil=1.0
+1781502485 klippy=ready idle=Ready state=firing step=0/0 chamber=800.9 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=50.5 mcuexp=51.3 mcumenu=38.2 peak=0.0 coil=1.0
+1781502487 klippy=ready idle=Ready state=firing step=0/0 chamber=801.1 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=50.5 mcuexp=51.3 mcumenu=38.0 peak=0.0 coil=1.0
+1781502490 klippy=ready idle=Ready state=firing step=0/0 chamber=801.4 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=51.0 mcuexp=51.3 mcumenu=38.1 peak=0.0 coil=1.0
+1781502492 klippy=ready idle=Ready state=firing step=0/0 chamber=801.6 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=51.5 mcuexp=51.5 mcumenu=38.0 peak=0.0 coil=1.0
+1781502494 klippy=ready idle=Ready state=firing step=0/0 chamber=801.9 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=50.5 mcuexp=51.3 mcumenu=38.1 peak=0.0 coil=1.0
+1781502496 klippy=ready idle=Ready state=firing step=0/0 chamber=802.2 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=50.5 mcuexp=51.4 mcumenu=38.3 peak=0.0 coil=1.0
+1781502499 klippy=ready idle=Ready state=firing step=0/0 chamber=802.5 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=51.5 mcuexp=51.3 mcumenu=38.3 peak=0.0 coil=1.0
+1781502501 klippy=ready idle=Ready state=firing step=0/0 chamber=802.8 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=51.0 mcuexp=51.3 mcumenu=38.3 peak=0.0 coil=1.0
+1781502503 klippy=ready idle=Ready state=firing step=0/0 chamber=803.0 target=1220.0 sp=1220.0 pow=1.00 hs=63.0 picpu=50.5 mcuexp=51.4 mcumenu=38.2 peak=0.0 coil=1.0
+1781502505 klippy=ready idle=Ready state=firing step=0/0 chamber=803.4 target=1220.0 sp=1220.0 pow=1.00 hs=63.1 picpu=51.0 mcuexp=51.3 mcumenu=38.5 peak=0.0 coil=1.0
+1781502508 klippy=ready idle=Ready state=firing step=0/0 chamber=803.6 target=1220.0 sp=1220.0 pow=1.00 hs=63.1 picpu=51.5 mcuexp=51.3 mcumenu=38.1 peak=0.0 coil=1.0
+1781502510 klippy=ready idle=Ready state=firing step=0/0 chamber=803.9 target=1220.0 sp=1220.0 pow=1.00 hs=63.2 picpu=51.5 mcuexp=51.4 mcumenu=38.2 peak=0.0 coil=1.0
+1781502512 klippy=ready idle=Ready state=firing step=0/0 chamber=804.2 target=1220.0 sp=1220.0 pow=1.00 hs=63.2 picpu=51.5 mcuexp=51.4 mcumenu=38.4 peak=0.0 coil=1.0
+1781502514 klippy=ready idle=Ready state=firing step=0/0 chamber=804.5 target=1220.0 sp=1220.0 pow=1.00 hs=63.2 picpu=51.0 mcuexp=51.3 mcumenu=38.4 peak=0.0 coil=1.0
+1781502517 klippy=ready idle=Ready state=firing step=0/0 chamber=804.7 target=1220.0 sp=1220.0 pow=1.00 hs=63.3 picpu=50.5 mcuexp=51.3 mcumenu=38.5 peak=0.0 coil=1.0
+1781502519 klippy=ready idle=Ready state=firing step=0/0 chamber=805.0 target=1220.0 sp=1220.0 pow=1.00 hs=63.3 picpu=51.5 mcuexp=51.3 mcumenu=38.6 peak=0.0 coil=1.0
+1781502521 klippy=ready idle=Ready state=firing step=0/0 chamber=805.1 target=1220.0 sp=1220.0 pow=1.00 hs=63.3 picpu=50.5 mcuexp=51.4 mcumenu=38.3 peak=0.0 coil=1.0
+1781502523 klippy=ready idle=Ready state=firing step=0/0 chamber=805.5 target=1220.0 sp=1220.0 pow=1.00 hs=63.4 picpu=50.5 mcuexp=51.4 mcumenu=38.5 peak=0.0 coil=1.0
+1781502526 klippy=ready idle=Ready state=firing step=0/0 chamber=805.6 target=1220.0 sp=1220.0 pow=1.00 hs=63.4 picpu=51.5 mcuexp=51.5 mcumenu=38.4 peak=0.0 coil=1.0
+1781502528 klippy=ready idle=Ready state=firing step=0/0 chamber=805.9 target=1220.0 sp=1220.0 pow=1.00 hs=63.4 picpu=50.5 mcuexp=51.3 mcumenu=38.0 peak=0.0 coil=1.0
+1781502530 klippy=ready idle=Ready state=firing step=0/0 chamber=806.1 target=1220.0 sp=1220.0 pow=1.00 hs=63.5 picpu=51.5 mcuexp=51.4 mcumenu=38.5 peak=0.0 coil=1.0
+1781502532 klippy=ready idle=Ready state=firing step=0/0 chamber=806.3 target=1220.0 sp=1220.0 pow=1.00 hs=63.5 picpu=51.5 mcuexp=51.3 mcumenu=38.2 peak=0.0 coil=1.0
+1781502535 klippy=ready idle=Ready state=firing step=0/0 chamber=806.5 target=1220.0 sp=1220.0 pow=1.00 hs=63.5 picpu=51.5 mcuexp=51.3 mcumenu=38.3 peak=0.0 coil=1.0
+1781502537 klippy=ready idle=Ready state=firing step=0/0 chamber=806.8 target=1220.0 sp=1220.0 pow=1.00 hs=63.5 picpu=51.5 mcuexp=51.4 mcumenu=38.2 peak=0.0 coil=1.0
+1781502539 klippy=ready idle=Ready state=firing step=0/0 chamber=806.9 target=1220.0 sp=1220.0 pow=1.00 hs=63.5 picpu=50.5 mcuexp=51.4 mcumenu=38.6 peak=0.0 coil=1.0
+1781502541 klippy=ready idle=Ready state=firing step=0/0 chamber=807.2 target=1220.0 sp=1220.0 pow=1.00 hs=63.6 picpu=51.5 mcuexp=51.3 mcumenu=38.6 peak=0.0 coil=1.0
+1781502544 klippy=ready idle=Ready state=firing step=0/0 chamber=807.4 target=1220.0 sp=1220.0 pow=1.00 hs=63.6 picpu=51.5 mcuexp=51.4 mcumenu=38.0 peak=0.0 coil=1.0
+1781502546 klippy=ready idle=Ready state=firing step=0/0 chamber=807.6 target=1220.0 sp=1220.0 pow=1.00 hs=63.6 picpu=51.5 mcuexp=51.4 mcumenu=38.3 peak=0.0 coil=1.0
+1781502548 klippy=ready idle=Ready state=firing step=0/0 chamber=807.9 target=1220.0 sp=1220.0 pow=1.00 hs=63.6 picpu=51.5 mcuexp=51.3 mcumenu=38.5 peak=0.0 coil=1.0
+1781502550 klippy=ready idle=Ready state=firing step=0/0 chamber=808.1 target=1220.0 sp=1220.0 pow=1.00 hs=63.6 picpu=51.0 mcuexp=51.3 mcumenu=38.3 peak=0.0 coil=1.0
+1781502553 klippy=ready idle=Ready state=firing step=0/0 chamber=808.3 target=1220.0 sp=1220.0 pow=1.00 hs=63.7 picpu=51.0 mcuexp=51.4 mcumenu=38.3 peak=0.0 coil=1.0
+1781502555 klippy=ready idle=Ready state=firing step=0/0 chamber=808.6 target=1220.0 sp=1220.0 pow=1.00 hs=63.7 picpu=51.5 mcuexp=51.5 mcumenu=38.1 peak=0.0 coil=1.0
+1781502557 klippy=ready idle=Ready state=firing step=0/0 chamber=808.8 target=1220.0 sp=1220.0 pow=1.00 hs=63.7 picpu=51.5 mcuexp=51.4 mcumenu=38.4 peak=0.0 coil=1.0
+1781502559 klippy=ready idle=Ready state=firing step=0/0 chamber=809.0 target=1220.0 sp=1220.0 pow=1.00 hs=63.8 picpu=51.0 mcuexp=51.4 mcumenu=38.7 peak=0.0 coil=1.0
+1781502562 klippy=ready idle=Ready state=firing step=0/0 chamber=809.2 target=1220.0 sp=1220.0 pow=1.00 hs=63.8 picpu=51.0 mcuexp=51.5 mcumenu=38.6 peak=0.0 coil=1.0
+1781502564 klippy=ready idle=Ready state=firing step=0/0 chamber=809.4 target=1220.0 sp=1220.0 pow=1.00 hs=63.8 picpu=51.5 mcuexp=51.4 mcumenu=38.3 peak=0.0 coil=1.0
+1781502566 klippy=ready idle=Ready state=firing step=0/0 chamber=809.6 target=1220.0 sp=1220.0 pow=1.00 hs=63.8 picpu=51.0 mcuexp=51.5 mcumenu=38.5 peak=0.0 coil=1.0
+1781502569 klippy=ready idle=Ready state=firing step=0/0 chamber=809.9 target=1220.0 sp=1220.0 pow=1.00 hs=63.8 picpu=51.5 mcuexp=51.5 mcumenu=39.0 peak=0.0 coil=1.0
+1781502571 klippy=ready idle=Ready state=firing step=0/0 chamber=810.1 target=1220.0 sp=1220.0 pow=1.00 hs=63.9 picpu=51.0 mcuexp=51.5 mcumenu=38.6 peak=0.0 coil=1.0
+1781502573 klippy=ready idle=Ready state=firing step=0/0 chamber=810.3 target=1220.0 sp=1220.0 pow=1.00 hs=63.9 picpu=51.5 mcuexp=51.4 mcumenu=38.3 peak=0.0 coil=1.0
+1781502575 klippy=ready idle=Ready state=firing step=0/0 chamber=810.6 target=1220.0 sp=1220.0 pow=1.00 hs=63.9 picpu=51.5 mcuexp=51.4 mcumenu=38.2 peak=0.0 coil=1.0
+1781502578 klippy=ready idle=Ready state=firing step=0/0 chamber=810.8 target=1220.0 sp=1220.0 pow=1.00 hs=63.9 picpu=51.5 mcuexp=51.5 mcumenu=38.2 peak=0.0 coil=1.0
+1781502580 klippy=ready idle=Ready state=firing step=0/0 chamber=811.1 target=1220.0 sp=1220.0 pow=1.00 hs=63.9 picpu=51.5 mcuexp=51.4 mcumenu=38.5 peak=0.0 coil=1.0
+1781502582 klippy=ready idle=Ready state=firing step=0/0 chamber=811.3 target=1220.0 sp=1220.0 pow=1.00 hs=64.0 picpu=51.5 mcuexp=51.4 mcumenu=38.4 peak=0.0 coil=1.0
+1781502584 klippy=ready idle=Ready state=firing step=0/0 chamber=811.5 target=1220.0 sp=1220.0 pow=1.00 hs=63.9 picpu=51.0 mcuexp=51.4 mcumenu=38.1 peak=0.0 coil=1.0
+1781502587 klippy=ready idle=Ready state=firing step=0/0 chamber=811.7 target=1220.0 sp=1220.0 pow=1.00 hs=64.0 picpu=51.5 mcuexp=51.5 mcumenu=38.8 peak=0.0 coil=1.0
+1781502589 klippy=ready idle=Ready state=firing step=0/0 chamber=812.0 target=1220.0 sp=1220.0 pow=1.00 hs=64.1 picpu=51.0 mcuexp=51.5 mcumenu=38.4 peak=0.0 coil=1.0
+1781502591 klippy=ready idle=Ready state=firing step=0/0 chamber=812.2 target=1220.0 sp=1220.0 pow=1.00 hs=64.0 picpu=50.5 mcuexp=51.4 mcumenu=38.5 peak=0.0 coil=1.0
+1781502593 klippy=ready idle=Ready state=firing step=0/0 chamber=812.5 target=1220.0 sp=1220.0 pow=1.00 hs=64.1 picpu=51.5 mcuexp=51.6 mcumenu=38.6 peak=0.0 coil=1.0
+1781502596 klippy=ready idle=Ready state=firing step=0/0 chamber=812.7 target=1220.0 sp=1220.0 pow=1.00 hs=64.1 picpu=50.5 mcuexp=51.5 mcumenu=38.6 peak=0.0 coil=1.0
+1781502598 klippy=ready idle=Ready state=firing step=0/0 chamber=812.9 target=1220.0 sp=1220.0 pow=1.00 hs=64.0 picpu=51.5 mcuexp=51.6 mcumenu=38.4 peak=0.0 coil=1.0
+1781502600 klippy=ready idle=Ready state=firing step=0/0 chamber=813.1 target=1220.0 sp=1220.0 pow=1.00 hs=64.1 picpu=51.5 mcuexp=51.5 mcumenu=38.8 peak=0.0 coil=1.0
+1781502602 klippy=ready idle=Ready state=firing step=0/0 chamber=813.3 target=1220.0 sp=1220.0 pow=1.00 hs=64.1 picpu=51.0 mcuexp=51.6 mcumenu=38.9 peak=0.0 coil=1.0
+1781502605 klippy=ready idle=Ready state=firing step=0/0 chamber=813.6 target=1220.0 sp=1220.0 pow=1.00 hs=64.1 picpu=51.5 mcuexp=51.6 mcumenu=39.0 peak=0.0 coil=1.0
+1781502607 klippy=ready idle=Ready state=firing step=0/0 chamber=813.8 target=1220.0 sp=1220.0 pow=1.00 hs=64.1 picpu=51.0 mcuexp=51.5 mcumenu=38.6 peak=0.0 coil=1.0
+1781502609 klippy=ready idle=Ready state=firing step=0/0 chamber=814.0 target=1220.0 sp=1220.0 pow=1.00 hs=64.1 picpu=51.5 mcuexp=51.6 mcumenu=38.5 peak=0.0 coil=1.0
+1781502611 klippy=ready idle=Ready state=firing step=0/0 chamber=814.2 target=1220.0 sp=1220.0 pow=1.00 hs=64.2 picpu=51.5 mcuexp=51.4 mcumenu=38.9 peak=0.0 coil=1.0
+1781502614 klippy=ready idle=Ready state=firing step=0/0 chamber=814.5 target=1220.0 sp=1220.0 pow=1.00 hs=64.2 picpu=51.5 mcuexp=51.6 mcumenu=38.6 peak=0.0 coil=1.0
+1781502616 klippy=ready idle=Ready state=firing step=0/0 chamber=814.7 target=1220.0 sp=1220.0 pow=1.00 hs=64.2 picpu=51.5 mcuexp=51.7 mcumenu=38.3 peak=0.0 coil=1.0
+1781502618 klippy=ready idle=Ready state=firing step=0/0 chamber=814.9 target=1220.0 sp=1220.0 pow=1.00 hs=64.2 picpu=51.0 mcuexp=51.7 mcumenu=38.9 peak=0.0 coil=1.0
+1781502620 klippy=ready idle=Ready state=firing step=0/0 chamber=815.1 target=1220.0 sp=1220.0 pow=1.00 hs=64.2 picpu=51.5 mcuexp=51.6 mcumenu=38.8 peak=0.0 coil=1.0
+1781502623 klippy=ready idle=Ready state=firing step=0/0 chamber=815.4 target=1220.0 sp=1220.0 pow=1.00 hs=64.2 picpu=51.5 mcuexp=51.5 mcumenu=38.7 peak=0.0 coil=1.0
+1781502625 klippy=ready idle=Ready state=firing step=0/0 chamber=815.5 target=1220.0 sp=1220.0 pow=1.00 hs=64.2 picpu=51.5 mcuexp=51.5 mcumenu=38.8 peak=0.0 coil=1.0
+1781502627 klippy=ready idle=Ready state=firing step=0/0 chamber=815.8 target=1220.0 sp=1220.0 pow=1.00 hs=64.2 picpu=51.5 mcuexp=51.6 mcumenu=38.7 peak=0.0 coil=1.0
+1781502629 klippy=ready idle=Ready state=firing step=0/0 chamber=816.0 target=1220.0 sp=1220.0 pow=1.00 hs=64.2 picpu=51.5 mcuexp=51.5 mcumenu=38.5 peak=0.0 coil=1.0
+# MARKER fan_added_to_ssr ts=1781502672 (~819C; focused fan added to SSR heatsink)
+1781502705 klippy=ready idle=Ready state=firing step=0/0 chamber=821.8 target=1220.0 sp=1220.0 pow=1.00 hs=62.1 picpu=53.7 mcuexp=51.5 mcumenu=39.2 peak=0.0 coil=1.0
+1781502707 klippy=ready idle=Ready state=firing step=0/0 chamber=822.0 target=1220.0 sp=1220.0 pow=1.00 hs=62.1 picpu=51.5 mcuexp=51.4 mcumenu=39.2 peak=0.0 coil=1.0
+1781502710 klippy=ready idle=Ready state=firing step=0/0 chamber=822.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.9 picpu=51.5 mcuexp=51.4 mcumenu=39.4 peak=0.0 coil=1.0
+1781502712 klippy=ready idle=Ready state=firing step=0/0 chamber=822.5 target=1220.0 sp=1220.0 pow=1.00 hs=61.8 picpu=52.1 mcuexp=51.2 mcumenu=39.0 peak=0.0 coil=1.0
+1781502714 klippy=ready idle=Ready state=firing step=0/0 chamber=822.8 target=1220.0 sp=1220.0 pow=1.00 hs=61.7 picpu=52.1 mcuexp=51.4 mcumenu=39.5 peak=0.0 coil=1.0
+1781502716 klippy=ready idle=Ready state=firing step=0/0 chamber=823.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=51.5 mcuexp=51.4 mcumenu=39.4 peak=0.0 coil=1.0
+1781502719 klippy=ready idle=Ready state=firing step=0/0 chamber=823.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.6 picpu=51.5 mcuexp=51.3 mcumenu=39.3 peak=0.0 coil=1.0
+1781502721 klippy=ready idle=Ready state=firing step=0/0 chamber=823.4 target=1220.0 sp=1220.0 pow=1.00 hs=61.5 picpu=52.1 mcuexp=51.4 mcumenu=39.5 peak=0.0 coil=1.0
+1781502723 klippy=ready idle=Ready state=firing step=0/0 chamber=823.6 target=1220.0 sp=1220.0 pow=1.00 hs=61.4 picpu=51.5 mcuexp=51.3 mcumenu=39.8 peak=0.0 coil=1.0
+1781502725 klippy=ready idle=Ready state=firing step=0/0 chamber=823.7 target=1220.0 sp=1220.0 pow=1.00 hs=61.3 picpu=51.5 mcuexp=51.2 mcumenu=39.9 peak=0.0 coil=1.0
+1781502728 klippy=ready idle=Ready state=firing step=0/0 chamber=824.0 target=1220.0 sp=1220.0 pow=1.00 hs=61.1 picpu=51.5 mcuexp=51.2 mcumenu=39.2 peak=0.0 coil=1.0
+1781502730 klippy=ready idle=Ready state=firing step=0/0 chamber=824.2 target=1220.0 sp=1220.0 pow=1.00 hs=61.0 picpu=52.1 mcuexp=51.3 mcumenu=39.4 peak=0.0 coil=1.0
+1781502732 klippy=ready idle=Ready state=firing step=0/0 chamber=824.4 target=1220.0 sp=1220.0 pow=1.00 hs=60.8 picpu=51.5 mcuexp=51.3 mcumenu=39.6 peak=0.0 coil=1.0
+1781502734 klippy=ready idle=Ready state=firing step=0/0 chamber=824.6 target=1220.0 sp=1220.0 pow=1.00 hs=60.8 picpu=51.5 mcuexp=51.2 mcumenu=39.6 peak=0.0 coil=1.0
+1781502737 klippy=ready idle=Ready state=firing step=0/0 chamber=824.9 target=1220.0 sp=1220.0 pow=1.00 hs=60.6 picpu=51.5 mcuexp=51.2 mcumenu=39.3 peak=0.0 coil=1.0
+1781502739 klippy=ready idle=Ready state=firing step=0/0 chamber=825.1 target=1220.0 sp=1220.0 pow=1.00 hs=60.6 picpu=51.5 mcuexp=51.0 mcumenu=39.6 peak=0.0 coil=1.0
+1781502741 klippy=ready idle=Ready state=firing step=0/0 chamber=825.4 target=1220.0 sp=1220.0 pow=1.00 hs=60.5 picpu=52.1 mcuexp=51.2 mcumenu=39.3 peak=0.0 coil=1.0
+1781502744 klippy=ready idle=Ready state=firing step=0/0 chamber=825.7 target=1220.0 sp=1220.0 pow=1.00 hs=60.4 picpu=51.5 mcuexp=51.3 mcumenu=39.8 peak=0.0 coil=1.0
+1781502746 klippy=ready idle=Ready state=firing step=0/0 chamber=825.9 target=1220.0 sp=1220.0 pow=1.00 hs=60.2 picpu=51.5 mcuexp=51.0 mcumenu=39.3 peak=0.0 coil=1.0
+1781502748 klippy=ready idle=Ready state=firing step=0/0 chamber=826.2 target=1220.0 sp=1220.0 pow=1.00 hs=60.1 picpu=52.1 mcuexp=51.1 mcumenu=39.6 peak=0.0 coil=1.0
+1781502750 klippy=ready idle=Ready state=firing step=0/0 chamber=826.4 target=1220.0 sp=1220.0 pow=1.00 hs=60.1 picpu=51.5 mcuexp=51.1 mcumenu=39.8 peak=0.0 coil=1.0
+1781502753 klippy=ready idle=Ready state=firing step=0/0 chamber=826.6 target=1220.0 sp=1220.0 pow=1.00 hs=60.0 picpu=51.5 mcuexp=51.0 mcumenu=39.6 peak=0.0 coil=1.0
+1781502755 klippy=ready idle=Ready state=firing step=0/0 chamber=826.8 target=1220.0 sp=1220.0 pow=1.00 hs=59.9 picpu=51.5 mcuexp=51.0 mcumenu=39.8 peak=0.0 coil=1.0
+1781502757 klippy=ready idle=Ready state=firing step=0/0 chamber=827.1 target=1220.0 sp=1220.0 pow=1.00 hs=59.8 picpu=51.5 mcuexp=51.0 mcumenu=39.8 peak=0.0 coil=1.0
+1781502759 klippy=ready idle=Ready state=firing step=0/0 chamber=827.3 target=1220.0 sp=1220.0 pow=1.00 hs=59.6 picpu=51.5 mcuexp=51.1 mcumenu=40.0 peak=0.0 coil=1.0
+1781502762 klippy=ready idle=Ready state=firing step=0/0 chamber=827.5 target=1220.0 sp=1220.0 pow=1.00 hs=59.5 picpu=51.5 mcuexp=51.1 mcumenu=39.6 peak=0.0 coil=1.0
+1781502764 klippy=ready idle=Ready state=firing step=0/0 chamber=827.7 target=1220.0 sp=1220.0 pow=1.00 hs=59.5 picpu=51.5 mcuexp=51.0 mcumenu=39.6 peak=0.0 coil=1.0
+1781502766 klippy=ready idle=Ready state=firing step=0/0 chamber=828.0 target=1220.0 sp=1220.0 pow=1.00 hs=59.4 picpu=51.5 mcuexp=51.2 mcumenu=39.7 peak=0.0 coil=1.0
+1781502768 klippy=ready idle=Ready state=firing step=0/0 chamber=828.1 target=1220.0 sp=1220.0 pow=1.00 hs=59.2 picpu=51.0 mcuexp=50.9 mcumenu=39.8 peak=0.0 coil=1.0
+1781502771 klippy=ready idle=Ready state=firing step=0/0 chamber=828.4 target=1220.0 sp=1220.0 pow=1.00 hs=59.0 picpu=51.5 mcuexp=50.9 mcumenu=39.8 peak=0.0 coil=1.0
+1781502773 klippy=ready idle=Ready state=firing step=0/0 chamber=828.6 target=1220.0 sp=1220.0 pow=1.00 hs=59.0 picpu=51.0 mcuexp=51.1 mcumenu=39.9 peak=0.0 coil=1.0
+1781502775 klippy=ready idle=Ready state=firing step=0/0 chamber=828.8 target=1220.0 sp=1220.0 pow=1.00 hs=58.8 picpu=51.5 mcuexp=51.0 mcumenu=39.8 peak=0.0 coil=1.0
+1781502777 klippy=ready idle=Ready state=firing step=0/0 chamber=829.1 target=1220.0 sp=1220.0 pow=1.00 hs=58.8 picpu=51.5 mcuexp=50.9 mcumenu=39.8 peak=0.0 coil=1.0
+1781502780 klippy=ready idle=Ready state=firing step=0/0 chamber=829.3 target=1220.0 sp=1220.0 pow=1.00 hs=58.6 picpu=51.5 mcuexp=50.9 mcumenu=39.3 peak=0.0 coil=1.0
+1781502782 klippy=ready idle=Ready state=firing step=0/0 chamber=829.5 target=1220.0 sp=1220.0 pow=1.00 hs=58.5 picpu=51.5 mcuexp=50.9 mcumenu=39.8 peak=0.0 coil=1.0
+1781502784 klippy=ready idle=Ready state=firing step=0/0 chamber=829.7 target=1220.0 sp=1220.0 pow=1.00 hs=58.5 picpu=50.5 mcuexp=50.9 mcumenu=39.7 peak=0.0 coil=1.0
+1781502786 klippy=ready idle=Ready state=firing step=0/0 chamber=830.0 target=1220.0 sp=1220.0 pow=1.00 hs=58.4 picpu=51.5 mcuexp=51.0 mcumenu=39.9 peak=0.0 coil=1.0
+1781502789 klippy=ready idle=Ready state=firing step=0/0 chamber=830.3 target=1220.0 sp=1220.0 pow=1.00 hs=58.4 picpu=51.5 mcuexp=50.8 mcumenu=39.9 peak=0.0 coil=1.0
+1781502791 klippy=ready idle=Ready state=firing step=0/0 chamber=830.7 target=1220.0 sp=1220.0 pow=1.00 hs=58.3 picpu=51.5 mcuexp=50.9 mcumenu=39.6 peak=0.0 coil=1.0
+1781502793 klippy=ready idle=Ready state=firing step=0/0 chamber=831.0 target=1220.0 sp=1220.0 pow=1.00 hs=58.3 picpu=51.5 mcuexp=50.9 mcumenu=39.8 peak=0.0 coil=1.0
+1781502795 klippy=ready idle=Ready state=firing step=0/0 chamber=831.4 target=1220.0 sp=1220.0 pow=1.00 hs=58.1 picpu=51.5 mcuexp=51.0 mcumenu=39.7 peak=0.0 coil=1.0
+1781502798 klippy=ready idle=Ready state=firing step=0/0 chamber=831.7 target=1220.0 sp=1220.0 pow=1.00 hs=58.1 picpu=51.5 mcuexp=50.8 mcumenu=40.1 peak=0.0 coil=1.0
+1781502800 klippy=ready idle=Ready state=firing step=0/0 chamber=832.1 target=1220.0 sp=1220.0 pow=1.00 hs=58.1 picpu=51.5 mcuexp=50.9 mcumenu=39.8 peak=0.0 coil=1.0
+1781502802 klippy=ready idle=Ready state=firing step=0/0 chamber=832.3 target=1220.0 sp=1220.0 pow=1.00 hs=58.0 picpu=51.0 mcuexp=50.8 mcumenu=39.3 peak=0.0 coil=1.0
+1781502804 klippy=ready idle=Ready state=firing step=0/0 chamber=832.6 target=1220.0 sp=1220.0 pow=1.00 hs=57.9 picpu=51.5 mcuexp=50.8 mcumenu=39.6 peak=0.0 coil=1.0
+1781502807 klippy=ready idle=Ready state=firing step=0/0 chamber=832.7 target=1220.0 sp=1220.0 pow=1.00 hs=57.7 picpu=51.0 mcuexp=50.8 mcumenu=39.8 peak=0.0 coil=1.0
+1781502809 klippy=ready idle=Ready state=firing step=0/0 chamber=832.8 target=1220.0 sp=1220.0 pow=1.00 hs=57.6 picpu=51.5 mcuexp=50.7 mcumenu=39.9 peak=0.0 coil=1.0
+1781502811 klippy=ready idle=Ready state=firing step=0/0 chamber=832.9 target=1220.0 sp=1220.0 pow=1.00 hs=57.5 picpu=51.5 mcuexp=50.8 mcumenu=39.9 peak=0.0 coil=1.0
+1781502813 klippy=ready idle=Ready state=firing step=0/0 chamber=833.0 target=1220.0 sp=1220.0 pow=1.00 hs=57.4 picpu=50.5 mcuexp=50.6 mcumenu=39.9 peak=0.0 coil=1.0
+1781502816 klippy=ready idle=Ready state=firing step=0/0 chamber=833.2 target=1220.0 sp=1220.0 pow=1.00 hs=57.3 picpu=51.0 mcuexp=50.6 mcumenu=40.0 peak=0.0 coil=1.0
+1781502818 klippy=ready idle=Ready state=firing step=0/0 chamber=833.4 target=1220.0 sp=1220.0 pow=1.00 hs=57.3 picpu=51.5 mcuexp=50.8 mcumenu=39.7 peak=0.0 coil=1.0
+1781502820 klippy=ready idle=Ready state=firing step=0/0 chamber=833.6 target=1220.0 sp=1220.0 pow=1.00 hs=57.2 picpu=51.5 mcuexp=50.8 mcumenu=39.4 peak=0.0 coil=1.0
+1781502823 klippy=ready idle=Ready state=firing step=0/0 chamber=833.9 target=1220.0 sp=1220.0 pow=1.00 hs=57.0 picpu=51.5 mcuexp=50.6 mcumenu=39.8 peak=0.0 coil=1.0
+1781502825 klippy=ready idle=Ready state=firing step=0/0 chamber=834.0 target=1220.0 sp=1220.0 pow=1.00 hs=56.9 picpu=51.0 mcuexp=50.6 mcumenu=39.7 peak=0.0 coil=1.0
+1781502827 klippy=ready idle=Ready state=firing step=0/0 chamber=834.3 target=1220.0 sp=1220.0 pow=1.00 hs=56.9 picpu=51.0 mcuexp=50.6 mcumenu=39.6 peak=0.0 coil=1.0
+1781502829 klippy=ready idle=Ready state=firing step=0/0 chamber=834.5 target=1220.0 sp=1220.0 pow=1.00 hs=56.7 picpu=51.5 mcuexp=50.6 mcumenu=39.8 peak=0.0 coil=1.0
+1781502832 klippy=ready idle=Ready state=firing step=0/0 chamber=834.7 target=1220.0 sp=1220.0 pow=1.00 hs=56.6 picpu=51.5 mcuexp=50.7 mcumenu=39.8 peak=0.0 coil=1.0
+1781502834 klippy=ready idle=Ready state=firing step=0/0 chamber=834.9 target=1220.0 sp=1220.0 pow=1.00 hs=56.5 picpu=51.0 mcuexp=50.6 mcumenu=39.9 peak=0.0 coil=1.0
+1781502836 klippy=ready idle=Ready state=firing step=0/0 chamber=835.1 target=1220.0 sp=1220.0 pow=1.00 hs=56.4 picpu=51.5 mcuexp=50.5 mcumenu=39.9 peak=0.0 coil=1.0
+1781502838 klippy=ready idle=Ready state=firing step=0/0 chamber=835.3 target=1220.0 sp=1220.0 pow=1.00 hs=56.4 picpu=50.5 mcuexp=50.5 mcumenu=39.8 peak=0.0 coil=1.0
+1781502841 klippy=ready idle=Ready state=firing step=0/0 chamber=835.5 target=1220.0 sp=1220.0 pow=1.00 hs=56.3 picpu=51.0 mcuexp=50.5 mcumenu=39.8 peak=0.0 coil=1.0
+1781502843 klippy=ready idle=Ready state=firing step=0/0 chamber=835.8 target=1220.0 sp=1220.0 pow=1.00 hs=56.2 picpu=51.5 mcuexp=50.5 mcumenu=39.7 peak=0.0 coil=1.0
+1781502845 klippy=ready idle=Ready state=firing step=0/0 chamber=836.0 target=1220.0 sp=1220.0 pow=1.00 hs=56.1 picpu=50.5 mcuexp=50.5 mcumenu=39.7 peak=0.0 coil=1.0
+1781502847 klippy=ready idle=Ready state=firing step=0/0 chamber=836.2 target=1220.0 sp=1220.0 pow=1.00 hs=56.1 picpu=50.5 mcuexp=50.4 mcumenu=39.8 peak=0.0 coil=1.0
+1781502850 klippy=ready idle=Ready state=firing step=0/0 chamber=836.4 target=1220.0 sp=1220.0 pow=1.00 hs=56.0 picpu=51.0 mcuexp=50.5 mcumenu=39.8 peak=0.0 coil=1.0
+1781502852 klippy=ready idle=Ready state=firing step=0/0 chamber=836.7 target=1220.0 sp=1220.0 pow=1.00 hs=55.9 picpu=51.0 mcuexp=50.4 mcumenu=39.5 peak=0.0 coil=1.0
+1781502854 klippy=ready idle=Ready state=firing step=0/0 chamber=836.9 target=1220.0 sp=1220.0 pow=1.00 hs=55.9 picpu=51.5 mcuexp=50.4 mcumenu=40.0 peak=0.0 coil=1.0
+1781502856 klippy=ready idle=Ready state=firing step=0/0 chamber=837.1 target=1220.0 sp=1220.0 pow=1.00 hs=55.7 picpu=50.5 mcuexp=50.3 mcumenu=40.2 peak=0.0 coil=1.0
+1781502859 klippy=ready idle=Ready state=firing step=0/0 chamber=837.4 target=1220.0 sp=1220.0 pow=1.00 hs=55.6 picpu=51.0 mcuexp=50.4 mcumenu=39.9 peak=0.0 coil=1.0
+1781502861 klippy=ready idle=Ready state=firing step=0/0 chamber=837.5 target=1220.0 sp=1220.0 pow=1.00 hs=55.5 picpu=51.0 mcuexp=50.4 mcumenu=39.6 peak=0.0 coil=1.0
+1781502863 klippy=ready idle=Ready state=firing step=0/0 chamber=837.7 target=1220.0 sp=1220.0 pow=1.00 hs=55.4 picpu=50.5 mcuexp=50.3 mcumenu=39.8 peak=0.0 coil=1.0
+1781502865 klippy=ready idle=Ready state=firing step=0/0 chamber=838.0 target=1220.0 sp=1220.0 pow=1.00 hs=55.4 picpu=51.0 mcuexp=50.3 mcumenu=40.2 peak=0.0 coil=1.0
+1781502868 klippy=ready idle=Ready state=firing step=0/0 chamber=838.1 target=1220.0 sp=1220.0 pow=1.00 hs=55.4 picpu=50.5 mcuexp=50.3 mcumenu=40.0 peak=0.0 coil=1.0
+1781502870 klippy=ready idle=Ready state=firing step=0/0 chamber=838.4 target=1220.0 sp=1220.0 pow=1.00 hs=55.3 picpu=49.9 mcuexp=50.2 mcumenu=39.7 peak=0.0 coil=1.0
+1781502872 klippy=ready idle=Ready state=firing step=0/0 chamber=838.6 target=1220.0 sp=1220.0 pow=1.00 hs=55.2 picpu=50.5 mcuexp=50.3 mcumenu=39.6 peak=0.0 coil=1.0
+1781502874 klippy=ready idle=Ready state=firing step=0/0 chamber=838.9 target=1220.0 sp=1220.0 pow=1.00 hs=55.1 picpu=50.5 mcuexp=50.2 mcumenu=40.2 peak=0.0 coil=1.0
+1781502877 klippy=ready idle=Ready state=firing step=0/0 chamber=839.0 target=1220.0 sp=1220.0 pow=1.00 hs=55.1 picpu=50.5 mcuexp=50.2 mcumenu=39.7 peak=0.0 coil=1.0
+1781502879 klippy=ready idle=Ready state=firing step=0/0 chamber=839.2 target=1220.0 sp=1220.0 pow=1.00 hs=54.9 picpu=50.5 mcuexp=50.2 mcumenu=39.6 peak=0.0 coil=1.0
+1781502881 klippy=ready idle=Ready state=firing step=0/0 chamber=839.5 target=1220.0 sp=1220.0 pow=1.00 hs=55.0 picpu=50.5 mcuexp=50.2 mcumenu=39.8 peak=0.0 coil=1.0
+1781502883 klippy=ready idle=Ready state=firing step=0/0 chamber=839.7 target=1220.0 sp=1220.0 pow=1.00 hs=54.8 picpu=50.5 mcuexp=50.1 mcumenu=39.7 peak=0.0 coil=1.0
+1781502886 klippy=ready idle=Ready state=firing step=0/0 chamber=840.0 target=1220.0 sp=1220.0 pow=1.00 hs=54.8 picpu=50.5 mcuexp=50.2 mcumenu=40.2 peak=0.0 coil=1.0
+1781502888 klippy=ready idle=Ready state=firing step=0/0 chamber=840.2 target=1220.0 sp=1220.0 pow=1.00 hs=54.6 picpu=50.5 mcuexp=50.1 mcumenu=39.5 peak=0.0 coil=1.0
+1781502890 klippy=ready idle=Ready state=firing step=0/0 chamber=840.5 target=1220.0 sp=1220.0 pow=1.00 hs=54.6 picpu=50.5 mcuexp=50.0 mcumenu=39.9 peak=0.0 coil=1.0
+1781502892 klippy=ready idle=Ready state=firing step=0/0 chamber=840.8 target=1220.0 sp=1220.0 pow=1.00 hs=54.5 picpu=51.0 mcuexp=50.0 mcumenu=39.8 peak=0.0 coil=1.0
+1781502895 klippy=ready idle=Ready state=firing step=0/0 chamber=841.0 target=1220.0 sp=1220.0 pow=1.00 hs=54.3 picpu=50.5 mcuexp=50.0 mcumenu=39.9 peak=0.0 coil=1.0
+1781502897 klippy=ready idle=Ready state=firing step=0/0 chamber=841.2 target=1220.0 sp=1220.0 pow=1.00 hs=54.4 picpu=50.5 mcuexp=50.0 mcumenu=40.0 peak=0.0 coil=1.0
+1781502899 klippy=ready idle=Ready state=firing step=0/0 chamber=841.6 target=1220.0 sp=1220.0 pow=1.00 hs=54.3 picpu=50.5 mcuexp=50.1 mcumenu=39.8 peak=0.0 coil=1.0
+1781502901 klippy=ready idle=Ready state=firing step=0/0 chamber=841.8 target=1220.0 sp=1220.0 pow=1.00 hs=54.2 picpu=50.5 mcuexp=50.0 mcumenu=39.7 peak=0.0 coil=1.0
+1781502904 klippy=ready idle=Ready state=firing step=0/0 chamber=842.0 target=1220.0 sp=1220.0 pow=1.00 hs=54.1 picpu=50.5 mcuexp=50.1 mcumenu=39.5 peak=0.0 coil=1.0
+1781502906 klippy=ready idle=Ready state=firing step=0/0 chamber=842.2 target=1220.0 sp=1220.0 pow=1.00 hs=53.9 picpu=50.5 mcuexp=50.0 mcumenu=40.0 peak=0.0 coil=1.0
+1781502908 klippy=ready idle=Ready state=firing step=0/0 chamber=842.4 target=1220.0 sp=1220.0 pow=1.00 hs=53.8 picpu=49.9 mcuexp=50.0 mcumenu=40.3 peak=0.0 coil=1.0
+1781502911 klippy=ready idle=Ready state=firing step=0/0 chamber=842.7 target=1220.0 sp=1220.0 pow=1.00 hs=53.9 picpu=50.5 mcuexp=49.9 mcumenu=39.9 peak=0.0 coil=1.0
+1781502913 klippy=ready idle=Ready state=firing step=0/0 chamber=842.9 target=1220.0 sp=1220.0 pow=1.00 hs=53.9 picpu=50.5 mcuexp=50.0 mcumenu=39.8 peak=0.0 coil=1.0
+1781502915 klippy=ready idle=Ready state=firing step=0/0 chamber=843.1 target=1220.0 sp=1220.0 pow=1.00 hs=53.9 picpu=50.5 mcuexp=49.9 mcumenu=40.0 peak=0.0 coil=1.0
+1781502917 klippy=ready idle=Ready state=firing step=0/0 chamber=843.3 target=1220.0 sp=1220.0 pow=1.00 hs=53.8 picpu=50.5 mcuexp=49.9 mcumenu=40.0 peak=0.0 coil=1.0
+1781502920 klippy=ready idle=Ready state=firing step=0/0 chamber=843.5 target=1220.0 sp=1220.0 pow=1.00 hs=53.7 picpu=49.9 mcuexp=49.9 mcumenu=40.0 peak=0.0 coil=1.0
+1781502922 klippy=ready idle=Ready state=firing step=0/0 chamber=843.7 target=1220.0 sp=1220.0 pow=1.00 hs=53.6 picpu=50.5 mcuexp=49.9 mcumenu=39.8 peak=0.0 coil=1.0
+1781502924 klippy=ready idle=Ready state=firing step=0/0 chamber=843.9 target=1220.0 sp=1220.0 pow=1.00 hs=53.5 picpu=49.9 mcuexp=49.8 mcumenu=40.0 peak=0.0 coil=1.0
+1781502926 klippy=ready idle=Ready state=firing step=0/0 chamber=844.2 target=1220.0 sp=1220.0 pow=1.00 hs=53.6 picpu=50.5 mcuexp=49.9 mcumenu=39.8 peak=0.0 coil=1.0
+1781502929 klippy=ready idle=Ready state=firing step=0/0 chamber=844.3 target=1220.0 sp=1220.0 pow=1.00 hs=53.5 picpu=50.5 mcuexp=49.9 mcumenu=39.9 peak=0.0 coil=1.0
+1781502931 klippy=ready idle=Ready state=firing step=0/0 chamber=844.5 target=1220.0 sp=1220.0 pow=1.00 hs=53.5 picpu=50.5 mcuexp=49.7 mcumenu=40.0 peak=0.0 coil=1.0
+1781502933 klippy=ready idle=Ready state=firing step=0/0 chamber=844.8 target=1220.0 sp=1220.0 pow=1.00 hs=53.4 picpu=50.5 mcuexp=49.9 mcumenu=40.0 peak=0.0 coil=1.0
+1781502935 klippy=ready idle=Ready state=firing step=0/0 chamber=845.0 target=1220.0 sp=1220.0 pow=1.00 hs=53.3 picpu=50.5 mcuexp=49.9 mcumenu=39.9 peak=0.0 coil=1.0
+1781502938 klippy=ready idle=Ready state=firing step=0/0 chamber=845.1 target=1220.0 sp=1220.0 pow=1.00 hs=53.2 picpu=50.5 mcuexp=49.8 mcumenu=39.8 peak=0.0 coil=1.0
+1781502940 klippy=ready idle=Ready state=firing step=0/0 chamber=845.4 target=1220.0 sp=1220.0 pow=1.00 hs=53.2 picpu=50.5 mcuexp=49.8 mcumenu=39.8 peak=0.0 coil=1.0
+1781502942 klippy=ready idle=Ready state=firing step=0/0 chamber=845.5 target=1220.0 sp=1220.0 pow=1.00 hs=53.1 picpu=50.5 mcuexp=49.8 mcumenu=40.0 peak=0.0 coil=1.0
+1781502944 klippy=ready idle=Ready state=firing step=0/0 chamber=845.8 target=1220.0 sp=1220.0 pow=1.00 hs=53.1 picpu=50.5 mcuexp=49.7 mcumenu=40.1 peak=0.0 coil=1.0
+1781502947 klippy=ready idle=Ready state=firing step=0/0 chamber=846.0 target=1220.0 sp=1220.0 pow=1.00 hs=52.9 picpu=49.4 mcuexp=49.7 mcumenu=40.0 peak=0.0 coil=1.0
+1781502949 klippy=ready idle=Ready state=firing step=0/0 chamber=846.1 target=1220.0 sp=1220.0 pow=1.00 hs=52.8 picpu=49.4 mcuexp=49.8 mcumenu=39.8 peak=0.0 coil=1.0
+1781502951 klippy=ready idle=Ready state=firing step=0/0 chamber=846.4 target=1220.0 sp=1220.0 pow=1.00 hs=52.9 picpu=50.5 mcuexp=49.6 mcumenu=39.5 peak=0.0 coil=1.0
+1781502953 klippy=ready idle=Ready state=firing step=0/0 chamber=846.6 target=1220.0 sp=1220.0 pow=1.00 hs=52.9 picpu=50.5 mcuexp=49.6 mcumenu=39.8 peak=0.0 coil=1.0
+1781502956 klippy=ready idle=Ready state=firing step=0/0 chamber=846.8 target=1220.0 sp=1220.0 pow=1.00 hs=52.7 picpu=50.5 mcuexp=49.7 mcumenu=39.8 peak=0.0 coil=1.0
+1781502958 klippy=ready idle=Ready state=firing step=0/0 chamber=846.9 target=1220.0 sp=1220.0 pow=1.00 hs=52.6 picpu=50.5 mcuexp=49.6 mcumenu=39.8 peak=0.0 coil=1.0
+1781502960 klippy=ready idle=Ready state=firing step=0/0 chamber=847.1 target=1220.0 sp=1220.0 pow=1.00 hs=52.6 picpu=50.5 mcuexp=49.5 mcumenu=40.0 peak=0.0 coil=1.0
+1781502962 klippy=ready idle=Ready state=firing step=0/0 chamber=847.3 target=1220.0 sp=1220.0 pow=1.00 hs=52.5 picpu=50.5 mcuexp=49.6 mcumenu=39.8 peak=0.0 coil=1.0
+1781502965 klippy=ready idle=Ready state=firing step=0/0 chamber=847.5 target=1220.0 sp=1220.0 pow=1.00 hs=52.4 picpu=49.9 mcuexp=49.4 mcumenu=39.9 peak=0.0 coil=1.0
+1781502967 klippy=ready idle=Ready state=firing step=0/0 chamber=847.8 target=1220.0 sp=1220.0 pow=1.00 hs=52.4 picpu=50.5 mcuexp=49.5 mcumenu=39.9 peak=0.0 coil=1.0
+1781502969 klippy=ready idle=Ready state=firing step=0/0 chamber=848.0 target=1220.0 sp=1220.0 pow=1.00 hs=52.3 picpu=50.5 mcuexp=49.4 mcumenu=39.7 peak=0.0 coil=1.0
+1781502971 klippy=ready idle=Ready state=firing step=0/0 chamber=848.1 target=1220.0 sp=1220.0 pow=1.00 hs=52.2 picpu=49.9 mcuexp=49.4 mcumenu=39.7 peak=0.0 coil=1.0
+1781502974 klippy=ready idle=Ready state=firing step=0/0 chamber=848.3 target=1220.0 sp=1220.0 pow=1.00 hs=52.1 picpu=49.4 mcuexp=49.4 mcumenu=39.5 peak=0.0 coil=1.0
+1781502976 klippy=ready idle=Ready state=firing step=0/0 chamber=848.5 target=1220.0 sp=1220.0 pow=1.00 hs=52.2 picpu=49.9 mcuexp=49.5 mcumenu=39.5 peak=0.0 coil=1.0
+1781502978 klippy=ready idle=Ready state=firing step=0/0 chamber=848.7 target=1220.0 sp=1220.0 pow=1.00 hs=52.1 picpu=49.4 mcuexp=49.4 mcumenu=39.8 peak=0.0 coil=1.0
+1781502980 klippy=ready idle=Ready state=firing step=0/0 chamber=848.9 target=1220.0 sp=1220.0 pow=1.00 hs=52.1 picpu=49.9 mcuexp=49.3 mcumenu=39.9 peak=0.0 coil=1.0
+1781502983 klippy=ready idle=Ready state=firing step=0/0 chamber=849.1 target=1220.0 sp=1220.0 pow=1.00 hs=52.0 picpu=49.9 mcuexp=49.4 mcumenu=39.7 peak=0.0 coil=1.0
+1781502985 klippy=ready idle=Ready state=firing step=0/0 chamber=849.3 target=1220.0 sp=1220.0 pow=1.00 hs=52.0 picpu=50.5 mcuexp=49.4 mcumenu=39.7 peak=0.0 coil=1.0
+1781502987 klippy=ready idle=Ready state=firing step=0/0 chamber=849.5 target=1220.0 sp=1220.0 pow=1.00 hs=51.9 picpu=49.9 mcuexp=49.3 mcumenu=39.8 peak=0.0 coil=1.0
+1781502989 klippy=ready idle=Ready state=firing step=0/0 chamber=849.7 target=1220.0 sp=1220.0 pow=1.00 hs=51.8 picpu=49.4 mcuexp=49.1 mcumenu=39.5 peak=0.0 coil=1.0
+1781502992 klippy=ready idle=Ready state=firing step=0/0 chamber=849.9 target=1220.0 sp=1220.0 pow=1.00 hs=51.9 picpu=49.9 mcuexp=49.2 mcumenu=39.8 peak=0.0 coil=1.0
+1781502994 klippy=ready idle=Ready state=firing step=0/0 chamber=850.1 target=1220.0 sp=1220.0 pow=1.00 hs=51.7 picpu=49.9 mcuexp=49.3 mcumenu=39.8 peak=0.0 coil=1.0
+1781502996 klippy=ready idle=Ready state=firing step=0/0 chamber=850.4 target=1220.0 sp=1220.0 pow=1.00 hs=51.6 picpu=50.5 mcuexp=49.3 mcumenu=39.7 peak=0.0 coil=1.0
+1781502999 klippy=ready idle=Ready state=firing step=0/0 chamber=850.5 target=1220.0 sp=1220.0 pow=1.00 hs=51.6 picpu=50.5 mcuexp=49.3 mcumenu=39.9 peak=0.0 coil=1.0
+1781503001 klippy=ready idle=Ready state=firing step=0/0 chamber=850.7 target=1220.0 sp=1220.0 pow=1.00 hs=51.5 picpu=49.4 mcuexp=49.2 mcumenu=39.7 peak=0.0 coil=1.0
+1781503003 klippy=ready idle=Ready state=firing step=0/0 chamber=850.9 target=1220.0 sp=1220.0 pow=1.00 hs=51.5 picpu=49.9 mcuexp=49.2 mcumenu=39.7 peak=0.0 coil=1.0
+1781503005 klippy=ready idle=Ready state=firing step=0/0 chamber=851.1 target=1220.0 sp=1220.0 pow=1.00 hs=51.5 picpu=49.9 mcuexp=49.1 mcumenu=39.7 peak=0.0 coil=1.0
+1781503008 klippy=ready idle=Ready state=firing step=0/0 chamber=851.4 target=1220.0 sp=1220.0 pow=1.00 hs=51.5 picpu=49.9 mcuexp=49.2 mcumenu=39.5 peak=0.0 coil=1.0
+1781503010 klippy=ready idle=Ready state=firing step=0/0 chamber=851.5 target=1220.0 sp=1220.0 pow=1.00 hs=51.4 picpu=50.5 mcuexp=49.1 mcumenu=40.0 peak=0.0 coil=1.0
+1781503012 klippy=ready idle=Ready state=firing step=0/0 chamber=851.7 target=1220.0 sp=1220.0 pow=1.00 hs=51.4 picpu=49.4 mcuexp=49.1 mcumenu=39.5 peak=0.0 coil=1.0
+1781503014 klippy=ready idle=Ready state=firing step=0/0 chamber=851.9 target=1220.0 sp=1220.0 pow=1.00 hs=51.3 picpu=49.4 mcuexp=49.2 mcumenu=39.5 peak=0.0 coil=1.0
+1781503017 klippy=ready idle=Ready state=firing step=0/0 chamber=852.1 target=1220.0 sp=1220.0 pow=1.00 hs=51.3 picpu=49.9 mcuexp=49.1 mcumenu=39.4 peak=0.0 coil=1.0
+1781503019 klippy=ready idle=Ready state=firing step=0/0 chamber=852.3 target=1220.0 sp=1220.0 pow=1.00 hs=51.2 picpu=49.4 mcuexp=49.1 mcumenu=39.7 peak=0.0 coil=1.0
+1781503021 klippy=ready idle=Ready state=firing step=0/0 chamber=852.5 target=1220.0 sp=1220.0 pow=1.00 hs=51.0 picpu=49.4 mcuexp=49.0 mcumenu=39.7 peak=0.0 coil=1.0
+1781503023 klippy=ready idle=Ready state=firing step=0/0 chamber=852.7 target=1220.0 sp=1220.0 pow=1.00 hs=51.0 picpu=49.4 mcuexp=49.1 mcumenu=39.8 peak=0.0 coil=1.0
+1781503026 klippy=ready idle=Ready state=firing step=0/0 chamber=853.0 target=1220.0 sp=1220.0 pow=1.00 hs=50.9 picpu=49.9 mcuexp=49.0 mcumenu=39.9 peak=0.0 coil=1.0
+1781503028 klippy=ready idle=Ready state=firing step=0/0 chamber=853.1 target=1220.0 sp=1220.0 pow=1.00 hs=50.9 picpu=49.9 mcuexp=49.0 mcumenu=39.5 peak=0.0 coil=1.0
+1781503030 klippy=ready idle=Ready state=firing step=0/0 chamber=853.4 target=1220.0 sp=1220.0 pow=1.00 hs=50.9 picpu=49.4 mcuexp=48.9 mcumenu=39.6 peak=0.0 coil=1.0
+1781503032 klippy=ready idle=Ready state=firing step=0/0 chamber=853.5 target=1220.0 sp=1220.0 pow=1.00 hs=50.8 picpu=49.9 mcuexp=48.9 mcumenu=39.7 peak=0.0 coil=1.0
+1781503035 klippy=ready idle=Ready state=firing step=0/0 chamber=853.8 target=1220.0 sp=1220.0 pow=1.00 hs=50.7 picpu=49.4 mcuexp=48.9 mcumenu=39.5 peak=0.0 coil=1.0
+1781503037 klippy=ready idle=Ready state=firing step=0/0 chamber=853.9 target=1220.0 sp=1220.0 pow=1.00 hs=50.6 picpu=49.4 mcuexp=48.9 mcumenu=39.3 peak=0.0 coil=1.0
+1781503039 klippy=ready idle=Ready state=firing step=0/0 chamber=854.1 target=1220.0 sp=1220.0 pow=1.00 hs=50.7 picpu=49.9 mcuexp=48.9 mcumenu=39.7 peak=0.0 coil=1.0
+1781503041 klippy=ready idle=Ready state=firing step=0/0 chamber=854.3 target=1220.0 sp=1220.0 pow=1.00 hs=50.6 picpu=49.4 mcuexp=48.7 mcumenu=39.8 peak=0.0 coil=1.0
+1781503044 klippy=ready idle=Ready state=firing step=0/0 chamber=854.5 target=1220.0 sp=1220.0 pow=1.00 hs=50.6 picpu=49.9 mcuexp=48.8 mcumenu=39.3 peak=0.0 coil=1.0
+1781503046 klippy=ready idle=Ready state=firing step=0/0 chamber=854.7 target=1220.0 sp=1220.0 pow=1.00 hs=50.5 picpu=49.4 mcuexp=48.9 mcumenu=39.4 peak=0.0 coil=1.0
+1781503048 klippy=ready idle=Ready state=firing step=0/0 chamber=854.9 target=1220.0 sp=1220.0 pow=1.00 hs=50.3 picpu=49.4 mcuexp=48.7 mcumenu=39.7 peak=0.0 coil=1.0
+1781503050 klippy=ready idle=Ready state=firing step=0/0 chamber=855.1 target=1220.0 sp=1220.0 pow=1.00 hs=50.4 picpu=49.4 mcuexp=48.6 mcumenu=39.4 peak=0.0 coil=1.0
+1781503053 klippy=ready idle=Ready state=firing step=0/0 chamber=855.3 target=1220.0 sp=1220.0 pow=1.00 hs=50.3 picpu=49.4 mcuexp=48.7 mcumenu=39.5 peak=0.0 coil=1.0
+1781503055 klippy=ready idle=Ready state=firing step=0/0 chamber=855.5 target=1220.0 sp=1220.0 pow=1.00 hs=50.3 picpu=49.4 mcuexp=48.6 mcumenu=39.5 peak=0.0 coil=1.0
+1781503057 klippy=ready idle=Ready state=firing step=0/0 chamber=855.6 target=1220.0 sp=1220.0 pow=1.00 hs=50.2 picpu=49.4 mcuexp=48.6 mcumenu=39.4 peak=0.0 coil=1.0
+1781503059 klippy=ready idle=Ready state=firing step=0/0 chamber=855.9 target=1220.0 sp=1220.0 pow=1.00 hs=50.1 picpu=49.9 mcuexp=48.5 mcumenu=39.4 peak=0.0 coil=1.0
+1781503062 klippy=ready idle=Ready state=firing step=0/0 chamber=856.1 target=1220.0 sp=1220.0 pow=1.00 hs=50.2 picpu=49.4 mcuexp=48.6 mcumenu=39.3 peak=0.0 coil=1.0
+1781503064 klippy=ready idle=Ready state=firing step=0/0 chamber=856.3 target=1220.0 sp=1220.0 pow=1.00 hs=50.1 picpu=48.9 mcuexp=48.5 mcumenu=39.5 peak=0.0 coil=1.0
+1781503066 klippy=ready idle=Ready state=firing step=0/0 chamber=856.4 target=1220.0 sp=1220.0 pow=1.00 hs=50.0 picpu=49.4 mcuexp=48.5 mcumenu=39.3 peak=0.0 coil=1.0
+1781503068 klippy=ready idle=Ready state=firing step=0/0 chamber=856.7 target=1220.0 sp=1220.0 pow=1.00 hs=50.1 picpu=49.4 mcuexp=48.5 mcumenu=39.5 peak=0.0 coil=1.0
+1781503071 klippy=ready idle=Ready state=firing step=0/0 chamber=856.9 target=1220.0 sp=1220.0 pow=1.00 hs=50.0 picpu=49.4 mcuexp=48.5 mcumenu=39.6 peak=0.0 coil=1.0
+1781503073 klippy=ready idle=Ready state=firing step=0/0 chamber=857.1 target=1220.0 sp=1220.0 pow=1.00 hs=50.0 picpu=49.4 mcuexp=48.5 mcumenu=39.5 peak=0.0 coil=1.0
+1781503075 klippy=ready idle=Ready state=firing step=0/0 chamber=857.3 target=1220.0 sp=1220.0 pow=1.00 hs=50.0 picpu=49.4 mcuexp=48.5 mcumenu=39.4 peak=0.0 coil=1.0
+1781503077 klippy=ready idle=Ready state=firing step=0/0 chamber=857.5 target=1220.0 sp=1220.0 pow=1.00 hs=50.0 picpu=49.4 mcuexp=48.2 mcumenu=39.5 peak=0.0 coil=1.0
+1781503080 klippy=ready idle=Ready state=firing step=0/0 chamber=857.8 target=1220.0 sp=1220.0 pow=1.00 hs=50.0 picpu=49.4 mcuexp=48.4 mcumenu=39.6 peak=0.0 coil=1.0
+1781503082 klippy=ready idle=Ready state=firing step=0/0 chamber=858.0 target=1220.0 sp=1220.0 pow=1.00 hs=49.9 picpu=49.4 mcuexp=48.4 mcumenu=39.5 peak=0.0 coil=1.0
+1781503084 klippy=ready idle=Ready state=firing step=0/0 chamber=858.1 target=1220.0 sp=1220.0 pow=1.00 hs=49.9 picpu=49.4 mcuexp=48.4 mcumenu=39.7 peak=0.0 coil=1.0
+1781503087 klippy=ready idle=Ready state=firing step=0/0 chamber=858.3 target=1220.0 sp=1220.0 pow=1.00 hs=49.8 picpu=49.4 mcuexp=48.5 mcumenu=39.6 peak=0.0 coil=1.0
+1781503089 klippy=ready idle=Ready state=firing step=0/0 chamber=858.5 target=1220.0 sp=1220.0 pow=1.00 hs=49.8 picpu=49.4 mcuexp=48.4 mcumenu=39.4 peak=0.0 coil=1.0
+1781503091 klippy=ready idle=Ready state=firing step=0/0 chamber=858.7 target=1220.0 sp=1220.0 pow=1.00 hs=49.7 picpu=48.9 mcuexp=48.4 mcumenu=39.1 peak=0.0 coil=1.0
+1781503093 klippy=ready idle=Ready state=firing step=0/0 chamber=858.9 target=1220.0 sp=1220.0 pow=1.00 hs=49.8 picpu=49.4 mcuexp=48.5 mcumenu=39.5 peak=0.0 coil=1.0
+1781503096 klippy=ready idle=Ready state=firing step=0/0 chamber=859.1 target=1220.0 sp=1220.0 pow=1.00 hs=49.7 picpu=49.4 mcuexp=48.3 mcumenu=39.4 peak=0.0 coil=1.0
+1781503098 klippy=ready idle=Ready state=firing step=0/0 chamber=859.2 target=1220.0 sp=1220.0 pow=1.00 hs=49.6 picpu=49.4 mcuexp=48.4 mcumenu=39.6 peak=0.0 coil=1.0
+1781503100 klippy=ready idle=Ready state=firing step=0/0 chamber=859.4 target=1220.0 sp=1220.0 pow=1.00 hs=49.7 picpu=49.9 mcuexp=48.3 mcumenu=39.4 peak=0.0 coil=1.0
+1781503102 klippy=ready idle=Ready state=firing step=0/0 chamber=859.5 target=1220.0 sp=1220.0 pow=1.00 hs=49.6 picpu=48.9 mcuexp=48.3 mcumenu=39.5 peak=0.0 coil=1.0
+1781503105 klippy=ready idle=Ready state=firing step=0/0 chamber=859.7 target=1220.0 sp=1220.0 pow=1.00 hs=49.6 picpu=49.4 mcuexp=48.2 mcumenu=39.3 peak=0.0 coil=1.0
+1781503107 klippy=ready idle=Ready state=firing step=0/0 chamber=859.9 target=1220.0 sp=1220.0 pow=1.00 hs=49.5 picpu=49.4 mcuexp=48.2 mcumenu=39.5 peak=0.0 coil=1.0
+1781503109 klippy=ready idle=Ready state=firing step=0/0 chamber=860.1 target=1220.0 sp=1220.0 pow=1.00 hs=49.6 picpu=49.4 mcuexp=48.3 mcumenu=39.7 peak=0.0 coil=1.0
+1781503111 klippy=ready idle=Ready state=firing step=0/0 chamber=860.3 target=1220.0 sp=1220.0 pow=1.00 hs=49.6 picpu=49.4 mcuexp=48.2 mcumenu=39.3 peak=0.0 coil=1.0
+1781503114 klippy=ready idle=Ready state=firing step=0/0 chamber=860.5 target=1220.0 sp=1220.0 pow=1.00 hs=49.6 picpu=49.4 mcuexp=48.3 mcumenu=39.3 peak=0.0 coil=1.0
+1781503116 klippy=ready idle=Ready state=firing step=0/0 chamber=860.7 target=1220.0 sp=1220.0 pow=1.00 hs=49.5 picpu=49.4 mcuexp=48.1 mcumenu=39.2 peak=0.0 coil=1.0
+1781503118 klippy=ready idle=Ready state=firing step=0/0 chamber=860.9 target=1220.0 sp=1220.0 pow=1.00 hs=49.6 picpu=48.9 mcuexp=48.1 mcumenu=39.0 peak=0.0 coil=1.0
+1781503120 klippy=ready idle=Ready state=firing step=0/0 chamber=861.1 target=1220.0 sp=1220.0 pow=1.00 hs=49.5 picpu=49.4 mcuexp=48.1 mcumenu=39.8 peak=0.0 coil=1.0
+1781503123 klippy=ready idle=Ready state=firing step=0/0 chamber=861.2 target=1220.0 sp=1220.0 pow=1.00 hs=49.5 picpu=49.4 mcuexp=48.1 mcumenu=39.1 peak=0.0 coil=1.0
+1781503125 klippy=ready idle=Ready state=firing step=0/0 chamber=861.4 target=1220.0 sp=1220.0 pow=1.00 hs=49.5 picpu=49.4 mcuexp=48.1 mcumenu=39.1 peak=0.0 coil=1.0
+1781503127 klippy=ready idle=Ready state=firing step=0/0 chamber=861.6 target=1220.0 sp=1220.0 pow=1.00 hs=49.4 picpu=48.9 mcuexp=48.2 mcumenu=39.2 peak=0.0 coil=1.0
+1781503129 klippy=ready idle=Ready state=firing step=0/0 chamber=861.7 target=1220.0 sp=1220.0 pow=1.00 hs=49.4 picpu=49.4 mcuexp=48.0 mcumenu=39.6 peak=0.0 coil=1.0
+1781503132 klippy=ready idle=Ready state=firing step=0/0 chamber=861.9 target=1220.0 sp=1220.0 pow=1.00 hs=49.4 picpu=49.4 mcuexp=48.1 mcumenu=39.2 peak=0.0 coil=1.0
+1781503134 klippy=ready idle=Ready state=firing step=0/0 chamber=862.0 target=1220.0 sp=1220.0 pow=1.00 hs=49.3 picpu=48.3 mcuexp=48.0 mcumenu=39.0 peak=0.0 coil=1.0
+1781503136 klippy=ready idle=Ready state=firing step=0/0 chamber=862.2 target=1220.0 sp=1220.0 pow=1.00 hs=49.2 picpu=49.4 mcuexp=48.2 mcumenu=39.5 peak=0.0 coil=1.0
+1781503138 klippy=ready idle=Ready state=firing step=0/0 chamber=862.4 target=1220.0 sp=1220.0 pow=1.00 hs=49.2 picpu=48.9 mcuexp=47.9 mcumenu=39.5 peak=0.0 coil=1.0
+1781503141 klippy=ready idle=Ready state=firing step=0/0 chamber=862.6 target=1220.0 sp=1220.0 pow=1.00 hs=49.2 picpu=49.4 mcuexp=48.0 mcumenu=39.2 peak=0.0 coil=1.0
+1781503143 klippy=ready idle=Ready state=firing step=0/0 chamber=862.9 target=1220.0 sp=1220.0 pow=1.00 hs=49.3 picpu=49.4 mcuexp=48.0 mcumenu=39.6 peak=0.0 coil=1.0
+1781503145 klippy=ready idle=Ready state=firing step=0/0 chamber=863.0 target=1220.0 sp=1220.0 pow=1.00 hs=49.2 picpu=49.4 mcuexp=47.9 mcumenu=39.4 peak=0.0 coil=1.0
+1781503147 klippy=ready idle=Ready state=firing step=0/0 chamber=863.1 target=1220.0 sp=1220.0 pow=1.00 hs=49.1 picpu=48.9 mcuexp=47.9 mcumenu=39.3 peak=0.0 coil=1.0
+1781503150 klippy=ready idle=Ready state=firing step=0/0 chamber=863.3 target=1220.0 sp=1220.0 pow=1.00 hs=49.2 picpu=49.4 mcuexp=47.9 mcumenu=39.3 peak=0.0 coil=1.0
+1781503152 klippy=ready idle=Ready state=firing step=0/0 chamber=863.5 target=1220.0 sp=1220.0 pow=1.00 hs=49.1 picpu=49.4 mcuexp=47.9 mcumenu=39.2 peak=0.0 coil=1.0
+1781503154 klippy=ready idle=Ready state=firing step=0/0 chamber=863.7 target=1220.0 sp=1220.0 pow=1.00 hs=49.0 picpu=48.9 mcuexp=47.9 mcumenu=39.5 peak=0.0 coil=1.0
+1781503156 klippy=ready idle=Ready state=firing step=0/0 chamber=863.9 target=1220.0 sp=1220.0 pow=1.00 hs=49.1 picpu=49.4 mcuexp=48.0 mcumenu=39.7 peak=0.0 coil=1.0
+1781503159 klippy=ready idle=Ready state=firing step=0/0 chamber=864.0 target=1220.0 sp=1220.0 pow=1.00 hs=49.0 picpu=49.4 mcuexp=47.9 mcumenu=39.2 peak=0.0 coil=1.0
+1781503161 klippy=ready idle=Ready state=firing step=0/0 chamber=864.2 target=1220.0 sp=1220.0 pow=1.00 hs=48.9 picpu=49.4 mcuexp=47.8 mcumenu=39.2 peak=0.0 coil=1.0
+1781503163 klippy=ready idle=Ready state=firing step=0/0 chamber=864.3 target=1220.0 sp=1220.0 pow=1.00 hs=49.0 picpu=49.4 mcuexp=47.8 mcumenu=39.0 peak=0.0 coil=1.0
+1781503165 klippy=ready idle=Ready state=firing step=0/0 chamber=864.5 target=1220.0 sp=1220.0 pow=1.00 hs=48.9 picpu=48.9 mcuexp=47.8 mcumenu=39.4 peak=0.0 coil=1.0
+1781503168 klippy=ready idle=Ready state=firing step=0/0 chamber=864.7 target=1220.0 sp=1220.0 pow=1.00 hs=49.0 picpu=48.3 mcuexp=47.7 mcumenu=39.2 peak=0.0 coil=1.0
+1781503170 klippy=ready idle=Ready state=firing step=0/0 chamber=864.8 target=1220.0 sp=1220.0 pow=1.00 hs=49.0 picpu=49.4 mcuexp=47.7 mcumenu=39.5 peak=0.0 coil=1.0
+1781503172 klippy=ready idle=Ready state=firing step=0/0 chamber=865.0 target=1220.0 sp=1220.0 pow=1.00 hs=48.9 picpu=48.9 mcuexp=47.8 mcumenu=39.5 peak=0.0 coil=1.0
+1781503174 klippy=ready idle=Ready state=firing step=0/0 chamber=865.1 target=1220.0 sp=1220.0 pow=1.00 hs=48.8 picpu=48.9 mcuexp=47.8 mcumenu=39.2 peak=0.0 coil=1.0
+1781503177 klippy=ready idle=Ready state=firing step=0/0 chamber=865.4 target=1220.0 sp=1220.0 pow=1.00 hs=48.9 picpu=48.3 mcuexp=47.8 mcumenu=39.4 peak=0.0 coil=1.0
+1781503179 klippy=ready idle=Ready state=firing step=0/0 chamber=865.6 target=1220.0 sp=1220.0 pow=1.00 hs=48.9 picpu=48.3 mcuexp=47.7 mcumenu=39.4 peak=0.0 coil=1.0
+1781503181 klippy=ready idle=Ready state=firing step=0/0 chamber=865.8 target=1220.0 sp=1220.0 pow=1.00 hs=48.9 picpu=48.9 mcuexp=47.5 mcumenu=38.9 peak=0.0 coil=1.0
+1781503184 klippy=ready idle=Ready state=firing step=0/0 chamber=866.0 target=1220.0 sp=1220.0 pow=1.00 hs=48.8 picpu=49.4 mcuexp=47.4 mcumenu=39.4 peak=0.0 coil=1.0
+1781503186 klippy=ready idle=Ready state=firing step=0/0 chamber=866.1 target=1220.0 sp=1220.0 pow=1.00 hs=48.8 picpu=49.4 mcuexp=47.6 mcumenu=39.2 peak=0.0 coil=1.0
+1781503188 klippy=ready idle=Ready state=firing step=0/0 chamber=866.3 target=1220.0 sp=1220.0 pow=1.00 hs=48.8 picpu=48.9 mcuexp=47.7 mcumenu=39.3 peak=0.0 coil=1.0
+1781503190 klippy=ready idle=Ready state=firing step=0/0 chamber=866.5 target=1220.0 sp=1220.0 pow=1.00 hs=48.8 picpu=48.3 mcuexp=47.5 mcumenu=39.2 peak=0.0 coil=1.0
+1781503193 klippy=ready idle=Ready state=firing step=0/0 chamber=866.6 target=1220.0 sp=1220.0 pow=1.00 hs=48.7 picpu=48.3 mcuexp=47.6 mcumenu=39.5 peak=0.0 coil=1.0
+1781503195 klippy=ready idle=Ready state=firing step=0/0 chamber=866.8 target=1220.0 sp=1220.0 pow=1.00 hs=48.7 picpu=48.3 mcuexp=47.5 mcumenu=38.8 peak=0.0 coil=1.0
+1781503197 klippy=ready idle=Ready state=firing step=0/0 chamber=867.0 target=1220.0 sp=1220.0 pow=1.00 hs=48.7 picpu=48.3 mcuexp=47.4 mcumenu=39.2 peak=0.0 coil=1.0
+1781503199 klippy=ready idle=Ready state=firing step=0/0 chamber=867.2 target=1220.0 sp=1220.0 pow=1.00 hs=48.7 picpu=48.3 mcuexp=47.5 mcumenu=39.0 peak=0.0 coil=1.0
+1781503202 klippy=ready idle=Ready state=firing step=0/0 chamber=867.3 target=1220.0 sp=1220.0 pow=1.00 hs=48.6 picpu=48.9 mcuexp=47.5 mcumenu=39.1 peak=0.0 coil=1.0
+1781503204 klippy=ready idle=Ready state=firing step=0/0 chamber=867.5 target=1220.0 sp=1220.0 pow=1.00 hs=48.7 picpu=48.3 mcuexp=47.6 mcumenu=39.1 peak=0.0 coil=1.0
+1781503206 klippy=ready idle=Ready state=firing step=0/0 chamber=867.7 target=1220.0 sp=1220.0 pow=1.00 hs=48.7 picpu=48.9 mcuexp=47.5 mcumenu=39.2 peak=0.0 coil=1.0
+1781503208 klippy=ready idle=Ready state=firing step=0/0 chamber=867.8 target=1220.0 sp=1220.0 pow=1.00 hs=48.6 picpu=48.3 mcuexp=47.4 mcumenu=39.0 peak=0.0 coil=1.0
+1781503211 klippy=ready idle=Ready state=firing step=0/0 chamber=868.0 target=1220.0 sp=1220.0 pow=1.00 hs=48.6 picpu=48.9 mcuexp=47.4 mcumenu=39.1 peak=0.0 coil=1.0
+1781503213 klippy=ready idle=Ready state=firing step=0/0 chamber=868.2 target=1220.0 sp=1220.0 pow=1.00 hs=48.6 picpu=48.3 mcuexp=47.4 mcumenu=38.8 peak=0.0 coil=1.0
+1781503215 klippy=ready idle=Ready state=firing step=0/0 chamber=868.4 target=1220.0 sp=1220.0 pow=1.00 hs=48.6 picpu=48.9 mcuexp=47.5 mcumenu=38.9 peak=0.0 coil=1.0
+1781503217 klippy=ready idle=Ready state=firing step=0/0 chamber=868.6 target=1220.0 sp=1220.0 pow=1.00 hs=48.5 picpu=48.3 mcuexp=47.3 mcumenu=39.1 peak=0.0 coil=1.0
+1781503220 klippy=ready idle=Ready state=firing step=0/0 chamber=868.8 target=1220.0 sp=1220.0 pow=1.00 hs=48.5 picpu=48.3 mcuexp=47.3 mcumenu=38.9 peak=0.0 coil=1.0
+1781503222 klippy=ready idle=Ready state=firing step=0/0 chamber=868.9 target=1220.0 sp=1220.0 pow=1.00 hs=48.5 picpu=48.3 mcuexp=47.3 mcumenu=39.2 peak=0.0 coil=1.0
+1781503224 klippy=ready idle=Ready state=firing step=0/0 chamber=869.1 target=1220.0 sp=1220.0 pow=1.00 hs=48.4 picpu=48.3 mcuexp=47.2 mcumenu=39.2 peak=0.0 coil=1.0
+1781503226 klippy=ready idle=Ready state=firing step=0/0 chamber=869.2 target=1220.0 sp=1220.0 pow=1.00 hs=48.4 picpu=48.9 mcuexp=47.4 mcumenu=38.7 peak=0.0 coil=1.0
+1781503229 klippy=ready idle=Ready state=firing step=0/0 chamber=869.4 target=1220.0 sp=1220.0 pow=1.00 hs=48.5 picpu=48.9 mcuexp=47.3 mcumenu=39.1 peak=0.0 coil=1.0
+1781503231 klippy=ready idle=Ready state=firing step=0/0 chamber=869.5 target=1220.0 sp=1220.0 pow=1.00 hs=48.4 picpu=48.9 mcuexp=47.3 mcumenu=39.0 peak=0.0 coil=1.0
+1781503233 klippy=ready idle=Ready state=firing step=0/0 chamber=869.6 target=1220.0 sp=1220.0 pow=1.00 hs=48.4 picpu=48.3 mcuexp=47.4 mcumenu=39.3 peak=0.0 coil=1.0
+1781503235 klippy=ready idle=Ready state=firing step=0/0 chamber=869.8 target=1220.0 sp=1220.0 pow=1.00 hs=48.4 picpu=48.3 mcuexp=47.3 mcumenu=38.9 peak=0.0 coil=1.0
+1781503238 klippy=ready idle=Ready state=firing step=0/0 chamber=870.0 target=1220.0 sp=1220.0 pow=1.00 hs=48.5 picpu=48.9 mcuexp=47.2 mcumenu=39.0 peak=0.0 coil=1.0
+1781503240 klippy=ready idle=Ready state=firing step=0/0 chamber=870.2 target=1220.0 sp=1220.0 pow=1.00 hs=48.3 picpu=48.3 mcuexp=47.2 mcumenu=38.7 peak=0.0 coil=1.0
+1781503242 klippy=ready idle=Ready state=firing step=0/0 chamber=870.4 target=1220.0 sp=1220.0 pow=1.00 hs=48.4 picpu=48.9 mcuexp=47.2 mcumenu=39.1 peak=0.0 coil=1.0
+1781503244 klippy=ready idle=Ready state=firing step=0/0 chamber=870.6 target=1220.0 sp=1220.0 pow=1.00 hs=48.3 picpu=48.3 mcuexp=47.1 mcumenu=38.9 peak=0.0 coil=1.0
+1781503247 klippy=ready idle=Ready state=firing step=0/0 chamber=870.8 target=1220.0 sp=1220.0 pow=1.00 hs=48.2 picpu=48.3 mcuexp=47.2 mcumenu=38.6 peak=0.0 coil=1.0
+1781503249 klippy=ready idle=Ready state=firing step=0/0 chamber=870.9 target=1220.0 sp=1220.0 pow=1.00 hs=48.3 picpu=48.3 mcuexp=47.3 mcumenu=39.0 peak=0.0 coil=1.0
+1781503251 klippy=ready idle=Ready state=firing step=0/0 chamber=871.1 target=1220.0 sp=1220.0 pow=1.00 hs=48.3 picpu=48.3 mcuexp=47.3 mcumenu=39.1 peak=0.0 coil=1.0
+1781503253 klippy=ready idle=Ready state=firing step=0/0 chamber=871.3 target=1220.0 sp=1220.0 pow=1.00 hs=48.3 picpu=48.3 mcuexp=47.2 mcumenu=39.2 peak=0.0 coil=1.0
+1781503256 klippy=ready idle=Ready state=firing step=0/0 chamber=871.5 target=1220.0 sp=1220.0 pow=1.00 hs=48.2 picpu=48.3 mcuexp=47.2 mcumenu=39.1 peak=0.0 coil=1.0
+1781503258 klippy=ready idle=Ready state=firing step=0/0 chamber=871.7 target=1220.0 sp=1220.0 pow=1.00 hs=48.2 picpu=48.3 mcuexp=47.2 mcumenu=39.1 peak=0.0 coil=1.0
+1781503260 klippy=ready idle=Ready state=firing step=0/0 chamber=871.9 target=1220.0 sp=1220.0 pow=1.00 hs=48.2 picpu=48.3 mcuexp=47.0 mcumenu=38.7 peak=0.0 coil=1.0
+1781503262 klippy=ready idle=Ready state=firing step=0/0 chamber=872.1 target=1220.0 sp=1220.0 pow=1.00 hs=48.2 picpu=47.8 mcuexp=47.1 mcumenu=38.8 peak=0.0 coil=1.0
+1781503265 klippy=ready idle=Ready state=firing step=0/0 chamber=872.3 target=1220.0 sp=1220.0 pow=1.00 hs=48.2 picpu=48.3 mcuexp=47.0 mcumenu=38.6 peak=0.0 coil=1.0
+1781503267 klippy=ready idle=Ready state=firing step=0/0 chamber=869.1 target=1220.0 sp=1220.0 pow=1.00 hs=48.2 picpu=48.3 mcuexp=47.1 mcumenu=39.3 peak=0.0 coil=1.0
+1781503269 klippy=ready idle=Ready state=firing step=0/0 chamber=865.5 target=1220.0 sp=1220.0 pow=1.00 hs=48.1 picpu=48.3 mcuexp=47.1 mcumenu=39.0 peak=0.0 coil=1.0
+1781503272 klippy=ready idle=Ready state=firing step=0/0 chamber=865.8 target=1220.0 sp=1220.0 pow=1.00 hs=48.2 picpu=48.3 mcuexp=47.1 mcumenu=38.8 peak=0.0 coil=1.0
+1781503274 klippy=ready idle=Ready state=firing step=0/0 chamber=866.6 target=1220.0 sp=1220.0 pow=1.00 hs=48.1 picpu=48.3 mcuexp=47.1 mcumenu=38.9 peak=0.0 coil=1.0
+1781503276 klippy=ready idle=Ready state=firing step=0/0 chamber=867.4 target=1220.0 sp=1220.0 pow=1.00 hs=48.1 picpu=48.3 mcuexp=47.0 mcumenu=38.9 peak=0.0 coil=1.0
+1781503278 klippy=ready idle=Ready state=firing step=0/0 chamber=868.0 target=1220.0 sp=1220.0 pow=1.00 hs=48.1 picpu=48.3 mcuexp=47.1 mcumenu=38.7 peak=0.0 coil=1.0
+1781503281 klippy=ready idle=Ready state=firing step=0/0 chamber=868.3 target=1220.0 sp=1220.0 pow=1.00 hs=48.0 picpu=48.3 mcuexp=47.0 mcumenu=38.8 peak=0.0 coil=1.0
+1781503283 klippy=ready idle=Ready state=firing step=0/0 chamber=868.6 target=1220.0 sp=1220.0 pow=1.00 hs=48.0 picpu=48.3 mcuexp=47.1 mcumenu=38.8 peak=0.0 coil=1.0
+1781503285 klippy=ready idle=Ready state=firing step=0/0 chamber=868.9 target=1220.0 sp=1220.0 pow=1.00 hs=48.0 picpu=48.3 mcuexp=47.0 mcumenu=39.0 peak=0.0 coil=1.0
+1781503287 klippy=ready idle=Printing state=firing step=0/0 chamber=869.1 target=0.0 sp=0.0 pow=0.00 hs=48.0 picpu=48.3 mcuexp=46.9 mcumenu=39.0 peak=0.0 coil=0.0
+1781503290 klippy=ready idle=Ready state=idle step=0/0 chamber=869.1 target=0.0 sp=0.0 pow=0.00 hs=48.0 picpu=47.8 mcuexp=46.9 mcumenu=38.9 peak=0.0 coil=0.0
+1781503352 klippy=ready idle=Ready state=idle step=0/0 chamber=680.9 target=0.0 sp=0.0 pow=0.00 hs=44.6 picpu=49.9 mcuexp=46.5 mcumenu=38.7 peak=0.0 coil=0.0
+1781503354 klippy=ready idle=Ready state=idle step=0/0 chamber=676.4 target=0.0 sp=0.0 pow=0.00 hs=44.5 picpu=49.4 mcuexp=46.5 mcumenu=39.3 peak=0.0 coil=0.0
+1781503357 klippy=ready idle=Ready state=idle step=0/0 chamber=669.9 target=0.0 sp=0.0 pow=0.00 hs=44.3 picpu=48.3 mcuexp=46.5 mcumenu=38.6 peak=0.0 coil=0.0
+1781503359 klippy=ready idle=Ready state=idle step=0/0 chamber=665.4 target=0.0 sp=0.0 pow=0.00 hs=44.1 picpu=48.9 mcuexp=46.5 mcumenu=38.6 peak=0.0 coil=0.0
+1781503361 klippy=ready idle=Ready state=idle step=0/0 chamber=660.8 target=0.0 sp=0.0 pow=0.00 hs=44.1 picpu=48.3 mcuexp=46.5 mcumenu=38.8 peak=0.0 coil=0.0
+1781503364 klippy=ready idle=Ready state=idle step=0/0 chamber=656.5 target=0.0 sp=0.0 pow=0.00 hs=43.9 picpu=48.3 mcuexp=46.4 mcumenu=38.7 peak=0.0 coil=0.0
+1781503366 klippy=ready idle=Ready state=idle step=0/0 chamber=651.6 target=0.0 sp=0.0 pow=0.00 hs=43.7 picpu=48.3 mcuexp=46.6 mcumenu=38.7 peak=0.0 coil=0.0
+1781503368 klippy=ready idle=Ready state=idle step=0/0 chamber=647.3 target=0.0 sp=0.0 pow=0.00 hs=43.8 picpu=48.3 mcuexp=46.5 mcumenu=39.1 peak=0.0 coil=0.0
+1781503370 klippy=ready idle=Ready state=idle step=0/0 chamber=642.1 target=0.0 sp=0.0 pow=0.00 hs=43.6 picpu=48.3 mcuexp=46.5 mcumenu=38.6 peak=0.0 coil=0.0
+1781503373 klippy=ready idle=Ready state=idle step=0/0 chamber=638.9 target=0.0 sp=0.0 pow=0.00 hs=43.5 picpu=48.3 mcuexp=46.5 mcumenu=38.8 peak=0.0 coil=0.0
+1781503375 klippy=ready idle=Ready state=idle step=0/0 chamber=634.5 target=0.0 sp=0.0 pow=0.00 hs=43.4 picpu=48.3 mcuexp=46.5 mcumenu=39.0 peak=0.0 coil=0.0
+1781503377 klippy=ready idle=Ready state=idle step=0/0 chamber=630.9 target=0.0 sp=0.0 pow=0.00 hs=43.3 picpu=47.8 mcuexp=46.4 mcumenu=39.0 peak=0.0 coil=0.0
+1781503379 klippy=ready idle=Ready state=idle step=0/0 chamber=627.0 target=0.0 sp=0.0 pow=0.00 hs=43.3 picpu=48.3 mcuexp=46.4 mcumenu=38.5 peak=0.0 coil=0.0
+1781503382 klippy=ready idle=Ready state=idle step=0/0 chamber=623.0 target=0.0 sp=0.0 pow=0.00 hs=43.1 picpu=48.3 mcuexp=46.4 mcumenu=38.1 peak=0.0 coil=0.0
+1781503384 klippy=ready idle=Ready state=idle step=0/0 chamber=618.4 target=0.0 sp=0.0 pow=0.00 hs=43.0 picpu=48.3 mcuexp=46.5 mcumenu=38.5 peak=0.0 coil=0.0
+1781503386 klippy=ready idle=Ready state=idle step=0/0 chamber=614.8 target=0.0 sp=0.0 pow=0.00 hs=42.8 picpu=48.3 mcuexp=46.5 mcumenu=38.4 peak=0.0 coil=0.0
+1781503388 klippy=ready idle=Ready state=idle step=0/0 chamber=611.4 target=0.0 sp=0.0 pow=0.00 hs=42.8 picpu=47.8 mcuexp=46.4 mcumenu=38.7 peak=0.0 coil=0.0
+1781503391 klippy=ready idle=Ready state=idle step=0/0 chamber=608.0 target=0.0 sp=0.0 pow=0.00 hs=42.6 picpu=48.3 mcuexp=46.4 mcumenu=38.7 peak=0.0 coil=0.0
+1781503393 klippy=ready idle=Ready state=idle step=0/0 chamber=604.4 target=0.0 sp=0.0 pow=0.00 hs=42.5 picpu=48.3 mcuexp=46.2 mcumenu=38.5 peak=0.0 coil=0.0
+1781503395 klippy=ready idle=Ready state=idle step=0/0 chamber=601.6 target=0.0 sp=0.0 pow=0.00 hs=42.4 picpu=48.3 mcuexp=46.3 mcumenu=38.5 peak=0.0 coil=0.0
+1781503397 klippy=ready idle=Ready state=idle step=0/0 chamber=598.2 target=0.0 sp=0.0 pow=0.00 hs=42.2 picpu=48.3 mcuexp=46.2 mcumenu=38.8 peak=0.0 coil=0.0
+1781503400 klippy=ready idle=Ready state=idle step=0/0 chamber=595.3 target=0.0 sp=0.0 pow=0.00 hs=42.1 picpu=48.3 mcuexp=46.4 mcumenu=38.4 peak=0.0 coil=0.0
+1781503402 klippy=ready idle=Ready state=idle step=0/0 chamber=592.4 target=0.0 sp=0.0 pow=0.00 hs=42.0 picpu=48.3 mcuexp=46.3 mcumenu=38.1 peak=0.0 coil=0.0
+1781503404 klippy=ready idle=Ready state=idle step=0/0 chamber=588.2 target=0.0 sp=0.0 pow=0.00 hs=41.8 picpu=48.3 mcuexp=46.3 mcumenu=38.6 peak=0.0 coil=0.0
+1781503406 klippy=ready idle=Ready state=idle step=0/0 chamber=585.0 target=0.0 sp=0.0 pow=0.00 hs=41.9 picpu=47.2 mcuexp=46.4 mcumenu=38.6 peak=0.0 coil=0.0
+1781503409 klippy=ready idle=Ready state=idle step=0/0 chamber=581.0 target=0.0 sp=0.0 pow=0.00 hs=41.8 picpu=47.8 mcuexp=46.2 mcumenu=38.7 peak=0.0 coil=0.0
+1781503411 klippy=ready idle=Ready state=idle step=0/0 chamber=578.1 target=0.0 sp=0.0 pow=0.00 hs=41.6 picpu=47.8 mcuexp=46.4 mcumenu=38.3 peak=0.0 coil=0.0
+1781503413 klippy=ready idle=Ready state=idle step=0/0 chamber=575.5 target=0.0 sp=0.0 pow=0.00 hs=41.5 picpu=47.8 mcuexp=46.2 mcumenu=39.0 peak=0.0 coil=0.0
+1781503415 klippy=ready idle=Ready state=idle step=0/0 chamber=573.0 target=0.0 sp=0.0 pow=0.00 hs=41.4 picpu=47.8 mcuexp=46.2 mcumenu=38.3 peak=0.0 coil=0.0
+1781503418 klippy=ready idle=Ready state=idle step=0/0 chamber=570.1 target=0.0 sp=0.0 pow=0.00 hs=41.4 picpu=47.8 mcuexp=46.2 mcumenu=38.5 peak=0.0 coil=0.0
+1781503420 klippy=ready idle=Ready state=idle step=0/0 chamber=567.5 target=0.0 sp=0.0 pow=0.00 hs=41.2 picpu=47.8 mcuexp=46.2 mcumenu=38.3 peak=0.0 coil=0.0
+1781503422 klippy=ready idle=Ready state=idle step=0/0 chamber=564.8 target=0.0 sp=0.0 pow=0.00 hs=41.1 picpu=47.8 mcuexp=46.2 mcumenu=38.2 peak=0.0 coil=0.0
+1781503424 klippy=ready idle=Ready state=idle step=0/0 chamber=562.2 target=0.0 sp=0.0 pow=0.00 hs=41.0 picpu=47.8 mcuexp=46.1 mcumenu=38.3 peak=0.0 coil=0.0
+1781503427 klippy=ready idle=Ready state=idle step=0/0 chamber=559.4 target=0.0 sp=0.0 pow=0.00 hs=40.9 picpu=47.8 mcuexp=46.2 mcumenu=38.5 peak=0.0 coil=0.0
+1781503429 klippy=ready idle=Ready state=idle step=0/0 chamber=557.1 target=0.0 sp=0.0 pow=0.00 hs=40.8 picpu=47.8 mcuexp=46.3 mcumenu=38.6 peak=0.0 coil=0.0
+1781503431 klippy=ready idle=Ready state=idle step=0/0 chamber=554.1 target=0.0 sp=0.0 pow=0.00 hs=40.7 picpu=47.8 mcuexp=46.3 mcumenu=38.1 peak=0.0 coil=0.0
+1781503433 klippy=ready idle=Ready state=idle step=0/0 chamber=551.2 target=0.0 sp=0.0 pow=0.00 hs=40.7 picpu=47.8 mcuexp=46.1 mcumenu=38.5 peak=0.0 coil=0.0
+1781503436 klippy=ready idle=Ready state=idle step=0/0 chamber=548.2 target=0.0 sp=0.0 pow=0.00 hs=40.7 picpu=47.8 mcuexp=46.1 mcumenu=38.3 peak=0.0 coil=0.0
+1781503438 klippy=ready idle=Ready state=idle step=0/0 chamber=545.4 target=0.0 sp=0.0 pow=0.00 hs=40.6 picpu=47.8 mcuexp=46.1 mcumenu=38.4 peak=0.0 coil=0.0
+1781503440 klippy=ready idle=Ready state=idle step=0/0 chamber=542.4 target=0.0 sp=0.0 pow=0.00 hs=40.5 picpu=47.8 mcuexp=46.1 mcumenu=38.7 peak=0.0 coil=0.0
+1781503442 klippy=ready idle=Ready state=idle step=0/0 chamber=539.3 target=0.0 sp=0.0 pow=0.00 hs=40.2 picpu=47.8 mcuexp=46.1 mcumenu=38.7 peak=0.0 coil=0.0
+1781503445 klippy=ready idle=Ready state=idle step=0/0 chamber=536.5 target=0.0 sp=0.0 pow=0.00 hs=40.2 picpu=47.2 mcuexp=46.1 mcumenu=38.3 peak=0.0 coil=0.0
+1781503447 klippy=ready idle=Ready state=idle step=0/0 chamber=534.6 target=0.0 sp=0.0 pow=0.00 hs=40.1 picpu=47.2 mcuexp=46.0 mcumenu=38.1 peak=0.0 coil=0.0
+1781503449 klippy=ready idle=Ready state=idle step=0/0 chamber=532.4 target=0.0 sp=0.0 pow=0.00 hs=40.1 picpu=47.2 mcuexp=46.0 mcumenu=38.5 peak=0.0 coil=0.0
+1781503452 klippy=ready idle=Ready state=idle step=0/0 chamber=530.4 target=0.0 sp=0.0 pow=0.00 hs=40.0 picpu=47.8 mcuexp=46.1 mcumenu=38.4 peak=0.0 coil=0.0
+1781503454 klippy=ready idle=Ready state=idle step=0/0 chamber=528.1 target=0.0 sp=0.0 pow=0.00 hs=39.8 picpu=47.8 mcuexp=46.1 mcumenu=38.6 peak=0.0 coil=0.0
+1781503456 klippy=ready idle=Ready state=idle step=0/0 chamber=525.9 target=0.0 sp=0.0 pow=0.00 hs=39.8 picpu=47.8 mcuexp=46.1 mcumenu=38.4 peak=0.0 coil=0.0
+1781503458 klippy=ready idle=Ready state=idle step=0/0 chamber=524.0 target=0.0 sp=0.0 pow=0.00 hs=39.8 picpu=47.8 mcuexp=46.0 mcumenu=38.4 peak=0.0 coil=0.0
+1781503461 klippy=ready idle=Ready state=idle step=0/0 chamber=522.5 target=0.0 sp=0.0 pow=0.00 hs=39.6 picpu=47.2 mcuexp=46.0 mcumenu=38.1 peak=0.0 coil=0.0
+1781503463 klippy=ready idle=Ready state=idle step=0/0 chamber=521.1 target=0.0 sp=0.0 pow=0.00 hs=39.5 picpu=47.2 mcuexp=46.0 mcumenu=38.2 peak=0.0 coil=0.0
+1781503465 klippy=ready idle=Ready state=idle step=0/0 chamber=518.8 target=0.0 sp=0.0 pow=0.00 hs=39.5 picpu=47.8 mcuexp=45.9 mcumenu=38.6 peak=0.0 coil=0.0
+1781503467 klippy=ready idle=Ready state=idle step=0/0 chamber=516.7 target=0.0 sp=0.0 pow=0.00 hs=39.4 picpu=47.2 mcuexp=46.0 mcumenu=38.4 peak=0.0 coil=0.0
+1781503470 klippy=ready idle=Ready state=idle step=0/0 chamber=514.2 target=0.0 sp=0.0 pow=0.00 hs=39.3 picpu=47.2 mcuexp=45.9 mcumenu=38.3 peak=0.0 coil=0.0
+1781503472 klippy=ready idle=Ready state=idle step=0/0 chamber=512.5 target=0.0 sp=0.0 pow=0.00 hs=39.3 picpu=47.2 mcuexp=46.0 mcumenu=38.2 peak=0.0 coil=0.0
+1781503474 klippy=ready idle=Ready state=idle step=0/0 chamber=510.6 target=0.0 sp=0.0 pow=0.00 hs=39.1 picpu=47.2 mcuexp=45.8 mcumenu=38.3 peak=0.0 coil=0.0
+1781503476 klippy=ready idle=Ready state=idle step=0/0 chamber=508.8 target=0.0 sp=0.0 pow=0.00 hs=39.0 picpu=47.2 mcuexp=45.8 mcumenu=38.1 peak=0.0 coil=0.0
+1781503479 klippy=ready idle=Ready state=idle step=0/0 chamber=506.6 target=0.0 sp=0.0 pow=0.00 hs=38.9 picpu=47.2 mcuexp=45.8 mcumenu=38.3 peak=0.0 coil=0.0
+1781503481 klippy=ready idle=Ready state=idle step=0/0 chamber=505.1 target=0.0 sp=0.0 pow=0.00 hs=38.8 picpu=47.2 mcuexp=45.7 mcumenu=38.0 peak=0.0 coil=0.0
+1781503483 klippy=ready idle=Ready state=idle step=0/0 chamber=503.5 target=0.0 sp=0.0 pow=0.00 hs=38.7 picpu=47.2 mcuexp=45.9 mcumenu=38.3 peak=0.0 coil=0.0
+1781503485 klippy=ready idle=Ready state=idle step=0/0 chamber=502.1 target=0.0 sp=0.0 pow=0.00 hs=38.7 picpu=47.2 mcuexp=45.7 mcumenu=38.4 peak=0.0 coil=0.0
+1781503488 klippy=ready idle=Ready state=idle step=0/0 chamber=500.0 target=0.0 sp=0.0 pow=0.00 hs=38.6 picpu=47.2 mcuexp=45.8 mcumenu=38.1 peak=0.0 coil=0.0
+1781503490 klippy=ready idle=Ready state=idle step=0/0 chamber=498.3 target=0.0 sp=0.0 pow=0.00 hs=38.6 picpu=47.2 mcuexp=45.8 mcumenu=38.2 peak=0.0 coil=0.0
+1781503492 klippy=ready idle=Ready state=idle step=0/0 chamber=496.5 target=0.0 sp=0.0 pow=0.00 hs=38.4 picpu=47.2 mcuexp=45.8 mcumenu=38.3 peak=0.0 coil=0.0
+1781503494 klippy=ready idle=Ready state=idle step=0/0 chamber=494.7 target=0.0 sp=0.0 pow=0.00 hs=38.2 picpu=47.2 mcuexp=45.9 mcumenu=38.3 peak=0.0 coil=0.0
+1781503497 klippy=ready idle=Ready state=idle step=0/0 chamber=492.0 target=0.0 sp=0.0 pow=0.00 hs=37.9 picpu=47.2 mcuexp=45.8 mcumenu=38.2 peak=0.0 coil=0.0
+1781503499 klippy=ready idle=Ready state=idle step=0/0 chamber=488.8 target=0.0 sp=0.0 pow=0.00 hs=38.1 picpu=47.8 mcuexp=45.7 mcumenu=38.1 peak=0.0 coil=0.0
+1781503501 klippy=ready idle=Ready state=idle step=0/0 chamber=487.4 target=0.0 sp=0.0 pow=0.00 hs=38.1 picpu=47.2 mcuexp=45.7 mcumenu=38.2 peak=0.0 coil=0.0
+1781503503 klippy=ready idle=Ready state=idle step=0/0 chamber=485.8 target=0.0 sp=0.0 pow=0.00 hs=38.2 picpu=47.2 mcuexp=45.7 mcumenu=38.3 peak=0.0 coil=0.0
+1781503506 klippy=ready idle=Ready state=idle step=0/0 chamber=483.7 target=0.0 sp=0.0 pow=0.00 hs=38.3 picpu=47.2 mcuexp=45.6 mcumenu=38.1 peak=0.0 coil=0.0
+1781503508 klippy=ready idle=Ready state=idle step=0/0 chamber=481.4 target=0.0 sp=0.0 pow=0.00 hs=38.2 picpu=47.2 mcuexp=45.7 mcumenu=38.0 peak=0.0 coil=0.0
+1781503510 klippy=ready idle=Ready state=idle step=0/0 chamber=479.4 target=0.0 sp=0.0 pow=0.00 hs=38.1 picpu=47.2 mcuexp=45.7 mcumenu=38.2 peak=0.0 coil=0.0
+1781503512 klippy=ready idle=Ready state=idle step=0/0 chamber=477.2 target=0.0 sp=0.0 pow=0.00 hs=38.2 picpu=47.8 mcuexp=45.8 mcumenu=38.2 peak=0.0 coil=0.0
+1781503515 klippy=ready idle=Ready state=idle step=0/0 chamber=475.4 target=0.0 sp=0.0 pow=0.00 hs=38.2 picpu=47.2 mcuexp=45.6 mcumenu=38.2 peak=0.0 coil=0.0
+1781503517 klippy=ready idle=Ready state=idle step=0/0 chamber=473.2 target=0.0 sp=0.0 pow=0.00 hs=38.1 picpu=47.8 mcuexp=45.7 mcumenu=38.0 peak=0.0 coil=0.0
+1781503519 klippy=ready idle=Ready state=idle step=0/0 chamber=471.5 target=0.0 sp=0.0 pow=0.00 hs=38.0 picpu=47.2 mcuexp=45.8 mcumenu=38.4 peak=0.0 coil=0.0
+1781503521 klippy=ready idle=Ready state=idle step=0/0 chamber=469.7 target=0.0 sp=0.0 pow=0.00 hs=38.1 picpu=47.2 mcuexp=45.8 mcumenu=38.2 peak=0.0 coil=0.0
+1781503524 klippy=ready idle=Ready state=idle step=0/0 chamber=468.2 target=0.0 sp=0.0 pow=0.00 hs=38.1 picpu=47.2 mcuexp=45.8 mcumenu=38.2 peak=0.0 coil=0.0
+1781503526 klippy=ready idle=Ready state=idle step=0/0 chamber=466.3 target=0.0 sp=0.0 pow=0.00 hs=38.0 picpu=47.8 mcuexp=45.6 mcumenu=38.0 peak=0.0 coil=0.0
+1781503528 klippy=ready idle=Ready state=idle step=0/0 chamber=464.5 target=0.0 sp=0.0 pow=0.00 hs=38.0 picpu=47.2 mcuexp=45.7 mcumenu=38.1 peak=0.0 coil=0.0
+1781503530 klippy=ready idle=Ready state=idle step=0/0 chamber=462.4 target=0.0 sp=0.0 pow=0.00 hs=37.9 picpu=47.2 mcuexp=45.8 mcumenu=38.5 peak=0.0 coil=0.0
+1781503533 klippy=ready idle=Ready state=idle step=0/0 chamber=460.8 target=0.0 sp=0.0 pow=0.00 hs=37.9 picpu=47.2 mcuexp=45.7 mcumenu=38.1 peak=0.0 coil=0.0
+1781503535 klippy=ready idle=Ready state=idle step=0/0 chamber=458.9 target=0.0 sp=0.0 pow=0.00 hs=38.0 picpu=47.2 mcuexp=45.7 mcumenu=38.4 peak=0.0 coil=0.0
+1781503537 klippy=ready idle=Ready state=idle step=0/0 chamber=457.3 target=0.0 sp=0.0 pow=0.00 hs=38.0 picpu=47.8 mcuexp=45.8 mcumenu=37.9 peak=0.0 coil=0.0
+1781503540 klippy=ready idle=Ready state=idle step=0/0 chamber=455.6 target=0.0 sp=0.0 pow=0.00 hs=38.0 picpu=47.2 mcuexp=45.8 mcumenu=38.1 peak=0.0 coil=0.0
+1781503542 klippy=ready idle=Ready state=idle step=0/0 chamber=454.1 target=0.0 sp=0.0 pow=0.00 hs=37.9 picpu=47.2 mcuexp=45.8 mcumenu=38.3 peak=0.0 coil=0.0
+1781503544 klippy=ready idle=Ready state=idle step=0/0 chamber=452.6 target=0.0 sp=0.0 pow=0.00 hs=37.8 picpu=47.2 mcuexp=45.7 mcumenu=37.9 peak=0.0 coil=0.0
+1781503546 klippy=ready idle=Ready state=idle step=0/0 chamber=451.2 target=0.0 sp=0.0 pow=0.00 hs=37.9 picpu=46.7 mcuexp=45.6 mcumenu=38.0 peak=0.0 coil=0.0
+1781503549 klippy=ready idle=Ready state=idle step=0/0 chamber=449.5 target=0.0 sp=0.0 pow=0.00 hs=37.8 picpu=47.2 mcuexp=45.9 mcumenu=38.1 peak=0.0 coil=0.0
+1781503551 klippy=ready idle=Ready state=idle step=0/0 chamber=448.0 target=0.0 sp=0.0 pow=0.00 hs=37.8 picpu=47.2 mcuexp=45.8 mcumenu=38.1 peak=0.0 coil=0.0
+1781503553 klippy=ready idle=Ready state=idle step=0/0 chamber=446.5 target=0.0 sp=0.0 pow=0.00 hs=37.9 picpu=47.2 mcuexp=45.8 mcumenu=38.1 peak=0.0 coil=0.0
+1781503555 klippy=ready idle=Ready state=idle step=0/0 chamber=445.1 target=0.0 sp=0.0 pow=0.00 hs=37.8 picpu=47.2 mcuexp=45.8 mcumenu=38.3 peak=0.0 coil=0.0
+1781503558 klippy=ready idle=Ready state=idle step=0/0 chamber=443.3 target=0.0 sp=0.0 pow=0.00 hs=37.7 picpu=47.2 mcuexp=45.8 mcumenu=37.9 peak=0.0 coil=0.0
+1781503560 klippy=ready idle=Ready state=idle step=0/0 chamber=442.2 target=0.0 sp=0.0 pow=0.00 hs=37.7 picpu=47.2 mcuexp=45.8 mcumenu=38.0 peak=0.0 coil=0.0
+1781503562 klippy=ready idle=Ready state=idle step=0/0 chamber=440.9 target=0.0 sp=0.0 pow=0.00 hs=37.7 picpu=47.8 mcuexp=45.8 mcumenu=38.3 peak=0.0 coil=0.0
+1781503564 klippy=ready idle=Ready state=idle step=0/0 chamber=439.1 target=0.0 sp=0.0 pow=0.00 hs=37.7 picpu=47.2 mcuexp=45.8 mcumenu=38.1 peak=0.0 coil=0.0
+1781503567 klippy=ready idle=Ready state=idle step=0/0 chamber=437.9 target=0.0 sp=0.0 pow=0.00 hs=37.6 picpu=47.2 mcuexp=45.8 mcumenu=38.0 peak=0.0 coil=0.0
+1781503569 klippy=ready idle=Ready state=idle step=0/0 chamber=436.7 target=0.0 sp=0.0 pow=0.00 hs=37.6 picpu=47.8 mcuexp=45.9 mcumenu=38.1 peak=0.0 coil=0.0
+1781503571 klippy=ready idle=Ready state=idle step=0/0 chamber=435.1 target=0.0 sp=0.0 pow=0.00 hs=37.6 picpu=47.2 mcuexp=45.8 mcumenu=38.2 peak=0.0 coil=0.0
+1781503573 klippy=ready idle=Ready state=idle step=0/0 chamber=433.4 target=0.0 sp=0.0 pow=0.00 hs=37.5 picpu=47.2 mcuexp=45.7 mcumenu=38.0 peak=0.0 coil=0.0
+1781503576 klippy=ready idle=Ready state=idle step=0/0 chamber=432.4 target=0.0 sp=0.0 pow=0.00 hs=37.5 picpu=48.3 mcuexp=45.8 mcumenu=38.0 peak=0.0 coil=0.0
+1781503578 klippy=ready idle=Ready state=idle step=0/0 chamber=431.0 target=0.0 sp=0.0 pow=0.00 hs=37.5 picpu=47.8 mcuexp=45.8 mcumenu=38.3 peak=0.0 coil=0.0
+1781503580 klippy=ready idle=Ready state=idle step=0/0 chamber=429.8 target=0.0 sp=0.0 pow=0.00 hs=37.5 picpu=47.2 mcuexp=45.9 mcumenu=38.4 peak=0.0 coil=0.0
+1781503582 klippy=ready idle=Ready state=idle step=0/0 chamber=428.5 target=0.0 sp=0.0 pow=0.00 hs=37.4 picpu=47.2 mcuexp=45.8 mcumenu=37.6 peak=0.0 coil=0.0
+1781503585 klippy=ready idle=Ready state=idle step=0/0 chamber=427.6 target=0.0 sp=0.0 pow=0.00 hs=37.4 picpu=47.8 mcuexp=45.8 mcumenu=37.9 peak=0.0 coil=0.0
+1781503587 klippy=ready idle=Ready state=idle step=0/0 chamber=426.3 target=0.0 sp=0.0 pow=0.00 hs=37.4 picpu=47.2 mcuexp=45.6 mcumenu=37.8 peak=0.0 coil=0.0
+1781503589 klippy=ready idle=Ready state=idle step=0/0 chamber=424.8 target=0.0 sp=0.0 pow=0.00 hs=37.5 picpu=47.2 mcuexp=45.8 mcumenu=37.6 peak=0.0 coil=0.0
+1781503591 klippy=ready idle=Ready state=idle step=0/0 chamber=423.3 target=0.0 sp=0.0 pow=0.00 hs=37.4 picpu=47.8 mcuexp=45.8 mcumenu=38.0 peak=0.0 coil=0.0
+1781503594 klippy=ready idle=Ready state=idle step=0/0 chamber=422.4 target=0.0 sp=0.0 pow=0.00 hs=37.5 picpu=47.2 mcuexp=45.8 mcumenu=37.7 peak=0.0 coil=0.0
+1781503596 klippy=ready idle=Ready state=idle step=0/0 chamber=421.3 target=0.0 sp=0.0 pow=0.00 hs=37.5 picpu=47.2 mcuexp=45.8 mcumenu=37.9 peak=0.0 coil=0.0
+1781503598 klippy=ready idle=Ready state=idle step=0/0 chamber=420.1 target=0.0 sp=0.0 pow=0.00 hs=37.3 picpu=47.2 mcuexp=45.8 mcumenu=37.9 peak=0.0 coil=0.0
+1781503600 klippy=ready idle=Ready state=idle step=0/0 chamber=418.9 target=0.0 sp=0.0 pow=0.00 hs=37.3 picpu=47.2 mcuexp=45.8 mcumenu=38.0 peak=0.0 coil=0.0
+1781503603 klippy=ready idle=Ready state=idle step=0/0 chamber=417.9 target=0.0 sp=0.0 pow=0.00 hs=37.4 picpu=47.2 mcuexp=45.8 mcumenu=37.8 peak=0.0 coil=0.0
+1781503605 klippy=ready idle=Ready state=idle step=0/0 chamber=416.3 target=0.0 sp=0.0 pow=0.00 hs=37.3 picpu=47.2 mcuexp=45.9 mcumenu=38.1 peak=0.0 coil=0.0
+1781503607 klippy=ready idle=Ready state=idle step=0/0 chamber=415.0 target=0.0 sp=0.0 pow=0.00 hs=37.2 picpu=47.2 mcuexp=45.9 mcumenu=37.8 peak=0.0 coil=0.0
+1781503609 klippy=ready idle=Ready state=idle step=0/0 chamber=413.5 target=0.0 sp=0.0 pow=0.00 hs=37.2 picpu=47.8 mcuexp=45.8 mcumenu=37.6 peak=0.0 coil=0.0
+1781503612 klippy=ready idle=Ready state=idle step=0/0 chamber=412.6 target=0.0 sp=0.0 pow=0.00 hs=37.3 picpu=47.2 mcuexp=45.9 mcumenu=38.0 peak=0.0 coil=0.0
+1781503614 klippy=ready idle=Ready state=idle step=0/0 chamber=411.4 target=0.0 sp=0.0 pow=0.00 hs=37.3 picpu=47.2 mcuexp=45.8 mcumenu=38.0 peak=0.0 coil=0.0
+1781503616 klippy=ready idle=Ready state=idle step=0/0 chamber=410.1 target=0.0 sp=0.0 pow=0.00 hs=37.2 picpu=47.2 mcuexp=45.8 mcumenu=37.7 peak=0.0 coil=0.0
+1781503618 klippy=ready idle=Ready state=idle step=0/0 chamber=409.5 target=0.0 sp=0.0 pow=0.00 hs=37.2 picpu=47.2 mcuexp=45.8 mcumenu=37.9 peak=0.0 coil=0.0
+1781503621 klippy=ready idle=Ready state=idle step=0/0 chamber=408.4 target=0.0 sp=0.0 pow=0.00 hs=37.3 picpu=47.2 mcuexp=45.9 mcumenu=37.7 peak=0.0 coil=0.0
+1781503623 klippy=ready idle=Ready state=idle step=0/0 chamber=407.0 target=0.0 sp=0.0 pow=0.00 hs=37.2 picpu=47.2 mcuexp=45.9 mcumenu=38.0 peak=0.0 coil=0.0
+1781503625 klippy=ready idle=Ready state=idle step=0/0 chamber=405.6 target=0.0 sp=0.0 pow=0.00 hs=37.2 picpu=47.2 mcuexp=45.9 mcumenu=38.0 peak=0.0 coil=0.0
+1781503628 klippy=ready idle=Ready state=idle step=0/0 chamber=404.2 target=0.0 sp=0.0 pow=0.00 hs=37.3 picpu=47.2 mcuexp=46.0 mcumenu=37.4 peak=0.0 coil=0.0
